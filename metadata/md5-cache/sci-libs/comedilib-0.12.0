@@ -1,0 +1,12 @@
+DEFINED_PHASES=setup
+DESCRIPTION=The Linux Control and Measurement Device Interface Library
+EAPI=7
+HOMEPAGE=https://www.comedi.org/ https://github.com/Linux-Comedi/comedilib
+INHERIT=linux-info
+IUSE=kernel_linux
+KEYWORDS=~amd64 ~x86
+LICENSE=LGPL-2.1
+SLOT=0
+SRC_URI=https://comedi.org/download/comedilib-0.12.0.tar.gz
+_eclasses_=toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	linux-info	30ded7f9adbdd03d3e848cdd74f6c395
+_md5_=25886727c6f640d7d03bff5728dbb0f7

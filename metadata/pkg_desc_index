@@ -1,0 +1,548 @@
+dev-perl/Lab-VISA 3.20: Perl interface to National Instrument's VISA library
+dev-python/PyVISA 1.11.3: Python VISA bindings for GPIB, RS232, and USB instruments
+dev-python/PyVISA-py 0.5.1: Python VISA bindings for GPIB, RS232, and USB instruments
+dev-python/PyVISA-sim 0.4.0: Simulated backend for PyVISA implementing TCPIP, GPIB, RS232, and USB resources
+dev-python/gpib-ctypes 0.3.0: Cross-platform Python bindings for the NI GPIB and linux-gpib C interfaces
+dev-python/sphinxcontrib-apidoc 0.3.0: A Sphinx extension for running 'sphinx-apidoc' on each build
+dev-python/stringparser 0.5: Easy to use pattern matching and information extraction
+sci-libs/comedi_calibrate 5.1: COMEDI calibration utility
+sci-libs/comedilib 0.12.0: The Linux Control and Measurement Device Interface Library
+sci-libs/uldaq 1.2.0: MCC Universal Library for Linux
+sci-ni/labview_2014_rte 14.0.1-r2 14.0.1-r4: LabVIEW Run-Time Engine
+sci-ni/labview_2015_rte 15.0.1-r8: LabVIEW Run-Time Engine
+sci-ni/labview_2017_rte 17.0.1-r4: LabVIEW Run-Time Engine
+sci-ni/labview_2018_appbuild 18.0.0-r1 18.0.1-r1: LabVIEW Run-Time Application Builder
+sci-ni/labview_2018_core 18.0.0-r1 18.0.1-r1: LabVIEW Application and VI Library
+sci-ni/labview_2018_desktop 18.0.0-r1 18.0.1-r1: LabVIEW KDE and GNOME desktop support
+sci-ni/labview_2018_examples 18.0.0-r1 18.0.1-r1: LabVIEW VI Examples
+sci-ni/labview_2018_exe 18.0.0-r1 18.0.1-r1: LabVIEW Executables
+sci-ni/labview_2018_help 18.0.0-r1 18.0.1-r1: LabVIEW On-line Reference Manual
+sci-ni/labview_2018_pro 18.0.0-r1 18.0.1-r1: LabVIEW Professional Developers Tools
+sci-ni/labview_2018_ref 18.0.0-r1 18.0.1-r1: LabVIEW Manuals in Adobe Acrobat (.pdf) format
+sci-ni/labview_2018_rte 18.0.0-r1 18.0.1-r1: LabVIEW Run-Time Engine
+sci-ni/labview_2019_appbuild 19.0.0-r1: LabVIEW Run-Time Application Builder
+sci-ni/labview_2019_core 19.0.0-r1: LabVIEW Application and VI Library
+sci-ni/labview_2019_desktop 19.0.0-r1: LabVIEW KDE and GNOME desktop support
+sci-ni/labview_2019_examples 19.0.0-r1: LabVIEW VI Examples
+sci-ni/labview_2019_exe 19.0.0-r1: LabVIEW Executables
+sci-ni/labview_2019_help 19.0.0-r1: LabVIEW On-line Reference Manual
+sci-ni/labview_2019_pro 19.0.0-r1: LabVIEW Professional Developers Tools
+sci-ni/labview_2019_ref 19.0.0-r1: LabVIEW Manuals in Adobe Acrobat (.pdf) format
+sci-ni/labview_2019_rte 19.0.0-r1 19.0.0-r2 19.0.1-r3: LabVIEW Run-Time Engine
+sci-ni/labview_2020_appbuild 20.0.0-r1: LabVIEW Run-Time Application Builder
+sci-ni/labview_2020_core 20.0.0-r1: LabVIEW Application and VI Library
+sci-ni/labview_2020_desktop 20.0.0-r1: LabVIEW KDE and GNOME desktop support
+sci-ni/labview_2020_examples 20.0.0-r1: LabVIEW VI Examples
+sci-ni/labview_2020_exe 20.0.0-r1: LabVIEW Executables
+sci-ni/labview_2020_help 20.0.0-r1: LabVIEW On-line Reference Manual
+sci-ni/labview_2020_pro 20.0.0-r1: LabVIEW Professional Developers Tools
+sci-ni/labview_2020_ref 20.0.0-r1: LabVIEW Manuals in Adobe Acrobat (.pdf) format
+sci-ni/labview_2020_rte 20.0.0-r1: LabVIEW Run-Time Engine
+sci-ni/libiotracelog 18.1.0.49153-r0 19.0.0.49152-r0 20.0.0.49152-r0: NI I/O Trace Support Library
+sci-ni/libivivisa0 7.0.0-r1: VISA API library with support for multiple vendor implementations
+sci-ni/libivivisa0_devel 7.0.0-r1: Provides files needed to develop applications that use the libivivisa0 library
+sci-ni/libivivisa_confmgr0 7.0.0-r1: API library to discover vendor VISA implementations and manage user preferences
+sci-ni/libivivisa_utilities0 7.0.0-r1: Provides additional capabilities for the libivivisa0 library
+sci-ni/libni1045tr1 18.0.0.49152-r0 18.0.1.49152-r0 19.0.0.49152-r0 19.5.0.32772-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI PXI-1045 Library
+sci-ni/libni4882 18.0.0.49152-r0 18.0.1.49152-r0 19.1.0.49152-r0 20.0.0.49152-r0: NI-488.2 driver API library package
+sci-ni/libni4882_devel 18.0.0.49152-r0 19.1.0.49152-r0: NI-488.2 application development package
+sci-ni/libniapxipm215 18.0.0.49152-r0 19.1.0.49152-r0 20.0.0.49152-r0 20.5.0.49152-r0: NI PXI Express Peripheral Module Driver
+sci-ni/libnicmm1 18.0.0.49152-r0 18.0.1.49152-r0 19.0.0.49152-r0 19.5.0.32772-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI PXI Chassis Monitoring Module Library
+sci-ni/libnicntdrv1 18.0.0.49152-r0 18.0.1.49152-r0 18.1.0.49152-r0 18.1.1.49152-r0 19.0.0.49152-r0 19.5.0.32782-r0 19.5.0.49152-r0 20.0.0.49152-r0 20.5.0.49152-r0: NI Controller Driver Libraries
+sci-ni/libnicpcie1 19.5.0.32777-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI Cabled PCIe Libraries
+sci-ni/libnidaqmx 18.1.0.49155-r0 19.1.0.49154-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx C Runtime Support
+sci-ni/libnidaqmx_devel 18.1.0.49155-r0 19.1.0.49154-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI DAQmx C API Header
+sci-ni/libnidaqmx_doc 18.1.0.49155-r0 19.1.0.49154-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI DAQmx ANSI C Documentation (English)
+sci-ni/libnidaqmx_labview 18.1.0.49152-r0 19.1.0.49154-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx LabVIEW API library
+sci-ni/libnidimu1 18.2.0.49154-r0 18.2.1.49152-r0 18.2.2.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI-DIM User Library
+sci-ni/libnidrumc1 19.0.1.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI-DRUM
+sci-ni/libnidrumc1_bin 19.0.1.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI-DRUM Drivers
+sci-ni/libniflexrioapi 20.1.0.49152-r0: NI FlexRIO API
+sci-ni/libniflexrioapi_devel 20.1.0.49152-r0: NI FlexRIO API C Development Support
+sci-ni/libnimru2u2 18.2.0.49154-r0 18.2.1.49152-r0 18.2.2.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI-MRU User Library
+sci-ni/libnimxi1 18.0.0.49152-r0 18.0.1.49152-r0 18.1.0.49152-r0 18.1.1.49152-r0 19.0.0.49152-r0 19.5.0.32772-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI MXI Library
+sci-ni/libnimximgr1 18.0.0.49152-r0 18.1.0.49152-r0 19.0.0.49152-r0 19.5.0.32786-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI MXI Manager Runtime Library
+sci-ni/libnimximgr1_data 18.0.0.49152-r0 18.1.0.49152-r0 19.0.0.49152-r0 19.5.0.32786-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI MXI Manager Data
+sci-ni/libnimximgr1_errors 18.0.0.49152-r0 18.1.0.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0: NI MXI Manager Errors
+sci-ni/libnip2p1 18.2.0.49152-r0 18.2.1.49152-r0 19.0.0.49152-r0 20.0.0.49152-r0: NI Peer-to-Peer(P2P) Streaming User Library
+sci-ni/libnipcibrd1 18.0.0.49152-r0 19.1.0.49152-r0 19.5.0.32777-r0 19.5.0.49152-r0 20.0.0.49152-r0 20.5.0.49152-r0: NI PCI Bridge Driver Libraries
+sci-ni/libnipcibrd1_bin 18.0.0.49152-r0 19.1.0.49152-r0 19.5.0.32777-r0 19.5.0.49152-r0 20.0.0.49152-r0 20.5.0.49152-r0: NI PCI Bridge Driver Binaries
+sci-ni/libnipcibrd1_errors 18.0.0.49152-r0 19.1.0.49152-r0 19.5.0.32777-r0 19.5.0.49152-r0 20.0.0.49152-r0 20.5.0.49152-r0: NI PCI Bridge Driver Errors
+sci-ni/libnipxices1 18.0.0.49152-r0 18.0.1.49152-r0 19.1.0.49152-r0 19.5.0.32776-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI PXI Composite Express Support Library
+sci-ni/libnipxicid1 18.0.0.49152-r0 18.0.1.49152-r0 18.1.0.49152-r0 18.1.1.49152-r0 19.1.0.49152-r0 19.5.0.32782-r0 19.5.0.49152-r0 20.0.0.49152-r0 20.5.0.49152-r0: NI PXI Chassis Intellect Driver Library
+sci-ni/libnipxiepmu15 17.0.0.49155-r0 18.0.0.49152-r0 18.1.0.49152-r0 19.1.0.49152-r0 19.5.0.32794-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI PXI Express Peripheral Module Driver
+sci-ni/libnipxigp15 18.0.0.49152-r0 18.0.1.49152-r0 19.0.0.49152-r0 19.5.0.32794-r0 19.5.0.49152-r0 20.0.0.49152-r0 20.5.0.49152-r0: NI PXI Generic Pilot Library
+sci-ni/libnipxirm1 18.0.0.49152-r0 18.0.1.49152-r0 19.1.0.49152-r0 19.5.0.32794-r0 19.5.0.49152-r0 20.0.0.49152-r0 20.5.0.49152-r0: NI PXI Resource Manager Library
+sci-ni/libnipxisvc2 17.0.0.49155-r0 18.0.0.49152-r0 18.0.1.49152-r0 19.1.0.49152-r0 19.5.0.32794-r0 19.5.0.49152-r0 20.0.0.49152-r0 20.5.0.49152-r0: NI PXI Resource Manager Service
+sci-ni/libniqpxi1 18.0.0.49152-r0 18.1.0.49152-r0 19.1.0.49152-r0 19.5.0.32787-r0 19.5.0.49152-r0 20.0.0.49152-r0 20.5.0.49152-r0: Library for querying PXI information
+sci-ni/libnirocoapi1 18.2.0.49153-r0 18.2.1.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.2.0.49152-r0: NI Routing Coordinator API Library
+sci-ni/libnismbus2 18.0.0.49152-r0 18.0.1.49152-r0 18.1.0.49152-r0 18.1.1.49152-r0 19.0.0.49152-r0 19.5.0.32792-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI SMBus Libraries
+sci-ni/libnismbus2_bin 18.1.0.49152-r0 18.1.1.49152-r0 19.0.0.49152-r0 19.5.0.32792-r0 19.5.0.49152-r0: NI SMBus Support Binaries
+sci-ni/libnismbus2_errors 18.0.0.49152-r0 19.0.0.49152-r0: NI SMBus Errors
+sci-ni/libnisync1 18.1.0.49153-r0 18.1.0.49155-r0 20.1.0.49152-r0: NI timing and synchronization shared library
+sci-ni/libnisync1_devel 18.1.0.49153-r0 18.1.0.49155-r0: NI timing and synchronization shared library development support
+sci-ni/libnisync_lvprovider1 18.1.0.49152-r0 20.1.0.49152-r0: NI-Sync resource name control provider library for LabVIEW
+sci-ni/libnixlator1 20.0.0.49152-r0: NI error message translation and localization library (infrastructure)
+sci-ni/libnixnet 19.5.0.32776-r0: NI-XNET API library
+sci-ni/libnixnet_bin 19.5.0.32776-r0: NI-XNET API library resources
+sci-ni/libnixnet_devel 19.5.0.32776-r0: NI-XNET support for C
+sci-ni/libnixnet_labview 19.5.0.32776-r0: NI-XNET LabVIEW API Library
+sci-ni/libusb_ni1 19.0.0.49152-r0 20.0.0.49152-r0: NI-LIBUSB
+sci-ni/libvisa 18.2.0.49152-r0 18.2.0.49153-r0 19.2.0.49152-r0 20.0.0.49152-r0: Provides the library to run applications that use NI-VISA
+sci-ni/libvisa_data 18.2.0.49152-r0 18.2.0.49153-r0 19.2.0.49152-r0 20.0.0.49152-r0: NI-VISA instrument driver runtime library (common files)
+sci-ni/lvsupport2018_cdsim 18.0.0-r0: LabVIEW 2018 Control Design and Simulation Module 64-bit
+sci-ni/lvsupport2018_cdsimmathscript 18.0.0-r0: LabVIEW 2018 Control Design and Simulation Module MathScript Support 64-bit
+sci-ni/lvsupport2018_mathscriptrt 18.0.0-r0: LabVIEW 2018 64-bit MathScript RT Module
+sci-ni/lvsupport2018_vianalyzer 18.0.0-r0: NI LabVIEW 2018 VI Analyzer Toolkit 64-bit
+sci-ni/lvsupport2019_cdsim 19.0.0-r0: LabVIEW 2019 Control Design and Simulation Module 64-bit
+sci-ni/lvsupport2019_cdsimmathscript 19.0.0-r0: LabVIEW 2019 Control Design and Simulation Module MathScript Support 64-bit
+sci-ni/lvsupport2019_mathscriptrt 19.0.0-r0: LabVIEW 2019 64-bit MathScript RT Module
+sci-ni/lvsupport2019_vianalyzer 19.0.0-r0: NI LabVIEW 2019 VI Analyzer Toolkit 64-bit
+sci-ni/lvsupport2020_cdsim 20.0.0-r0: LabVIEW 2020 Control Design and Simulation Module 64-bit
+sci-ni/lvsupport2020_cdsimmathscript 20.0.0-r0: LabVIEW 2020 Control Design and Simulation Module MathScript Support 64-bit
+sci-ni/lvsupport2020_mathscriptrt 20.0.0-r0: LabVIEW 2020 64-bit MathScript RT Module
+sci-ni/lvsupport2020_vianalyzer 20.0.0-r0: NI LabVIEW 2020 VI Analyzer Toolkit 64-bit
+sci-ni/ni4882i 15.1.0-r0 17.0.0-r0: NI-488.2 Driver Software
+sci-ni/ni4882ki 15.1.0-r0 17.0.0-r0: NI-488.2 Kernel-Mode Driver Software
+sci-ni/ni_4882 18.0.0.49152-r0 19.1.0.49152-r0 20.0.0.49152-r0: Driver for National Instruments GPIB hardware (metapackage)
+sci-ni/ni_4882_config 18.0.0.49152-r0 18.0.1.49152-r0 19.1.0.49152-r0 20.0.0.49152-r0: NI-488.2 configuration infrastructure package
+sci-ni/ni_4882_dkms 18.0.0.49152-r0 18.0.1.49152-r0 19.1.0.49152-r0 20.0.0.49152-r0: NI-488.2 Dynamic Kernel Module Support package
+sci-ni/ni_4882_documentation 18.0.0.49152-r0 19.1.0.49152-r0: NI-488.2 documentation package
+sci-ni/ni_4882_enetfirmwareupdate 18.0.0.49152-r0: NI GPIB-ENET/100 firmware update utility package
+sci-ni/ni_4882_errors 18.0.0.49152-r0 18.0.1.49152-r0 19.1.0.49152-r0 20.0.0.49152-r0: NI-488.2 error descriptions package
+sci-ni/ni_4882_gpibenumsvc 18.0.0.49152-r0 18.0.1.49152-r0 19.1.0.49152-r0 20.0.0.49152-r0: NI-488.2 hardware enumeration service package
+sci-ni/ni_4882_gpibexplorer 18.0.0.49152-r0 19.1.0.49152-r0: NI-488.2 GPIB explorer utility package
+sci-ni/ni_4882_gpibintctrl 18.0.0.49152-r0 19.1.0.49152-r0: NI-488.2 interactive control utility package
+sci-ni/ni_4882_gpibtroubleshooting 18.0.0.49152-r0 19.1.0.49152-r0: NI-488.2 software and hardware troubleshooting utility package
+sci-ni/ni_4882_iotrace_support 18.0.0.49152-r0 19.1.0.49152-r0: NI IO Trace support package
+sci-ni/ni_4882_runtime 18.0.0.49152-r0 18.0.1.49152-r0 19.1.0.49152-r0 20.0.0.49152-r0: NI-488.2 Runtime for Linux (metapackage)
+sci-ni/ni_4882_sysapi_support 18.0.0.49152-r0 18.0.1.49152-r0 19.1.0.49152-r0 20.0.0.49152-r0: NI-488.2 system API support package
+sci-ni/ni_4882_utils 18.0.0.49152-r0 19.1.0.49152-r0: NI-488.2 Configuration Utilities for Linux (metapackage)
+sci-ni/ni_5110 18.7.0.49152-r0 18.7.1.49152-r0 19.0.1.49152-r0 20.1.0.49152-r0: NI 5110 Device Support
+sci-ni/ni_5110_dkms 18.7.0.49152-r0 18.7.1.49152-r0 19.0.1.49152-r0 20.1.0.49152-r0: NI 5110 Device Driver
+sci-ni/ni_5110_libs 18.7.0.49152-r0 18.7.1.49152-r0 19.0.1.49152-r0 20.1.0.49152-r0: NI 5110 Device Libraries
+sci-ni/ni_5164 18.4.0.49153-r0 18.4.1.49152-r0 19.0.1.49152-r0 20.0.0.49152-r0: NI 5164 Device Support
+sci-ni/ni_5164_dkms 18.4.0.49153-r0 18.4.1.49152-r0 19.0.1.49152-r0 20.0.0.49152-r0: NI 5164 Device Driver
+sci-ni/ni_5164_libs 18.4.0.49153-r0 18.4.1.49152-r0 19.0.1.49152-r0 20.0.0.49152-r0: NI 5164 Device Libraries
+sci-ni/ni_5170 18.4.0.49152-r0 18.4.1.49152-r0 19.0.1.49152-r0 20.0.0.49152-r0: NI 5170 Device Support
+sci-ni/ni_5170_dkms 18.4.0.49152-r0 18.4.1.49152-r0 19.0.1.49152-r0 20.0.0.49152-r0: NI 5170 Device Driver
+sci-ni/ni_5170_libs 18.4.0.49152-r0 18.4.1.49152-r0 19.0.1.49152-r0 20.0.0.49152-r0: NI 5170 Device Libraries
+sci-ni/ni_apal_errors 17.0.0.49152-r0 18.2.0.49152-r0 19.0.0.49152-r0: Device driver error code descriptions
+sci-ni/ni_avahi_client 18.1.0.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI Avahi Client
+sci-ni/ni_bds 18.2.0.49152-r0 18.2.1.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI Bus Driver Support (BDS)
+sci-ni/ni_bds_dkms 18.2.0.49152-r0 18.2.1.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI Bus Driver Support (BDS) kernel module
+sci-ni/ni_controllerdriver 18.0.0.49152-r0 18.1.0.49152-r0 19.1.0.49152-r0 19.5.0.32790-r0 19.5.0.49152-r0 20.0.0.49152-r0 20.5.0.49152-r0: NI Controller Driver (metapackage)
+sci-ni/ni_controllerdriver_devel 19.1.0.49152-r0 20.5.0.49152-r0: Development files for NI Controller Driver
+sci-ni/ni_controllerdriver_errors 18.0.0.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0: NI Controller Driver Errors
+sci-ni/ni_controllerdriver_labview_2018_support 19.1.0.49152-r0 20.5.0.49152-r0: NI Controller Driver LabVIEW 2018 Support
+sci-ni/ni_controllerdriver_labview_2019_support 19.1.0.49152-r0 20.5.0.49152-r0: NI Controller Driver LabVIEW 2019 Support
+sci-ni/ni_controllerdriver_labview_2020_support 20.5.0.49152-r0: NI Controller Driver LabVIEW 2020 Support
+sci-ni/ni_controllerdriver_libs 18.0.0.49152-r0 18.1.0.49152-r0 19.1.0.49152-r0 19.5.0.32790-r0 19.5.0.49152-r0 20.0.0.49152-r0 20.5.0.49152-r0: NI Controller Driver Libraries
+sci-ni/ni_daqmx 18.1.0.49153-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49155-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx
+sci-ni/ni_daqmx_1950 19.5.0.49152-r0: National Instruments NI-DAQmx 19.5.0 repository enablement
+sci-ni/ni_daqmx_dsa 18.1.0.49155-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49153-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx DSA support
+sci-ni/ni_daqmx_dsa_libs 18.1.0.49155-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49153-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx DSA libraries
+sci-ni/ni_daqmx_ef 18.1.0.49152-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49153-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx Expert Framework
+sci-ni/ni_daqmx_errors 18.1.0.49152-r0 19.1.0.49152-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx error code descriptions
+sci-ni/ni_daqmx_fsl_libs 19.1.0.49153-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI-DAQmx FSL libraries
+sci-ni/ni_daqmx_labview_2016_support 18.1.0.49152-r0: NI-DAQmx support for LabVIEW 2016 64-bit
+sci-ni/ni_daqmx_labview_2017_support 18.1.0.49152-r0 19.1.0.49154-r0 19.5.0.49152-r0: NI-DAQmx support for LabVIEW 2017 64-bit
+sci-ni/ni_daqmx_labview_2018_support 18.1.0.49152-r0 19.1.0.49154-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx support for LabVIEW 2018 64-bit
+sci-ni/ni_daqmx_labview_2019_support 19.1.0.49154-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx support for LabVIEW 2019 64-bit
+sci-ni/ni_daqmx_labview_2020_support 20.1.0.49152-r0: NI-DAQmx support for LabVIEW 2020 64-bit
+sci-ni/ni_daqmx_libs 18.1.0.49152-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49153-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx Expert Framework libraries
+sci-ni/ni_daqmx_mio 18.1.0.49155-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49154-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx Multifunction DAQ driver stack
+sci-ni/ni_daqmx_mio_libs 18.1.0.49155-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49154-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx Multifunction DAQ driver stack libraries
+sci-ni/ni_daqmx_nicartenum_dkms 19.1.0.49154-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx nicartenum kernel module
+sci-ni/ni_daqmx_nicdcc_dkms 18.1.0.49155-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49154-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx nicdcc kernel module
+sci-ni/ni_daqmx_nicdr_dkms 18.1.0.49155-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49154-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx nicdr kernel module
+sci-ni/ni_daqmx_nichenum_dkms 19.1.0.49153-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx nichenum kernel module
+sci-ni/ni_daqmx_nicmr_dkms 18.1.0.49155-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49154-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx nicmr kernel module
+sci-ni/ni_daqmx_nicondr_dkms 18.1.0.49155-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49154-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx nicondr kernel module
+sci-ni/ni_daqmx_nicsr_dkms 19.1.0.49154-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx nicsr kernel module
+sci-ni/ni_daqmx_nidmxf_dkms 18.1.0.49152-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49153-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx nidmxf kernel module
+sci-ni/ni_daqmx_nidsar_dkms 18.1.0.49155-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49153-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx nidsar kernel module
+sci-ni/ni_daqmx_niesr_dkms 18.1.0.49155-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49154-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx niesr kernel module
+sci-ni/ni_daqmx_nifdr_dkms 19.1.0.49154-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx nifdr kernel module
+sci-ni/ni_daqmx_nifresnelmbdc_dkms 19.1.0.49154-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx nifresnelmbdc kernel module
+sci-ni/ni_daqmx_nifsl_dkms 18.1.0.49155-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49153-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI-DAQmx nifsl kernel module
+sci-ni/ni_daqmx_nihorbr_dkms 18.1.0.49155-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49154-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx nihorbr kernel module
+sci-ni/ni_daqmx_nilms_dkms 18.1.0.49152-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49153-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx nilms kernel module
+sci-ni/ni_daqmx_nimsdr_dkms 18.1.0.49152-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49153-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx nimsdr kernel module
+sci-ni/ni_daqmx_niraptr_dkms 18.1.0.49155-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49154-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx niraptr kernel module
+sci-ni/ni_daqmx_niscd_dkms 18.1.0.49155-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49153-r0 20.0.0.49152-r0: NI-DAQmx niscd kernel module
+sci-ni/ni_daqmx_nisdig_dkms 18.1.0.49155-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49154-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx nisdig kernel module
+sci-ni/ni_daqmx_nissr_dkms 18.1.0.49155-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49154-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx nissr kernel module
+sci-ni/ni_daqmx_nistc2_dkms 18.1.0.49155-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49154-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx nistc2 kernel module
+sci-ni/ni_daqmx_nistc3r_dkms 18.1.0.49155-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49154-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx nistc3r kernel module
+sci-ni/ni_daqmx_nistcr_dkms 18.1.0.49155-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49154-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx nistcr kernel module
+sci-ni/ni_daqmx_nitior_dkms 18.1.0.49155-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49154-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx nitior kernel module
+sci-ni/ni_daqmx_niwfr_dkms 18.1.0.49155-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49154-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx niwfr kernel module
+sci-ni/ni_daqmx_nixsr_dkms 18.1.0.49155-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49154-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx nixsr kernel module
+sci-ni/ni_daqmx_notices 18.1.0.49152-r0 18.1.1.49152-r0 19.1.0.49152-r0 19.5.0.49152-r0 20.1.0.49152-r0: NI-DAQmx Legal Notices
+sci-ni/ni_daqmx_scxi_libs 18.1.0.49155-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49153-r0 20.0.0.49152-r0: NI-DAQmx Signal Conditioning libraries
+sci-ni/ni_daqmx_switch 18.1.0.49152-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49153-r0 20.0.0.49152-r0: NI-DAQmx Switch Device Support
+sci-ni/ni_daqmx_switch_dkms 18.1.0.49152-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49153-r0 20.0.0.49152-r0: NI-DAQmx Switch Device Driver
+sci-ni/ni_daqmx_switch_libs 18.1.0.49152-r0 18.1.1.49152-r0 18.1.1.49153-r0 19.1.0.49153-r0 20.0.0.49152-r0: NI-DAQmx Switch Device Libraries
+sci-ni/ni_dcpower 20.1.0.49152-r0: NI-DCPower Runtime (metapackage)
+sci-ni/ni_dcpower_4147_dkms 20.1.0.49152-r0: NI-DCPower 4147 Device Driver
+sci-ni/ni_dcpower_416x 20.1.0.49152-r0: NI-DCPower 416x Device Support
+sci-ni/ni_dcpower_416x_dkms 20.1.0.49152-r0: NI-DCPower 416x Device Driver
+sci-ni/ni_dcpower_416x_libs 20.1.0.49152-r0: NI-DCPower 416x Device Libraries
+sci-ni/ni_dcpower_daqmx 20.1.0.49152-r0: NI-DCPowermx Device Support
+sci-ni/ni_dcpower_daqmx_dkms 20.1.0.49152-r0: NI-DCPowermx Device Driver
+sci-ni/ni_dcpower_daqmx_libs 20.1.0.49152-r0: NI-DCPowermx Device Libraries
+sci-ni/ni_dcpower_devel 20.1.0.49152-r0: NI-DCPower C Development Support
+sci-ni/ni_dcpower_docs 20.1.0.49152-r0: NI-DCPower Documentation
+sci-ni/ni_dcpower_errors 20.1.0.49152-r0: NI-DCPower Error Code Descriptions
+sci-ni/ni_dcpower_labview_2018_support 20.1.0.49152-r0: NI-DCPower LabVIEW 2018 Development Support
+sci-ni/ni_dcpower_labview_2019_support 20.1.0.49152-r0: NI-DCPower LabVIEW 2019 Development Support
+sci-ni/ni_dcpower_labview_2020_support 20.1.0.49152-r0: NI-DCPower LabVIEW 2020 Development Support
+sci-ni/ni_dcpower_libs 20.1.0.49152-r0: NI-DCPower Runtime
+sci-ni/ni_dcpower_notices 20.1.0.49152-r0: NI-DCPower Legal Notices
+sci-ni/ni_dim 18.2.0.49154-r0 18.2.1.49152-r0 18.2.2.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI Device Interconnect Manager (metapackage)
+sci-ni/ni_dim_dkms 18.2.0.49154-r0 18.2.1.49152-r0 18.2.2.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI-DIM Kernel Module
+sci-ni/ni_dim_libs 18.2.0.49154-r0 18.2.1.49152-r0 18.2.2.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI-DIM Library
+sci-ni/ni_dim_sysapi 18.2.0.49154-r0 18.2.1.49152-r0 18.2.2.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI-DIM Sysapi Support
+sci-ni/ni_dmm 18.2.0.49153-r0 18.2.1.49152-r0 20.1.0.49152-r0: NI-DMM Runtime (metapackage)
+sci-ni/ni_dmm_408x 18.2.0.49152-r0 18.2.1.49152-r0 20.1.0.49152-r0: NI-DMM 408x Device Support
+sci-ni/ni_dmm_408x_dkms 18.2.0.49152-r0 18.2.1.49152-r0 20.1.0.49152-r0: NI-DMM 408x Device Driver
+sci-ni/ni_dmm_408x_libs 18.2.0.49152-r0 18.2.1.49152-r0 20.1.0.49152-r0: NI-DMM 408x Device Libraries
+sci-ni/ni_dmm_daqmx 18.2.0.49153-r0 18.2.1.49152-r0 20.1.0.49152-r0: NI-DMM mx Device Support
+sci-ni/ni_dmm_daqmx_dkms 18.2.0.49153-r0 18.2.1.49152-r0 20.1.0.49152-r0: NI-DMM mx Device Driver
+sci-ni/ni_dmm_daqmx_libs 18.2.0.49153-r0 18.2.1.49152-r0 20.1.0.49152-r0: NI-DMM mx Device Libraries
+sci-ni/ni_dmm_devel 18.2.0.49153-r0 18.2.1.49152-r0 20.1.0.49152-r0: NI-DMM C Development Support
+sci-ni/ni_dmm_docs 18.2.0.49153-r0 18.2.1.49152-r0 20.1.0.49152-r0: NI-DMM Documentation
+sci-ni/ni_dmm_errors 18.2.0.49152-r0 18.2.1.49152-r0 20.1.0.49152-r0: NI-DMM Error Code Descriptions
+sci-ni/ni_dmm_labview_2015_support 18.2.0.49153-r0 18.2.1.49152-r0: NI-DMM LabVIEW 2015 Development Support
+sci-ni/ni_dmm_labview_2016_support 18.2.0.49153-r0 18.2.1.49152-r0: NI-DMM LabVIEW 2016 Development Support
+sci-ni/ni_dmm_labview_2017_support 18.2.0.49153-r0 18.2.1.49152-r0: NI-DMM LabVIEW 2017 Development Support
+sci-ni/ni_dmm_labview_2018_support 18.2.0.49153-r0 18.2.1.49152-r0 20.1.0.49152-r0: NI-DMM LabVIEW 2018 Development Support
+sci-ni/ni_dmm_labview_2019_support 20.1.0.49152-r0: NI-DMM LabVIEW 2019 Development Support
+sci-ni/ni_dmm_labview_2020_support 20.1.0.49152-r0: NI-DMM LabVIEW 2020 Development Support
+sci-ni/ni_dmm_libs 18.2.0.49152-r0 18.2.1.49152-r0 20.1.0.49152-r0: NI-DMM Runtime
+sci-ni/ni_dmm_notices 18.2.0.49152-r0 18.2.1.49152-r0 20.1.0.49152-r0: NI-DMM Legal Notices
+sci-ni/ni_euladepot 18.2.0.49152-r0 18.2.1.49152-r0 20.1.0.49152-r0 20.5.0.49152-r0: End User License Agreement documents
+sci-ni/ni_flexrio 18.1.0.49152-r0 20.1.0.49152-r0: NI FlexRIO Support (metapackage)
+sci-ni/ni_flexrio_795x 18.1.0.49152-r0 18.1.1.49154-r0 20.1.0.49152-r0: Support for NI FlexRIO PXI-795x devices
+sci-ni/ni_flexrio_795x_dkms 18.1.0.49152-r0 18.1.1.49154-r0 20.1.0.49152-r0: Kernel driver for NI FlexRIO PXI-795x devices
+sci-ni/ni_flexrio_796x 18.1.0.49152-r0 18.1.1.49154-r0 20.1.0.49152-r0: NI FlexRIO Support for PXIe-796x devices
+sci-ni/ni_flexrio_796x_dkms 18.1.0.49152-r0 18.1.1.49154-r0 20.1.0.49152-r0: Kernel driver for NI FlexRIO PXIe-796x devices
+sci-ni/ni_flexrio_797x 18.1.0.49152-r0 18.1.1.49153-r0 20.1.0.49152-r0: Support for NI FlexRIO PXIe-797x devices
+sci-ni/ni_flexrio_797x_dkms 18.1.0.49152-r0 18.1.1.49153-r0 20.1.0.49152-r0: Kernel driver for NI FlexRIO PXIe-797x devices
+sci-ni/ni_flexrio_797x_libs 18.1.0.49152-r0 18.1.1.49153-r0 20.1.0.49152-r0: Libraries for NI FlexRIO PXIe-797x devices
+sci-ni/ni_flexrio_798x 20.1.0.49152-r0: Support for NI FlexRIO PXIe-798x devices (metapackage)
+sci-ni/ni_flexrio_798x_dkms 20.1.0.49152-r0: Kernel driver for NI FlexRIO PXIe-798x devices
+sci-ni/ni_flexrio_798x_libs 20.1.0.49152-r0: Libraries for NI FlexRIO PXIe-798x devices
+sci-ni/ni_flexrio_docs 18.1.0.49152-r0 20.1.0.49152-r0: NI FlexRIO documentation
+sci-ni/ni_flexrio_errors 18.1.0.49152-r0 20.1.0.49152-r0: NI FlexRIO Error Codes
+sci-ni/ni_flexrio_integratedio_libs 20.1.0.49152-r0: Libraries for NI FlexRIO with Integrated IO
+sci-ni/ni_flexrio_modulario_libs 18.1.0.49152-r0 20.1.0.49152-r0: Libraries for NI FlexRIO with Modular IO
+sci-ni/ni_fpga_interface 18.1.0.49152-r0 19.0.0.49152-r0 20.0.1.49152-r0: FPGA Interface C API
+sci-ni/ni_icp 18.0.0.49152-r0 19.0.0.49152-r0: NI IVI Compliance Package Linux Support
+sci-ni/ni_icp_devel 18.0.0.49152-r0 19.0.0.49152-r0: NI ICP Headers
+sci-ni/ni_icp_errors 18.0.0.49152-r0 19.0.0.49152-r0: NI ICP Errors
+sci-ni/ni_icp_libs 18.0.0.49152-r0 19.0.0.49152-r0: NI ICP Libraries
+sci-ni/ni_icp_notices 18.0.0.49152-r0 19.0.0.49152-r0: NI ICP Legal Notices
+sci-ni/ni_iotrace 18.1.0.49153-r0 19.0.0.49152-r0 20.0.0.49152-r0: NI I/O Trace Debugging Tool
+sci-ni/ni_kal 17.0.0.49152-r0 18.2.0.49152-r0 19.2.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0: National Instruments kernel abstraction layer
+sci-ni/ni_mdbg 17.0.0.49152-r0 18.2.0.49153-r0 18.2.3.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49154-r0: NI Driver Framework Debug Support Library
+sci-ni/ni_mdbg_dkms 18.2.0.49153-r0 18.2.3.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49154-r0: NI Driver Framework Debug Support Kernel Module
+sci-ni/ni_mdbg_errors 17.0.0.49152-r0 18.2.0.49153-r0 18.2.3.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49154-r0: NI-MDBG-based driver error code descriptions
+sci-ni/ni_mdbg_nikalmod 17.0.0.49152-r0: NI Driver Framework Debug Support Kernel Module
+sci-ni/ni_mru 18.2.0.49154-r0 18.2.1.49152-r0 18.2.2.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI MX Routing Utility
+sci-ni/ni_mru_dkms 18.2.0.49154-r0 18.2.1.49152-r0 18.2.2.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI-MRU Kernel Module
+sci-ni/ni_mxdf 17.0.0.49152-r0 18.2.0.49153-r0 18.2.3.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49153-r0: NI MX Driver Framework Library
+sci-ni/ni_mxdf_dkms 18.2.0.49153-r0 18.2.3.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49153-r0: NI MX Driver Framework Kernel Module
+sci-ni/ni_mxdf_errors 17.0.0.49152-r0 18.2.0.49153-r0 18.2.3.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49153-r0: NI-MXDF-based driver error code descriptions
+sci-ni/ni_mxdf_nikalmod 17.0.0.49152-r0: NI MX Driver Framework Kernel Module
+sci-ni/ni_mximanager 18.0.0.49152-r0 18.1.0.49152-r0 19.0.0.49152-r0 19.5.0.32786-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI MXI Manager (metapackage)
+sci-ni/ni_mximanager_libs 18.0.0.49152-r0 18.1.0.49152-r0 19.0.0.49152-r0 19.5.0.32786-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI MXI Manager Libraries
+sci-ni/ni_mximanager_nicpciek_dkms 19.5.0.32777-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI Cabled PCIe Driver Kernel Module
+sci-ni/ni_mxl_errors 1.5.1.49152-r0: NI Measurement Translator Error Code Descriptions
+sci-ni/ni_mxs 18.1.0.49153-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI Configuration Manager (MXS)
+sci-ni/ni_networkdiscoverysvc 18.1.0.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI Network Discovery
+sci-ni/ni_orb 17.0.0.49152-r0 18.2.0.49153-r0 18.2.3.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49153-r0: NI Object Request Broker
+sci-ni/ni_orb_dkms 18.2.0.49153-r0 18.2.3.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49153-r0: NI-ORB kernel module
+sci-ni/ni_orb_errors 17.0.0.49152-r0 18.2.0.49153-r0 18.2.3.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49153-r0: NI-ORB-based driver error code descriptions
+sci-ni/ni_orb_nikalmod 17.0.0.49152-r0: NI-ORB kernel module
+sci-ni/ni_orb_tools 18.2.0.49153-r0 18.2.3.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49153-r0: NI-ORB support tools
+sci-ni/ni_p2p 18.2.0.49152-r0 18.2.1.49152-r0 19.0.0.49152-r0 20.0.0.49152-r0: NI Peer-to-Peer(P2P) Streaming (metapackage)
+sci-ni/ni_p2p_devel 18.2.0.49152-r0 18.2.1.49152-r0 19.0.0.49152-r0: NI Peer-to-Peer(P2P) Streaming Development Package
+sci-ni/ni_p2p_dkms 18.2.0.49152-r0 18.2.1.49152-r0 19.0.0.49152-r0 20.0.0.49152-r0: NI Peer-to-Peer(P2P) Streaming Kernel Module
+sci-ni/ni_p2p_errors 18.2.0.49152-r0 18.2.1.49152-r0 19.0.0.49152-r0 20.0.0.49152-r0: NI Peer-to-Peer(P2P) Streaming Error Code Descriptions
+sci-ni/ni_pal 17.0.0.49152-r0 18.2.0.49152-r0 18.2.1.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI Platform Abstraction Layer hardware support library
+sci-ni/ni_pal_dkms 18.2.0.49152-r0 18.2.1.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI-PAL Kernel Module and Utilities
+sci-ni/ni_pal_errors 17.0.0.49152-r0 18.2.0.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI-PAL Error Codes
+sci-ni/ni_pal_nikalmod 17.0.0.49152-r0: NI-PAL Kernel Module and Utilities
+sci-ni/ni_pal_support 18.2.0.49152-r0 18.2.1.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI Platform Abstraction Layer support files
+sci-ni/ni_pxi_tools 20.0.0.49152-r0: NI PXI Common Tools
+sci-ni/ni_pxihw_ni1045_dkms 18.0.0.49152-r0 18.0.1.49152-r0 19.0.0.49152-r0 19.5.0.32772-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI PXI-1045 Kernel Module
+sci-ni/ni_pxihw_nicntdrv_dkms 18.0.0.49152-r0 18.0.1.49152-r0 18.1.0.49152-r0 18.1.1.49152-r0 19.0.0.49152-r0 19.5.0.32782-r0 19.5.0.49152-r0 20.0.0.49152-r0 20.5.0.49152-r0: NI Controller Driver Kernel Module
+sci-ni/ni_pxihw_nimxi_dkms 18.0.0.49152-r0 18.0.1.49152-r0 18.1.0.49152-r0 18.1.1.49152-r0 19.0.0.49152-r0 19.5.0.32772-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI MXI Kernel Module
+sci-ni/ni_pxihw_nipxicid_dkms 18.0.0.49152-r0 18.0.1.49152-r0 18.1.0.49152-r0 18.1.1.49152-r0 19.1.0.49152-r0 19.5.0.32782-r0 19.5.0.49152-r0 20.0.0.49152-r0 20.5.0.49152-r0: NI PXI Chassis Intellect Driver Kernel Module
+sci-ni/ni_pxihw_nipxicmm_dkms 18.0.0.49152-r0 18.0.1.49152-r0 19.0.0.49152-r0 19.5.0.32772-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI PXI Chassis Monitoring Kernel Module
+sci-ni/ni_pxihw_nipxiethernet_dkms 20.0.0.49152-r0: NI PXI Ethernet Module Kernel Module
+sci-ni/ni_pxihw_nipxim2_dkms 18.0.0.49152-r0 18.0.1.49152-r0 19.1.0.49152-r0 19.5.0.32776-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI PXI M.2 Module Kernel Module
+sci-ni/ni_pxihw_nipxiocp_dkms 18.0.0.49152-r0 18.0.1.49152-r0 19.1.0.49152-r0 19.5.0.32776-r0 19.5.0.49152-r0: NI PXI OCP Module Kernel Module
+sci-ni/ni_pxihw_nismbus_dkms 18.0.0.49152-r0 18.0.1.49152-r0 18.1.0.49152-r0 18.1.1.49152-r0 19.0.0.49152-r0 19.5.0.32792-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI SMBus Kernel Module
+sci-ni/ni_pxihw_nismbusw_dkms 18.1.0.49152-r0 18.1.1.49152-r0: NI SMBusw Kernel Module
+sci-ni/ni_pxipf_errors 17.0.0.49152-r0 19.0.0.49152-r0 19.5.0.32769-r0 19.5.0.49152-r0 20.5.0.49152-r0: NI PXI Platform Framework Error Code Descriptions
+sci-ni/ni_pxipf_nipxifp_dkms 18.0.0.49152-r0 18.0.1.49152-r0 19.0.0.49152-r0 19.5.0.32794-r0 19.5.0.49152-r0 20.0.0.49152-r0 20.5.0.49152-r0: NI PXI Forwarding Pilot Kernel Module
+sci-ni/ni_pxipf_nipxigp_dkms 18.0.0.49152-r0 18.0.1.49152-r0 19.0.0.49152-r0 19.5.0.32794-r0 19.5.0.49152-r0 20.0.0.49152-r0 20.5.0.49152-r0: NI PXI Generic Pilot Kernel Module
+sci-ni/ni_pxipf_nipxirm_bin 18.0.0.49152-r0 18.0.1.49152-r0 19.1.0.49152-r0 19.5.0.32794-r0 19.5.0.49152-r0 20.0.0.49152-r0 20.5.0.49152-r0: NI PXI Resource Manager Support Binaries
+sci-ni/ni_pxipf_nipxirm_dkms 18.0.0.49152-r0 18.0.1.49152-r0 19.1.0.49152-r0 19.5.0.32794-r0 19.5.0.49152-r0 20.0.0.49152-r0 20.5.0.49152-r0: NI PXI Resource Manager Kernel Module
+sci-ni/ni_pxiplatformframework 18.0.0.49152-r0 18.1.0.49152-r0 19.1.0.49152-r0 19.5.0.32794-r0 19.5.0.49152-r0 20.0.0.49152-r0 20.5.0.49152-r0: NI PXI Platform Framework (metapackage)
+sci-ni/ni_pxiplatformframework_data 18.0.0.49152-r0 18.1.0.49152-r0 19.1.0.49152-r0 19.5.0.32794-r0 19.5.0.49152-r0 20.0.0.49152-r0 20.5.0.49152-r0: NI PXI Resource Manager Data Files
+sci-ni/ni_pxiplatformhwsupport 18.0.0.49152-r0 18.1.0.49152-r0 19.1.0.49152-r0 19.5.0.32793-r0 19.5.0.49152-r0 20.0.0.49152-r0 20.5.0.49152-r0: NI PXI Hardware Support (metapackage)
+sci-ni/ni_pxiplatformhwsupport_bin 18.0.0.49152-r0 18.1.0.49152-r0 19.1.0.49152-r0 19.5.0.32793-r0 19.5.0.49152-r0 20.0.0.49152-r0 20.5.0.49152-r0: NI PXI Hardware Support Binaries
+sci-ni/ni_pxiplatformhwsupport_data 18.0.0.49152-r0 18.1.0.49152-r0 19.1.0.49152-r0 19.5.0.32793-r0 19.5.0.49152-r0 20.0.0.49152-r0 20.5.0.49152-r0: NI PXI Hardware Support Data
+sci-ni/ni_pxiplatformhwsupport_errors 18.0.0.49152-r0 18.1.0.49152-r0 19.0.0.49152-r0 20.0.0.49152-r0: NI PXI Hardware Support Errors
+sci-ni/ni_pxiplatformhwsupport_libs 18.0.0.49152-r0 18.1.0.49152-r0 19.1.0.49152-r0 19.5.0.32793-r0 19.5.0.49152-r0 20.0.0.49152-r0 20.5.0.49152-r0: NI PXI Hardware Support Libraries
+sci-ni/ni_pxiplatformservices 18.0.0.49152-r0 18.1.0.49152-r0 19.1.0.49152-r0 19.5.0.32798-r0 19.5.0.49152-r0 20.0.0.49152-r0 20.5.0.49153-r0: NI PXI Platform Services (metapackage)
+sci-ni/ni_pxiplatformservices_bin 18.0.0.49152-r0 18.1.0.49152-r0 19.1.0.49152-r0 19.5.0.32798-r0 19.5.0.49152-r0 20.0.0.49152-r0 20.5.0.49153-r0: NI PXI Platform Services Binaries
+sci-ni/ni_pxiplatformservices_data 18.0.0.49152-r0 18.1.0.49152-r0 19.1.0.49152-r0 19.5.0.32798-r0 19.5.0.49152-r0 20.0.0.49152-r0 20.5.0.49153-r0: NI PXI Platform Services Data
+sci-ni/ni_pxiplatformservices_devel 19.1.0.49152-r0 19.5.0.32782-r0 19.5.0.49152-r0 20.5.0.49153-r0: Development files for NI PXI Platform Services
+sci-ni/ni_pxiplatformservices_labview_2018_support 19.1.0.49152-r0 19.5.0.32782-r0 19.5.0.49152-r0 20.5.0.49153-r0: NI PXI Platform Services LabVIEW 2018 Support
+sci-ni/ni_pxiplatformservices_labview_2019_support 19.1.0.49152-r0 19.5.0.32782-r0 19.5.0.49152-r0 20.5.0.49153-r0: NI PXI Platform Services LabVIEW 2019 Support
+sci-ni/ni_pxiplatformservices_labview_2020_support 20.5.0.49153-r0: NI PXI Platform Services LabVIEW 2020 Support
+sci-ni/ni_pxiplatformservices_libs 18.0.0.49152-r0 18.1.0.49152-r0 19.1.0.49152-r0 19.5.0.32798-r0 19.5.0.49152-r0 20.0.0.49152-r0 20.5.0.49153-r0: NI PXI Platform Services Libraries
+sci-ni/ni_pxiplatformsoftware_errors 17.0.0.49152-r0 18.1.0.49152-r0 19.0.0.49152-r0: NI PXI Platform Software Errors
+sci-ni/ni_pxirm 17.0.0.49155-r0: NI PXI Platform Resource Manager User Library
+sci-ni/ni_pxirm_nikalmod 17.0.0.49155-r0: NI PXI Platform Resource Manager Kernel Module
+sci-ni/ni_pxirm_resources 17.0.0.49155-r0: NI PXI Platform Resource Manager Data Files
+sci-ni/ni_pxisa_compliance 19.1.0.49152-r0 19.5.0.32768-r0 19.5.0.49152-r0 20.5.0.49152-r0: NI PXISA Compliance (metapackage)
+sci-ni/ni_python_interface 20.0.0.49154-r0: LabVIEW Python Interface support
+sci-ni/ni_qpxi 19.5.0.32787-r0 19.5.0.49152-r0 20.0.0.49152-r0 20.5.0.49152-r0: NI QPXI Manager (metapackage)
+sci-ni/ni_qpxi_libs 19.5.0.32787-r0 19.5.0.49152-r0 20.0.0.49152-r0 20.5.0.49152-r0: NI QPXI Support Libraries
+sci-ni/ni_reosc_errors 20.0.0.49152-r0: NI Reconfigurable Oscilloscope Error Code Descriptions
+sci-ni/ni_rio 18.1.0.49152-r0 18.1.1.49152-r0 19.0.0.49152-r0 20.0.1.49152-r0: NI-RIO Libraries
+sci-ni/ni_rio_dkms 18.1.0.49152-r0 18.1.1.49152-r0 19.0.0.49152-r0 20.0.1.49152-r0: NI-RIO Driver
+sci-ni/ni_rio_fpga_ids 18.1.0.49152-r0 19.0.0.49152-r0 20.0.1.49152-r0: FPGA Interface Driver Support
+sci-ni/ni_rio_niriochinch_dkms 18.1.0.49152-r0 18.1.1.49153-r0 19.1.0.49152-r0 20.1.0.49152-r0: NI-RIO niriochinch kernel module
+sci-ni/ni_rio_niriomt_dkms 18.1.0.49152-r0 18.1.1.49153-r0 19.1.0.49152-r0: NI-RIO niriomt kernel module
+sci-ni/ni_rio_server 18.1.0.49152-r0 18.1.1.49152-r0 19.0.0.49152-r0 20.0.1.49152-r0: NI-RIO Server
+sci-ni/ni_rio_sysapi 18.1.0.49152-r0 19.0.0.49152-r0 20.0.1.49152-r0: NI-RIO System API Expert
+sci-ni/ni_roco 18.2.0.49153-r0 18.2.1.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.2.0.49152-r0: NI Routing Coordinator
+sci-ni/ni_routing_errors 18.2.0.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.2.0.49152-r0: NI Routing Error Code Descriptions
+sci-ni/ni_rseries 18.1.0.49152-r0 18.1.1.49153-r0 19.1.0.49152-r0 20.0.0.49152-r0: NI-RIO R Series Driver (metapackage)
+sci-ni/ni_rtsi_libs 18.1.0.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI RTSI cable core libraries
+sci-ni/ni_rtsi_pal_libs 18.1.0.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI RTSI PAL device libraries
+sci-ni/ni_scope 18.7.0.49153-r0 18.7.1.49152-r0 19.0.1.49152-r0 20.1.0.49153-r0: NI-SCOPE Runtime (metapackage)
+sci-ni/ni_scope_5110 18.7.0.49152-r0 19.0.0.49152-r0 20.1.0.49153-r0: NI-Scope 5110 Device Support
+sci-ni/ni_scope_5110_libs 18.7.0.49152-r0 19.0.0.49152-r0 20.1.0.49153-r0: NI-SCOPE 5110 Device Libraries
+sci-ni/ni_scope_5164 18.7.0.49153-r0 19.0.0.49152-r0 20.1.0.49153-r0: NI-Scope 5164 Device Support
+sci-ni/ni_scope_5164_libs 18.7.0.49153-r0 19.0.0.49152-r0 20.1.0.49153-r0: NI-SCOPE 5164 Device Libraries
+sci-ni/ni_scope_5170 18.7.0.49152-r0 19.0.0.49152-r0 20.1.0.49153-r0: NI-Scope 5170 Device Support
+sci-ni/ni_scope_5170_libs 18.7.0.49152-r0 19.0.0.49152-r0 20.1.0.49153-r0: NI-SCOPE 5170 Device Libraries
+sci-ni/ni_scope_daqmx 18.7.0.49152-r0 18.7.1.49152-r0 19.0.0.49152-r0 20.1.0.49153-r0: NI-SCOPE mx Device Support
+sci-ni/ni_scope_daqmx_dkms 18.7.0.49152-r0 18.7.1.49152-r0 19.0.0.49152-r0 20.1.0.49153-r0: NI-SCOPE mx Device Driver
+sci-ni/ni_scope_daqmx_libs 18.7.0.49152-r0 18.7.1.49152-r0 19.0.0.49152-r0 20.1.0.49153-r0: NI-SCOPE mx Device Libraries
+sci-ni/ni_scope_devel 18.7.0.49152-r0 19.0.0.49152-r0 20.1.0.49153-r0: NI-SCOPE C Development Support
+sci-ni/ni_scope_docs 18.7.0.49153-r0 18.7.1.49152-r0 19.0.1.49152-r0 20.1.0.49153-r0: NI-SCOPE Documentation
+sci-ni/ni_scope_errors 18.7.0.49152-r0 19.0.0.49152-r0 20.1.0.49153-r0: NI-SCOPE Error Code Descriptions
+sci-ni/ni_scope_labview_2015_support 18.7.0.49152-r0: NI-SCOPE LabVIEW 2015 Development Support
+sci-ni/ni_scope_labview_2016_support 18.7.0.49152-r0 19.0.0.49152-r0: NI-SCOPE LabVIEW 2016 Development Support
+sci-ni/ni_scope_labview_2017_support 18.7.0.49152-r0 19.0.0.49152-r0: NI-SCOPE LabVIEW 2017 Development Support
+sci-ni/ni_scope_labview_2018_support 18.7.0.49152-r0 19.0.0.49152-r0 20.1.0.49153-r0: NI-SCOPE LabVIEW 2018 Development Support
+sci-ni/ni_scope_labview_2019_support 19.0.0.49152-r0 20.1.0.49153-r0: NI-SCOPE LabVIEW 2019 Development Support
+sci-ni/ni_scope_labview_2020_support 20.1.0.49153-r0: NI-SCOPE LabVIEW 2020 Development Support
+sci-ni/ni_scope_libs 18.7.0.49152-r0 19.0.0.49152-r0 20.1.0.49153-r0: NI-SCOPE Runtime
+sci-ni/ni_scope_notices 18.7.0.49152-r0 19.0.0.49152-r0 20.1.0.49153-r0: NI-SCOPE Legal Notices
+sci-ni/ni_serial 18.1.0-r3: National Instruments kernel module for serial device support
+sci-ni/ni_service_locator 18.1.0.49152-r0 19.0.0.49152-r0 19.0.0.49153-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI Service Locator
+sci-ni/ni_software_2018 18.0.0.49152-r0 18.0.1.49153-r0 18.0.2.49153-r0 18.0.3.49153-r0 18.0.3.49155-r0: National Instruments 2018 Software repository enablement
+sci-ni/ni_software_2019 19.2.0.49152-r0: National Instruments 2019 Software repository enablement
+sci-ni/ni_software_action_services 20.0.0.49153-r0: NI Software Action Services
+sci-ni/ni_software_latest 18.0.0.49152-r0 18.0.1.49153-r0 18.0.2.49153-r0 18.0.3.49153-r0 18.0.3.49155-r0 19.2.0.49152-r0: National Instruments Software repository release upgrade enablement
+sci-ni/ni_switch 18.1.0.49152-r0 18.1.1.49153-r0 20.1.0.49152-r0: NI-SWITCH Runtime (metapackage)
+sci-ni/ni_switch_ca4 18.1.0.49152-r0 18.1.1.49153-r0 20.1.0.49153-r0: NI-SWITCH CA4 Device Support
+sci-ni/ni_switch_ca4_dkms 18.1.0.49152-r0 18.1.1.49153-r0 20.1.0.49153-r0: NI-SWITCH CA4 Device Driver
+sci-ni/ni_switch_ca4_libs 18.1.0.49152-r0 18.1.1.49153-r0 20.1.0.49153-r0: NI-SWITCH CA4 Device Libraries
+sci-ni/ni_switch_daqmx 18.1.0.49152-r0 18.1.1.49152-r0 20.1.0.49153-r0: NI-SWITCH mx Device Support
+sci-ni/ni_switch_daqmx_config 18.1.0.49152-r0 18.1.1.49153-r0 20.1.0.49153-r0: NI-SWITCH mx Device Configuration Programs
+sci-ni/ni_switch_daqmx_libs 18.1.0.49152-r0 18.1.1.49152-r0 20.1.0.49153-r0: NI-SWITCH mx Device Libraries
+sci-ni/ni_switch_devel 18.1.0.49152-r0 18.1.1.49152-r0 20.1.0.49153-r0: NI-SWITCH C Development Support
+sci-ni/ni_switch_docs 18.1.0.49152-r0 18.1.1.49153-r0 20.1.0.49152-r0: NI-SWITCH Documentation
+sci-ni/ni_switch_errors 18.1.0.49152-r0 18.1.1.49152-r0 20.1.0.49153-r0: NI-SWITCH Error Code Descriptions
+sci-ni/ni_switch_labview_2015_support 18.1.0.49152-r0 18.1.1.49152-r0: NI-SWITCH LabVIEW 2015 Development Support
+sci-ni/ni_switch_labview_2016_support 18.1.0.49152-r0 18.1.1.49152-r0: NI-SWITCH LabVIEW 2016 Development Support
+sci-ni/ni_switch_labview_2017_support 18.1.0.49152-r0 18.1.1.49152-r0: NI-SWITCH LabVIEW 2017 Development Support
+sci-ni/ni_switch_labview_2018_support 18.1.0.49152-r0 18.1.1.49152-r0 20.1.0.49153-r0: NI-SWITCH LabVIEW 2018 Development Support
+sci-ni/ni_switch_labview_2019_support 20.1.0.49153-r0: NI-SWITCH LabVIEW 2019 Development Support
+sci-ni/ni_switch_labview_2020_support 20.1.0.49153-r0: NI-SWITCH LabVIEW 2020 Development Support
+sci-ni/ni_switch_libs 18.1.0.49152-r0 18.1.1.49152-r0 20.1.0.49153-r0: NI-SWITCH Runtime
+sci-ni/ni_switch_notices 18.1.0.49152-r0 18.1.1.49152-r0 20.1.0.49153-r0: NI-SWITCH Legal Notices
+sci-ni/ni_sync 18.1.0.49152-r0 18.1.0.49154-r0 20.1.0.49153-r0: Support for NI timing and synchronization modules (metapackage)
+sci-ni/ni_sync_drivers 18.1.0.49152-r0 18.1.0.49154-r0: NI timing and synchronization drivers (metapackage)
+sci-ni/ni_sync_hardware_dat 18.1.0.49152-r0: NI-Sync hardware data file for NI Example Finder
+sci-ni/ni_sync_labview_2016_api 18.1.0.49152-r0: NI-Sync API for LabVIEW 2016
+sci-ni/ni_sync_labview_2016_examples 18.1.0.49152-r0: NI-Sync examples for LabVIEW 2016
+sci-ni/ni_sync_labview_2016_exfinder 18.1.0.49152-r0: NI-Sync support for NI Example Finder in LabVIEW 2016
+sci-ni/ni_sync_labview_2016_help 18.1.0.49152-r0: NI-Sync help for LabVIEW 2016
+sci-ni/ni_sync_labview_2016_support 18.1.0.49152-r0: NI-Sync support for LabVIEW 2016
+sci-ni/ni_sync_labview_2017_api 18.1.0.49152-r0: NI-Sync API for LabVIEW 2017
+sci-ni/ni_sync_labview_2017_examples 18.1.0.49152-r0: NI-Sync examples for LabVIEW 2017
+sci-ni/ni_sync_labview_2017_exfinder 18.1.0.49152-r0: NI-Sync support for NI Example Finder in LabVIEW 2017
+sci-ni/ni_sync_labview_2017_help 18.1.0.49152-r0: NI-Sync help for LabVIEW 2017
+sci-ni/ni_sync_labview_2017_support 18.1.0.49152-r0: NI-Sync support for LabVIEW 2017
+sci-ni/ni_sync_labview_2018_api 18.1.0.49152-r0 20.1.0.49152-r0: NI-Sync API for LabVIEW 2018
+sci-ni/ni_sync_labview_2018_examples 18.1.0.49152-r0 20.1.0.49152-r0: NI-Sync examples for LabVIEW 2018
+sci-ni/ni_sync_labview_2018_exfinder 18.1.0.49152-r0 20.1.0.49152-r0: NI-Sync support for NI Example Finder in LabVIEW 2018
+sci-ni/ni_sync_labview_2018_help 18.1.0.49152-r0 20.1.0.49152-r0: NI-Sync help for LabVIEW 2018
+sci-ni/ni_sync_labview_2018_support 18.1.0.49152-r0 20.1.0.49152-r0: NI-Sync support for LabVIEW 2018
+sci-ni/ni_sync_labview_2019_api 20.1.0.49152-r0: NI-Sync API for LabVIEW 2019
+sci-ni/ni_sync_labview_2019_examples 20.1.0.49152-r0: NI-Sync examples for LabVIEW 2019
+sci-ni/ni_sync_labview_2019_exfinder 20.1.0.49152-r0: NI-Sync support for NI Example Finder in LabVIEW 2019
+sci-ni/ni_sync_labview_2019_help 20.1.0.49152-r0: NI-Sync help for LabVIEW 2019
+sci-ni/ni_sync_labview_2019_support 20.1.0.49152-r0: NI-Sync support for LabVIEW 2019
+sci-ni/ni_sync_labview_2020_api 20.1.0.49152-r0: NI-Sync API for LabVIEW 2020
+sci-ni/ni_sync_labview_2020_examples 20.1.0.49152-r0: NI-Sync examples for LabVIEW 2020
+sci-ni/ni_sync_labview_2020_exfinder 20.1.0.49152-r0: NI-Sync support for NI Example Finder in LabVIEW 2020
+sci-ni/ni_sync_labview_2020_help 20.1.0.49152-r0: NI-Sync help for LabVIEW 2020
+sci-ni/ni_sync_labview_2020_support 20.1.0.49152-r0: NI-Sync support for LabVIEW 2020
+sci-ni/ni_sync_libs 18.1.0.49152-r0 18.1.0.49154-r0: NI timing and synchronization library - shared library (metapackage)
+sci-ni/ni_sync_pxie6674_dkms 18.1.0.49152-r0 18.1.1.49153-r0 20.1.0.49152-r0: NI timing and synchronization driver for NI PXIe-6674T
+sci-ni/ni_sync_pxie6674_hwsupport 18.1.0.49152-r0 18.1.1.49153-r0 20.1.0.49152-r0: NI routing adaptor library for NI PXIe-6674T
+sci-ni/ni_syncdomain_service 19.1.0.49152-r0 19.5.0.49152-r0 20.1.0.49152-r0: Infrastructure package for NI software
+sci-ni/ni_sysapi 18.1.0.49153-r0 19.0.0.49154-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI System API Framework
+sci-ni/ni_syscfg_devel 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI System Configuration development files
+sci-ni/ni_syscfg_labview_2016_support 18.1.0.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0: NI System Configuration support for LabVIEW 2016 (64-bit)
+sci-ni/ni_syscfg_labview_2017_support 18.1.0.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI System Configuration support for LabVIEW 2017 (64-bit)
+sci-ni/ni_syscfg_labview_2018_support 18.1.0.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI System Configuration support for LabVIEW 2018 (64-bit)
+sci-ni/ni_syscfg_labview_2019_support 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI System Configuration support for LabVIEW 2019 (64-bit)
+sci-ni/ni_syscfg_labview_2020_support 20.0.0.49152-r0: NI System Configuration support for LabVIEW 2020 (64-bit)
+sci-ni/ni_syscfg_runtime 18.1.0.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0: Runtime libraries for system and device configuration
+sci-ni/ni_targetcfg 6.1.0.49153-r0 7.0.0.49153-r0: NI Target Configuration Libraries
+sci-ni/ni_tclk 18.6.0.49152-r0 19.0.0.49153-r0 20.0.0.49152-r0: NI-TClk Runtime (metapackage)
+sci-ni/ni_tclk_daqmx 18.6.0.49152-r0 19.0.0.49153-r0 20.0.0.49152-r0: NI-TClk DAQmx Runtime Compatibility
+sci-ni/ni_tclk_devel 18.6.0.49152-r0 19.0.0.49153-r0 20.0.0.49152-r0: NI-TClk C Development Support
+sci-ni/ni_tclk_errors 18.6.0.49152-r0 19.0.0.49153-r0 20.0.0.49152-r0: NI-TClk Error Code Descriptions
+sci-ni/ni_tclk_labview_2015_support 18.6.0.49152-r0: NI-TClk LabVIEW 2015 Development Support
+sci-ni/ni_tclk_labview_2016_support 18.6.0.49152-r0 19.0.0.49153-r0: NI-TClk LabVIEW 2016 Development Support
+sci-ni/ni_tclk_labview_2017_support 18.6.0.49152-r0 19.0.0.49153-r0: NI-TClk LabVIEW 2017 Development Support
+sci-ni/ni_tclk_labview_2018_support 18.6.0.49152-r0 19.0.0.49153-r0 20.0.0.49152-r0: NI-TClk LabVIEW 2018 Development Support
+sci-ni/ni_tclk_labview_2019_support 19.0.0.49153-r0 20.0.0.49152-r0: NI-TClk LabVIEW 2019 Development Support
+sci-ni/ni_tclk_labview_2020_support 20.0.0.49152-r0: NI-TClk LabVIEW 2020 Development Support
+sci-ni/ni_tclk_libs 18.6.0.49152-r0 19.0.0.49153-r0 20.0.0.49152-r0: NI-TClk Runtime
+sci-ni/ni_tclk_notices 18.6.0.49152-r0 19.0.0.49153-r0 20.0.0.49152-r0: NI-TClk Legal Notices
+sci-ni/ni_usrp_rio 20.1.0.49153-r0: NI USRP RIO Linux Support
+sci-ni/ni_usrp_rio_dkms 20.1.0.49153-r0: NI USRP RIO Linux DKMS Support
+sci-ni/ni_usrp_rio_libs 20.1.0.49153-r0: NI USRP RIO Linux Libraries Support
+sci-ni/ni_visa 18.2.0.49152-r0 18.2.1.49152-r0 19.2.0.49153-r0 20.0.0.49152-r0: NI-VISA (metapackage)
+sci-ni/ni_visa_config 18.2.0.49152-r0 19.2.0.49153-r0 20.0.0.49152-r0: Provides utility for configuring NI-VISA settings
+sci-ni/ni_visa_ddw 18.2.0.49152-r0 19.2.0.49152-r0 20.0.0.49152-r0: Utility for creating INF files for PXI(e)/PCI(e) devices for use with NI-VISA
+sci-ni/ni_visa_devel 18.2.0.49152-r0 19.2.0.49152-r0 20.0.0.49152-r0: Provides NI-VISA C Development Examples
+sci-ni/ni_visa_doc 18.2.0.49152-r0 19.2.0.49152-r0 20.0.0.49152-r0: NI-VISA Documentation
+sci-ni/ni_visa_errors 18.2.0.49152-r0 18.2.0.49153-r0 19.2.0.49152-r0 20.0.0.49152-r0: NI-VISA error descriptions
+sci-ni/ni_visa_headers 18.2.0.49152-r0 19.2.0.49152-r0 20.0.0.49152-r0: Provides the NI-VISA instrument driver runtime library headers
+sci-ni/ni_visa_interactive_control 18.2.0.49152-r0 19.2.0.49152-r0 20.0.0.49152-r0: Utility to interact with NI-VISA resources
+sci-ni/ni_visa_labview_2015_support 18.2.0.49152-r0: NI-VISA LabVIEW 2015 64-Bit Support
+sci-ni/ni_visa_labview_2016_support 18.2.0.49152-r0 19.2.0.49152-r0: NI-VISA LabVIEW 2016 64-Bit Support
+sci-ni/ni_visa_labview_2017_support 18.2.0.49152-r0 19.2.0.49152-r0: NI-VISA LabVIEW 2017 64-Bit Support
+sci-ni/ni_visa_labview_2018_support 18.2.0.49152-r0 19.2.0.49152-r0 20.0.0.49152-r0: NI-VISA LabVIEW 2018 64-Bit Support
+sci-ni/ni_visa_labview_2019_support 19.2.0.49152-r0 20.0.0.49152-r0: NI-VISA LabVIEW 2019 64-Bit Support
+sci-ni/ni_visa_labview_2020_support 20.0.0.49152-r0: NI-VISA LabVIEW 2020 64-Bit Support
+sci-ni/ni_visa_labview_filter_dialog 18.2.0.49152-r0 19.2.0.49152-r0 20.0.0.49152-r0: Provides resource name filtering from the VISA resource name control in LabVIEW
+sci-ni/ni_visa_labview_io_control 18.2.0.49152-r0 19.2.0.49152-r0 20.0.0.49152-r0: Provides the LabVIEW I/O Control for selecting NI-VISA resources
+sci-ni/ni_visa_labview_rc 18.2.0.49152-r0 19.2.0.49152-r0 20.0.0.49152-r0: Provides the resource file for NI-VISA properties in LabVIEW
+sci-ni/ni_visa_lxi_discovery 18.2.0.49152-r0 19.2.0.49152-r0 20.0.0.49152-r0: Provides the LXI Discovery Service for discovering LXI-based resources
+sci-ni/ni_visa_passport_enet 18.2.0.49152-r0 19.2.0.49152-r0 20.0.0.49152-r0: Support for NI-VISA applications using LXI,TCP/IP, VXI-11, and HiSLIP
+sci-ni/ni_visa_passport_enet_serial 18.2.0.49152-r0 19.2.0.49152-r0 20.0.0.49152-r0: Provides support for NI-VISA applications using NI ENET-Serial devices
+sci-ni/ni_visa_passport_gpib 18.2.0.49152-r0 19.2.0.49152-r0 20.0.0.49152-r0: Provides support for NI-VISA GPIB applications
+sci-ni/ni_visa_passport_pxi 18.2.0.49152-r0 18.2.1.49152-r0 19.2.0.49152-r0 20.0.0.49152-r0: Provides support for NI-VISA PXI(e)/PCI(e) applications
+sci-ni/ni_visa_passport_pxi_dkms 18.2.0.49152-r0 18.2.1.49152-r0 19.2.0.49152-r0 20.0.0.49152-r0: Installs the kernel support for NI-VISA PXI(e)/PCI(e)
+sci-ni/ni_visa_passport_remote 18.2.0.49152-r0 19.2.0.49152-r0 20.0.0.49152-r0: Support for NI-VISA applications communicating with NI-VISA Server
+sci-ni/ni_visa_passport_serial 18.2.0.49152-r0 19.2.0.49152-r0 20.0.0.49152-r0: Enables support for RS-232 and RS-485 serial devices
+sci-ni/ni_visa_passport_usb 18.2.0.49152-r0 19.2.0.49152-r0 20.0.0.49152-r0: Provides support for NI-VISA USB applications
+sci-ni/ni_visa_runtime 18.2.0.49152-r0 18.2.1.49152-r0 19.2.0.49152-r0 20.0.0.49152-r0: NI-VISA Runtime (metapackage)
+sci-ni/ni_visa_server 18.2.0.49152-r0 19.2.0.49152-r0 20.0.0.49152-r0: Shares NI-VISA resources over the network
+sci-ni/ni_visa_sysapi 17.0.0.49152-r0 18.2.0.49152-r0 19.2.0.49152-r0 20.0.0.49152-r0: Provides NI System API Framework support for NI-VISA
+sci-ni/ni_wsrepl 18.1.0.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI WS Repl Library
+sci-ni/ni_xlator 19.2.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0: NI error message translation and localization library (metapackage)
+sci-ni/ni_xnet 19.5.0.32779-r0: Support for prototyping, simulating, and testing CAN, LIN, and FlexRay networks
+sci-ni/ni_xnet_1950 19.5.0.32779-r0: National Instruments NI-XNET 19.5.0 repository enablement
+sci-ni/ni_xnet_docs 19.5.0.32776-r0: NI-XNET Documentation
+sci-ni/ni_xnet_errors 19.5.0.32776-r0: NI-XNET errors
+sci-ni/ni_xnet_labview_2017_support 19.5.0.32776-r0: NI-XNET support for LabVIEW 2017 64-bit
+sci-ni/ni_xnet_labview_2018_support 19.5.0.32776-r0: NI-XNET support for LabVIEW 2018 64-bit
+sci-ni/ni_xnet_labview_2019_support 19.5.0.32776-r0: NI-XNET support for LabVIEW 2019 64-bit
+sci-ni/ni_xnet_labview_shared_support 19.5.0.32771-r0: NI-XNET shared LabVIEW support
+sci-ni/ni_xnet_nixntae_dkms 19.5.0.32776-r0: NI-XNET nixntae driver kernel module
+sci-ni/ni_xnet_nixntcdaq_dkms 19.5.0.32776-r0: NI-XNET nixntcDaq driver kernel module
+sci-ni/ni_xnet_nixntpci_dkms 19.5.0.32776-r0: NI-XNET nixntpci driver kernel module
+sci-ni/ni_xnet_nixntpciflexray_dkms 19.5.0.32776-r0: NI-XNET nixntpci_flexray driver kernel module
+sci-ni/ni_xnet_notices 19.5.0.32769-r0: NI-XNET Legal Notices
+sci-ni/niapalerri 15.0.0-r0: NI Atomic PAL Error Codes
+sci-ni/nicurli 14.0.0-r0 17.0.0-r0 18.0.0-r0 19.0.0-r0 19.5.0-r0 20.0.0-r0: NI Curl 20.0
+sci-ni/nicurli_32bit 19.5.0-r0: NI Curl 19.5
+sci-ni/nidimerri 14.2.0-r0: NI-DIM-ERR
+sci-ni/nidimi 14.2.0-r0 17.0.0-r0: NI-DIM User Libraries
+sci-ni/nidimki 14.2.0-r0 17.0.0-r0: NI-DIM
+sci-ni/niexfinder_base 1.0-r47 1.0-r49 1.0-r59: NI Example Finder core files
+sci-ni/niexfinder_exe 1.0-r47 1.0-r49 1.0-r59: NI Example Finder executable
+sci-ni/niexfinder_labview_2018 18.0.0-r1 18.0.1-r1: NI Example Finder core files
+sci-ni/niexfinder_labview_2019 19.0.0-r1: NI Example Finder core files
+sci-ni/niexfinder_labview_2020 20.0.0-r1: NI Example Finder core files
+sci-ni/niexfinder_lib_2018 18.0.0-r1 18.0.1-r1: NI Example Finder shared libraries
+sci-ni/niexfinder_lib_2019 19.0.0-r1: NI Example Finder shared libraries
+sci-ni/niexfinder_lib_2020 20.0.0-r1: NI Example Finder shared libraries
+sci-ni/niiotracei 17.0.0-r0: NI I/O Trace Debugging Tool -- niiotrace
+sci-ni/nijsonmapi 18.0.0-r1 18.0.1-r1 19.0.0-r1 20.0.0-r1: NI JSON Map Files
+sci-ni/nikali 15.0.0-r0 15.0.1-r0: NI-KAL kernel module source files
+sci-ni/nilvcli 1.0.0.49152-r0 1.1.0.49154-r0 2.1.0.49152-r0 3.0.0.49156-r0: NI Command Line Interface for LabVIEW
+sci-ni/nilvcompare 18.0.0-r1 18.0.1-r1 19.0.0-r1 20.0.0-r1: LabVIEW Compare script
+sci-ni/nilvmerge 18.0.0-r1 18.0.1-r1 19.0.0-r1 20.0.0-r1: LabVIEW Merge script
+sci-ni/nimdbgerri 14.2.1-r0: NI-MDBG-ERR
+sci-ni/nimdbgi 14.2.1-r0: NI-MDBG User Libraries
+sci-ni/nimdbgki 14.2.1-r0: NI-MDBG
+sci-ni/nimdnsresponder 14.0.0-r0 17.0.0-r0: National Instruments mDNS Responder Service
+sci-ni/nimxdferri 14.2.1-r0: NI-MXDF-ERR
+sci-ni/nimxdfi 14.2.1-r0: NI-MXDF
+sci-ni/nimxdfki 14.2.1-r0: NI-MXDF
+sci-ni/niorberri 14.1.1-r0: NI-ORB Error Files
+sci-ni/niorbi 14.1.1-r0: NI-ORB User Libraries
+sci-ni/niorbki 14.1.1-r0: NI-ORB Kernel Libraries
+sci-ni/nipalerri 15.0.0-r0: NI-PAL Error Codes
+sci-ni/nipali 15.0.0-r0: NI-PAL user library
+sci-ni/nipalki 15.0.0-r0 17.0.0.49152-r0: Transitional package from nipalki to ni-pal-nikalmod
+sci-ni/nipxipfi 17.0.0.49155-r0: NI PXI Platform Framework Transitional Package (metapackage)
+sci-ni/nipxipfki 15.0.0-r0 17.0.0.49155-r0: NI PXI Platform Framework Kernel Module Transitional Package (metapackage)
+sci-ni/nipythoninterfacei 18.0.0.49152-r0 19.0.0.49152-r0: NI Python Interface
+sci-ni/nirocoerri 17.0.0-r0: NI-RoCo Error Codes
+sci-ni/nispylogsupp 17.0.0-r0: NI I/O Trace Support Library -- nispylogsupp
+sci-ni/nisslcerts 14.0.0-r3 17.0.0-r3 18.0.0-r3 19.0.0-r3 19.0.1-r3 20.0.0-r3: NI SSL Certificates 20.0
+sci-ni/nissli 14.0.0-r0 17.0.0-r0 18.0.0-r0 19.0.0-r0 19.0.1-r0 20.0.0-r0: NI SSL 20.0
+sci-ni/nissli_32bit 19.0.1-r0: NI SSL 19.0
+sci-ni/nisvcloc 14.0.0-r1 17.0.0-r1 18.0.0-r1: NI Service Locator
+sci-ni/niswactions 18.1.0.49153-r0 19.0.0.49152-r0 19.5.0.49152-r0: Software Action Services
+sci-ni/nisyscfgi 15.0.0-r0 17.0.0-r0 18.0.0.49152-r0: NI System Configuration API 18.0
+sci-ni/nitargetcfgi 2.0.0-r0 3.0.0-r0 4.0.0-r0 5.0.0.49153-r0 6.0.0.49152-r0: NI Target Configuration 6.0
+sci-ni/nitdmsi 18.0.0.49152-r0 19.0.0.49152-r0: NI TDMS library
+sci-ni/nivisa 15.0.0-r0 17.0.0-r0: Abstraction layer for access to NI-488, PCI/PXI, USB, TCP/IP, VXI and Serial
+sci-ni/nivisak 15.0.0-r0 17.0.0-r0: NI-VISA Runtime Engine Kernel Support
+sci-ni/nixercesdelayloadi 2.7.9.49152-r0 2.7.10.49152-r0: NI Xerces XML parsing library
+sci-ni/nixercesdelayloadi_32bit 2.7.10.49152-r0: NI Xerces XML parsing library
+sci-ni/system_report 1.0.0-r3: System Diagnostic Reporting Tool
+sci-ni/visa_shared 7.0.0-r1: VISA Shared Components on Linux (metapackage)
+sci-pt/libpicohrdl 2.0.17-r1: Pico Technology High Resolution Data Logger
+sci-pt/libpicoipp 1.3.0-r4: Intel Integrated Performance Primitives exports for Pico Technology Products.
+sci-pt/libpl1000 2.0.0-r1 2.0.34-r1 2.0.40-r1: PicoScope PicoLog PL1000 Linux driver
+sci-pt/libplcm3 2.0.17-r1: Pico Technology PicoLog CM3 Current Data Logger driver
+sci-pt/libps2000 3.0.0-r3 3.0.34-r3 3.0.40-r3: PicoScope 2000 Linux driver
+sci-pt/libps2000a 2.1.0-r5 2.1.34-r5 2.1.40-r5: PicoScope 2000A Linux driver
+sci-pt/libps3000 4.0.0-r3 4.0.34-r3 4.0.40-r3: PicoScope 3000 Linux driver
+sci-pt/libps3000a 2.1.0-r6 2.1.34-r6 2.1.40-r6: PicoScope 3000A Linux driver
+sci-pt/libps4000 2.1.0-r2 2.1.34-r2 2.1.40-r2: PicoScope 4000 Linux driver
+sci-pt/libps4000a 2.1.0-r2 2.1.34-r2 2.1.40-r2: PicoScope 4000a Linux driver
+sci-pt/libps5000 2.1.0-r3 2.1.34-r3 2.1.40-r3: PicoScope 5000 Linux driver
+sci-pt/libps5000a 2.1.0-r5 2.1.34-r5 2.1.40-r5: PicoScope 5000A Linux driver
+sci-pt/libps6000 2.1.0-r6 2.1.34-r6 2.1.40-r6: PicoScope 6000 series Linux driver
+sci-pt/libps6000a 1.0.34-r0 1.0.40-r0: PicoScope 6000 Series (A API) driver
+sci-pt/libpswrappers 1.0.0-r1: PicoScope driver wrappers
+sci-pt/libusbdrdaq 2.0.0-r1 2.0.34-r1 2.0.40-r1: PicoScope USBDrDAQ Linux driver
+sci-pt/libusbpt104 2.0.17-r1: Pico Technology USB TC-08 Linux driver
+sci-pt/libusbtc08 2.0.17-r1: Pico Technology USB TC-08 Linux driver
+sci-pt/picomono 4.6.2.16-r1: Runtime and libraries limited to those required to run PicoScope 6 on Linux
+sci-pt/picoscope 6.13.7-r4 6.14.17-r4 6.14.23-r4: PicoScope GTK
+sys-kernel/dkms 2.8.4: Dynamic Kernel Module Support
