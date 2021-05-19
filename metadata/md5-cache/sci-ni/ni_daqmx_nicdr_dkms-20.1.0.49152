@@ -10,5 +10,5 @@ RDEPEND=app-arch/rpm app-shells/bash >=sci-ni/ni_daqmx_nidmxf_dkms-20.1.0-r0 >=s
 RESTRICT=bindist mirror
 SLOT=0
 SRC_URI=https://download.ni.com/ni-linux-desktop/2020.07/rpm/ni/el8/ni-daqmx-nicdr-dkms-20.1.0.49152-0+f0.x86_64.rpm
-_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	edos2unix	33e347e171066657f91f8b0c72ec8773	l10n	8cdd85e169b835d518bc2fd59f780d8e	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	2d5b3f4b315094768576b6799e4f926e	rpm	760ff223c2c4299b68ea901e24c4cabd	rpm-extended	d418f9e99ea593a0ea07fd392bec64d7
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	edos2unix	33e347e171066657f91f8b0c72ec8773	l10n	8cdd85e169b835d518bc2fd59f780d8e	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	2d5b3f4b315094768576b6799e4f926e	rpm	760ff223c2c4299b68ea901e24c4cabd	rpm-extended	4317e188ee6a19723c217ba261dbe2b1
 _md5_=63f42c83dc86985f7ea20818f9f67d81
