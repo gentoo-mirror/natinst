@@ -10,5 +10,5 @@ RDEPEND=app-arch/rpm >=sci-ni/ni_euladepot-18.2.1-r0 app-arch/rpm
 RESTRICT=bindist mirror
 SLOT=0
 SRC_URI=https://download.ni.com/ni-linux-desktop/2020.07/rpm/ni/el8/libvisa-data-20.0.0.49152-0+f0.noarch.rpm
-_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	l10n	6da6797255ab7fb848a02afa0cbc406f	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	f93c6ebbcd4a4e3e3f2328a13511b73a	estack	055c42df72f76a4f45ec92b35e83cd56	rpm	a013c862fce4974c42fe270ad00430a2	rpm-extended	4317e188ee6a19723c217ba261dbe2b1
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	l10n	3c7381c56a184f0dd5ba3fb824808f30	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	f93c6ebbcd4a4e3e3f2328a13511b73a	estack	055c42df72f76a4f45ec92b35e83cd56	rpm	17ff2249b50738c17c3824b58c813a5b	rpm-extended	4317e188ee6a19723c217ba261dbe2b1
 _md5_=c9edee9bfbf937cb8056e3ed5ed6106f
