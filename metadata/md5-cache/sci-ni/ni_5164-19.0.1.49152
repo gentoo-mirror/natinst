@@ -1,4 +1,4 @@
-BDEPEND=>=app-arch/rpm2targz-9.0.0.3g app-arch/rpm
+BDEPEND=app-arch/rpm2targz app-arch/rpm
 DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
 DESCRIPTION=NI 5164 Device Support
 EAPI=7
@@ -10,5 +10,5 @@ RDEPEND=app-arch/rpm >=sci-ni/ni_5164_dkms-19.0.1-r0 >=sci-ni/ni_5164_libs-19.0.
 RESTRICT=bindist mirror
 SLOT=0
 SRC_URI=https://download.ni.com/ni-linux-desktop/2019.07/rpm/ni/el8/ni-5164-19.0.1.49152-0+f0.noarch.rpm
-_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	l10n	3c7381c56a184f0dd5ba3fb824808f30	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	9a53f21c753d823ba20a22f857c25cb4	estack	055c42df72f76a4f45ec92b35e83cd56	rpm	17ff2249b50738c17c3824b58c813a5b	rpm-extended	4317e188ee6a19723c217ba261dbe2b1
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	dab5d8ec471d025b79c9e6906bcf3bff	estack	055c42df72f76a4f45ec92b35e83cd56	rpm	142025d51eac82f782a2dcb4f04a4b12	rpm-extended	4317e188ee6a19723c217ba261dbe2b1
 _md5_=a641b1f7efb90490a286f9b7082d376d
