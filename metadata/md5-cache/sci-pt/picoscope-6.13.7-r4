@@ -6,9 +6,9 @@ HOMEPAGE=https://www.picotech.com
 INHERIT=rpm-extended
 KEYWORDS=~amd64
 LICENSE=all-rights-reserved
-RDEPEND=app-arch/rpm app-shells/bash >=sci-pt/sci-pt/libpicoipp-1.1.1-r1 =sci-pt/sci-pt/libpicoipp-1.3.0-r4 =sci-pt/sci-pt/libpl1000-2.0.0-r1 =sci-pt/sci-pt/libps2000-3.0.0-r3 =sci-pt/sci-pt/libps2000a-2.1.0-r5 =sci-pt/sci-pt/libps3000-4.0.0-r3 =sci-pt/sci-pt/libps3000a-2.1.0-r6 =sci-pt/sci-pt/libps4000-2.1.0-r2 =sci-pt/sci-pt/libps4000a-2.1.0-r2 =sci-pt/sci-pt/libps5000-2.1.0-r3 =sci-pt/sci-pt/libps5000a-2.1.0-r5 =sci-pt/sci-pt/libps6000-2.1.0-r6 =sci-pt/sci-pt/libusbdrdaq-2.0.0-r1 >=sci-pt/sci-pt/picomono-4.6.2.16-r1 app-arch/rpm
+RDEPEND=app-arch/rpm app-shells/bash >=sci-pt/libpicoipp-1.1.1-r1 =sci-pt/libpicoipp-1.3.0-r4 =sci-pt/libpl1000-2.0.0-r1 =sci-pt/libps2000-3.0.0-r3 =sci-pt/libps2000a-2.1.0-r5 =sci-pt/libps3000-4.0.0-r3 =sci-pt/libps3000a-2.1.0-r6 =sci-pt/libps4000-2.1.0-r2 =sci-pt/libps4000a-2.1.0-r2 =sci-pt/libps5000-2.1.0-r3 =sci-pt/libps5000a-2.1.0-r5 =sci-pt/libps6000-2.1.0-r6 =sci-pt/libusbdrdaq-2.0.0-r1 >=sci-pt/picomono-4.6.2.16-r1 app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://labs.picotech.com/rpm/noarch/picoscope-6.13.7-4r707.noarch.rpm
 _eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	142025d51eac82f782a2dcb4f04a4b12	rpm-extended	921e246f702aedbcacb6d2a9fcf5ff5c
-_md5_=ee5a7a775f02696a355a67b019b65b7c
+_md5_=84f2671e125d68bcc6f84afbe404c888
