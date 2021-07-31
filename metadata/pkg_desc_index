@@ -1,6 +1,6 @@
 dev-perl/Lab-VISA 3.20: Perl interface to National Instrument's VISA library
 dev-python/PyVISA 1.11.3: Python VISA bindings for GPIB, RS232, and USB instruments
-dev-python/PyVISA-py 0.5.1: Python VISA bindings for GPIB, RS232, and USB instruments
+dev-python/PyVISA-py 0.5.2: Python VISA bindings for GPIB, RS232, and USB instruments
 dev-python/PyVISA-sim 0.4.0: Simulated backend for PyVISA implementing TCPIP, GPIB, RS232, and USB resources
 dev-python/gpib-ctypes 0.3.0: Cross-platform Python bindings for the NI GPIB and linux-gpib C interfaces
 dev-python/sphinxcontrib-apidoc 0.3.0: A Sphinx extension for running 'sphinx-apidoc' on each build
