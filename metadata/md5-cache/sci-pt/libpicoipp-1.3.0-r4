@@ -10,5 +10,5 @@ RDEPEND=app-arch/rpm app-shells/bash sys-devel/gcc sys-libs/glibc app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://labs.picotech.com/rpm/x86_64/libpicoipp-1.3.0-4r78.x86_64.rpm
-_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	142025d51eac82f782a2dcb4f04a4b12	rpm-extended	921e246f702aedbcacb6d2a9fcf5ff5c
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	142025d51eac82f782a2dcb4f04a4b12	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
 _md5_=97d4aaff7e28e20118f6ccc294f709a8
