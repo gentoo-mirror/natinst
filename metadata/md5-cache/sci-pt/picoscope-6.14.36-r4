@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=PicoScope GTK
+EAPI=8
+HOMEPAGE=https://www.picotech.com
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-arch/rpm app-shells/bash sci-pt/libpicoipp sci-pt/libpl1000 sci-pt/libps2000 sci-pt/libps2000a sci-pt/libps3000 sci-pt/libps3000a sci-pt/libps4000 sci-pt/libps4000a sci-pt/libps5000 sci-pt/libps5000a sci-pt/libps6000 sci-pt/libps6000a sci-pt/libusbdrdaq dev-lang/mono[-minimal] app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://labs.picotech.com/rpm/noarch/picoscope-6.14.36-4r5676.noarch.rpm
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	142025d51eac82f782a2dcb4f04a4b12	rpm-extended	921e246f702aedbcacb6d2a9fcf5ff5c
+_md5_=c393d90edf680af09ac814249540c408

@@ -1,4 +1,4 @@
-BDEPEND=app-arch/rpm2targz app-arch/rpm
+BDEPEND=app-arch/rpm2targz
 DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
 DESCRIPTION=NI-SWITCH LabVIEW 2018 Development Support
 EAPI=7
@@ -6,9 +6,9 @@ HOMEPAGE=https://download.ni.com/ni-linux-desktop/2018.07/rpm/ni/el7/
 INHERIT=rpm-extended
 KEYWORDS=~amd64
 LICENSE=all-rights-reserved
-RDEPEND=app-arch/rpm >=sci-ni/labview_2018_core-18.0-r0 >=sci-ni/ni_switch_libs-18.1.0-r0 app-arch/rpm
+RDEPEND=app-arch/rpm >=sci-ni/labview_2018_core-18.0-r0 >=sci-ni/ni_switch_libs-18.1.0-r0
 RESTRICT=bindist mirror
 SLOT=0
 SRC_URI=https://download.ni.com/ni-linux-desktop/2018.07/rpm/ni/el7/ni-switch-labview-2018-support-18.1.0.49152-0+f0.x86_64.rpm
-_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	dab5d8ec471d025b79c9e6906bcf3bff	estack	055c42df72f76a4f45ec92b35e83cd56	rpm	142025d51eac82f782a2dcb4f04a4b12	rpm-extended	4317e188ee6a19723c217ba261dbe2b1
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	dab5d8ec471d025b79c9e6906bcf3bff	estack	055c42df72f76a4f45ec92b35e83cd56	rpm	142025d51eac82f782a2dcb4f04a4b12	rpm-extended	921e246f702aedbcacb6d2a9fcf5ff5c
 _md5_=5f1d96f045b1ddc140a34973f42ccb0a

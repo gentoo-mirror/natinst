@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=PicoScope 5000A Linux driver
+EAPI=8
+HOMEPAGE=https://www.picotech.com
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-arch/rpm app-shells/bash virtual/libusb sys-devel/gcc sys-libs/glibc sys-libs/zlib app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://labs.picotech.com/rpm/x86_64/libps5000a-2.1.54-5r2438.x86_64.rpm
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	142025d51eac82f782a2dcb4f04a4b12	rpm-extended	921e246f702aedbcacb6d2a9fcf5ff5c
+_md5_=28c41c7328ade3d3265e5ec6cc116cf5
