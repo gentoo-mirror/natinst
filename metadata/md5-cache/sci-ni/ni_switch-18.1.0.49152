@@ -10,5 +10,5 @@ RDEPEND=app-arch/rpm >=sci-ni/ni_pxiplatformservices-18.0.0-r0 >=sci-ni/ni_switc
 RESTRICT=bindist mirror
 SLOT=0
 SRC_URI=https://download.ni.com/ni-linux-desktop/2018.07/rpm/ni/el7/ni-switch-18.1.0.49152-0+f0.noarch.rpm
-_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	dab5d8ec471d025b79c9e6906bcf3bff	estack	055c42df72f76a4f45ec92b35e83cd56	rpm	142025d51eac82f782a2dcb4f04a4b12	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4251d4c84c25f59094fd557e0063a974	eutils	dab5d8ec471d025b79c9e6906bcf3bff	estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
 _md5_=8c96a64f5eb5583b2e29465d9cc61dbc

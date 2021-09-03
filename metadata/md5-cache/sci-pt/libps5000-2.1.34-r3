@@ -10,5 +10,5 @@ RDEPEND=app-arch/rpm app-shells/bash virtual/libusb sys-devel/gcc sys-libs/glibc
 RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://labs.picotech.com/rpm/x86_64/libps5000-2.1.34-3r2002.x86_64.rpm
-_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	142025d51eac82f782a2dcb4f04a4b12	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
 _md5_=80f701e1f1835f52f96fdd0b39157f38

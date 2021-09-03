@@ -10,5 +10,5 @@ RDEPEND=app-arch/rpm app-shells/bash >=sci-pt/libpicoipp-1.1.1-r1 =sci-pt/libpic
 RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://labs.picotech.com/rpm/noarch/picoscope-6.14.36-4r5676.noarch.rpm
-_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	142025d51eac82f782a2dcb4f04a4b12	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
 _md5_=e3c1786860be88917500b9f4d411e4c6
