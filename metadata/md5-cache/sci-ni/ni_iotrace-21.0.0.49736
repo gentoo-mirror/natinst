@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=NI I/O Trace Debugging Tool
+EAPI=8
+HOMEPAGE=https://www.ni.com/linux/
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-arch/rpm app-shells/bash dev-util/desktop-file-utils >=sci-ni/labview_2020_rte-20.0.0 >=sci-ni/libiotracelog-21.0.0 x11-misc/shared-mime-info x11-misc/xdg-utils app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://download.ni.com/ni-linux-desktop/2021/Q4/rpm/ni/el8/ni-iotrace-21.0.0.49736-0+f584.x86_64.rpm
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
+_md5_=df4dac44dd468a02540c746cd61e7c1c

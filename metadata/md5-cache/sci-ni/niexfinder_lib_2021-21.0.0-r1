@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install nofetch postinst postrm preinst prerm unpack
+DESCRIPTION=NI Example Finder shared libraries
+EAPI=8
+HOMEPAGE=https://www.ni.com/linux
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-arch/rpm sci-ni/labview_2021_rte ~sci-ni/niexfinder_base-1.0 >=sci-ni/nisyscfgi-18 app-arch/rpm
+RESTRICT=bindist mirror fetch bindist
+SLOT=0
+SRC_URI=niexfinder-lib-2021-21.0.0-1.x86_64.rpm
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
+_md5_=834d55ed5b3cd55e4b2341eebcdbd30e

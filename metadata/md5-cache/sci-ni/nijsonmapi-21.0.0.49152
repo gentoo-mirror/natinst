@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install nofetch postinst postrm preinst prerm unpack
+DESCRIPTION=Provides NI JSON Map Files
+EAPI=8
+HOMEPAGE=https://www.ni.com/linux/
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-arch/rpm app-shells/bash app-arch/rpm
+RESTRICT=bindist mirror fetch bindist
+SLOT=0
+SRC_URI=nijsonmapi-21.0.0.49152-0+f0.noarch.rpm
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
+_md5_=bcaf2b8a7aec6f4840e1c921a92ee4e0
