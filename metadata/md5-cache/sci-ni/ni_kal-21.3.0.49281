@@ -6,9 +6,9 @@ HOMEPAGE=https://www.ni.com/r/ni-linux-device-drivers
 INHERIT=rpm-extended
 KEYWORDS=~amd64
 LICENSE=all-rights-reserved
-RDEPEND=app-arch/rpm app-shells/bash >=app-shells/bash-4.1 sys-devel/binutils sys-devel/gcc sys-devel/make sys-kernel/dkms virtual/linux-sources app-arch/rpm
+RDEPEND=app-arch/rpm app-shells/bash >=app-shells/bash-4.1 sys-devel/binutils sys-devel/gcc sys-devel/make sys-kernel/dkms || ( <sys-kernel/gentoo-sources-5.15 <sys-kernel/vanilla-sources-5.15 <sys-kernel/git-sources-5.15 <sys-kernel/pf-sources-5.15 <sys-kernel/rt-sources-5.15 <sys-kernel/zen-sources-5.15 ) app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://download.ni.com/ni-linux-desktop/2021/Q4/rpm/ni/el8/ni-kal-21.3.0.49281-0+f129.noarch.rpm
 _eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
-_md5_=9f0e9270af71f6d34781784f3f1a1dac
+_md5_=fa069161234800dcb659e724e164b60d
