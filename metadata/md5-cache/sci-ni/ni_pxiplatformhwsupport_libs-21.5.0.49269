@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=NI PXI Hardware Support Libraries
+EAPI=8
+HOMEPAGE=https://www.ni.com/r/ni-linux-device-drivers
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-arch/rpm app-shells/bash >=sci-ni/libni1045tr1-21.5.0 >=sci-ni/libniapxipm215-21.5.0 >=sci-ni/libnicmm1-21.5.0 >=sci-ni/libnicntdrv1-21.5.0 >=sci-ni/libnimxi1-21.5.0 >=sci-ni/libnipcibrd1-21.5.0 >=sci-ni/libnipcibrd1_errors-21.5.0 >=sci-ni/libnipxices1-21.5.0 >=sci-ni/libnipxicid1-21.5.0 >=sci-ni/libnismbus2-21.5.0 >=sci-ni/ni_apal_errors-21.5.0 >=sci-ni/ni_pal-21.5.0 >=sci-ni/ni_pal_errors-21.5.0 >=sci-ni/ni_pxiplatformhwsupport_bin-21.5.0 >=sci-ni/ni_pxiplatformhwsupport_data-21.5.0 >=sci-ni/ni_pxiplatformhwsupport_errors-21.5.0 >=sci-ni/ni_pxiplatformsoftware_errors-21.5.0 >=sci-ni/ni_pxisa_compliance-21.5.0 >=sci-ni/ni_service_locator-21.0.0 sys-apps/dmidecode sys-devel/gcc sys-libs/glibc app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://download.ni.com/ni-linux-desktop/2022/Q1/rpm/ni/el8/ni-pxiplatformhwsupport-libs-21.5.0.49269-0+f117.x86_64.rpm
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
+_md5_=b5ead1ef0273e63d6e6b155cfb8bd176

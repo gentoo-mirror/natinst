@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=NI 5170 Device Libraries
+EAPI=8
+HOMEPAGE=https://www.ni.com/r/ni-linux-device-drivers
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-arch/rpm app-shells/bash >=sci-ni/labview_2019_rte-19.0.1 >=sci-ni/ni_5170_dkms-21.5.0 >=sci-ni/ni_bds-21.5.0 >=sci-ni/ni_fpga_interface-21.5.0 >=sci-ni/ni_pxiplatformservices-21.5.0 >=sci-ni/ni_reosc_errors-21.5.0 >=sci-ni/ni_rio-21.5.0 >=sci-ni/ni_rio_sysapi-21.5.0 >=sci-ni/ni_roco-21.5.0 >=sci-ni/ni_syscfg_runtime-21.5.0 sys-devel/gcc sys-libs/glibc app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://download.ni.com/ni-linux-desktop/2022/Q1/rpm/ni/el8/ni-5170-libs-21.5.0.49267-0+f115.x86_64.rpm
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
+_md5_=308ab50866423fe996dd39681b30b1df

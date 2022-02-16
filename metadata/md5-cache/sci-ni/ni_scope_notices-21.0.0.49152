@@ -9,6 +9,6 @@ LICENSE=all-rights-reserved
 RDEPEND=app-arch/rpm >=sci-ni/ni_euladepot-21.0.0 app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
-SRC_URI=https://download.ni.com/ni-linux-desktop/2021/Q4/rpm/ni/el8/ni-scope-notices-21.0.0.49152-0+f0.noarch.rpm
+SRC_URI=https://download.ni.com/ni-linux-desktop/2022/Q1/rpm/ni/el8/ni-scope-notices-21.0.0.49152-0+f0.noarch.rpm
 _eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
-_md5_=80983691948e9dc5c5462624e90bce08
+_md5_=130823cf1b045da3e687ad703eafb0f6
