@@ -3,6 +3,17 @@ dev-python/PyVISA 1.11.3: Python VISA bindings for GPIB, RS232, and USB instrume
 dev-python/PyVISA-py 0.5.2: Python VISA bindings for GPIB, RS232, and USB instruments
 dev-python/PyVISA-sim 0.4.0: Simulated backend for PyVISA implementing TCPIP, GPIB, RS232, and USB resources
 dev-python/gpib-ctypes 0.3.0: Cross-platform Python bindings for the NI GPIB and linux-gpib C interfaces
+dev-python/hightime 0.2.1: Yoctosecond precision replacements for the datetime datetime and timedelta types
+dev-python/nidcpower 1.4.1: NI-DCPower Python API
+dev-python/nidigital 1.4.1: NI-Digital Pattern Driver Python API
+dev-python/nidmm 1.4.1: NI-DMM Python API
+dev-python/nifake 1.4.1: NI fake Python API
+dev-python/nifgen 1.4.1: NI-FGEN Python API
+dev-python/nimodinst 1.4.1: NI-ModInst Python API
+dev-python/niscope 1.4.1: NI-SCOPE Python API
+dev-python/nise 1.4.1: NI Switch Executive Python API
+dev-python/niswitch 1.4.1: NI-SWITCH Python API
+dev-python/nitclk 1.4.1: NI-TClk Python API
 dev-python/stringparser 0.5: Easy to use pattern matching and information extraction
 sci-libs/comedi_calibrate 5.1: COMEDI calibration utility
 sci-libs/comedilib 0.12.0: The Linux Control and Measurement Device Interface Library
