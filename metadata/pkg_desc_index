@@ -18,6 +18,7 @@ dev-python/nisemi 1.0.0: NI's Semiconductor Device Control Add-On Python API
 dev-python/niswitch 1.4.1: NI-SWITCH Python API
 dev-python/nitclk 1.4.1: NI-TClk Python API
 dev-python/nitsm 0.1.0: TestStand Semiconductor Module Python API
+dev-python/niveristand 2.0.1: NI VeriStand Python API
 dev-python/pythonnet 2.5.2: .Net and Mono integration for Python
 dev-python/stringparser 0.5: Easy to use pattern matching and information extraction
 sci-libs/comedi_calibrate 5.1: COMEDI calibration utility
