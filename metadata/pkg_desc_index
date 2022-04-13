@@ -10,6 +10,7 @@ dev-python/nidigital 1.4.1: NI-Digital Pattern Driver Python API
 dev-python/nidmm 1.4.1: NI-DMM Python API
 dev-python/nifake 1.4.1: NI fake Python API
 dev-python/nifgen 1.4.1: NI-FGEN Python API
+dev-python/niflexlogger-automation 0.1.1: Modify, configure and control NI FlexLogger
 dev-python/nifpga 20.0.0: API for interacting with NI's LabVIEW FPGA Devices
 dev-python/nimodinst 1.4.1: NI-ModInst Python API
 dev-python/niscope 1.4.1: NI-SCOPE Python API
@@ -19,8 +20,11 @@ dev-python/niswitch 1.4.1: NI-SWITCH Python API
 dev-python/nitclk 1.4.1: NI-TClk Python API
 dev-python/nitsm 0.1.0: TestStand Semiconductor Module Python API
 dev-python/niveristand 2.0.1: NI VeriStand Python API
+dev-python/nixnet 0.3.2: NI-XNET Python API
+dev-python/npTDMS 1.4.0: Python module for reading TDMS files produced by LabView
 dev-python/pythonnet 2.5.2: .Net and Mono integration for Python
 dev-python/stringparser 0.5: Easy to use pattern matching and information extraction
+dev-python/thermocouples_reference 0.20: Thermocouple emf reference functions
 sci-libs/comedi_calibrate 5.1: COMEDI calibration utility
 sci-libs/comedilib 0.12.0: The Linux Control and Measurement Device Interface Library
 sci-libs/uldaq 1.2.0: MCC Universal Library for Linux
