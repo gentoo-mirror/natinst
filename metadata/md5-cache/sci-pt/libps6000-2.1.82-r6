@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=PicoScope 6000 series Linux driver
+EAPI=8
+HOMEPAGE=https://www.picotech.com
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-arch/rpm app-shells/bash dev-libs/libusb sys-devel/gcc sys-libs/glibc sys-libs/zlib app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://labs.picotech.com/rpm/x86_64/libps6000-2.1.82-6r3072.x86_64.rpm
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
+_md5_=dd2920b4aaefe8045e53c8a8979b2613

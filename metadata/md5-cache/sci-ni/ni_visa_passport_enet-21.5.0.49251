@@ -1,14 +1,14 @@
 BDEPEND=app-arch/rpm2targz app-arch/rpm
 DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
-DESCRIPTION=Support for NI-VISA applications using LXI,TCP/IP, VXI-11, and HiSLIP
+DESCRIPTION=Provides support for NI-VISA applications using LXI and other networked devices (TCP/IP, VXI-11, and HiSLIP)
 EAPI=8
 HOMEPAGE=https://www.ni.com/r/ni-linux-device-drivers
 INHERIT=rpm-extended
 KEYWORDS=~amd64
 LICENSE=all-rights-reserved
-RDEPEND=app-arch/rpm sci-ni/libvisa >=sci-ni/libvisa-21.5.0 >=sci-ni/ni_euladepot-21.5.0 sys-devel/gcc sys-libs/glibc app-arch/rpm
+RDEPEND=app-arch/rpm >=sci-ni/libvisa-21.5.0 >=sci-ni/ni_euladepot-21.5.0 sys-devel/gcc sys-libs/glibc app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
-SRC_URI=https://download.ni.com/ni-linux-desktop/2022/Q1/rpm/ni/el8/ni-visa-passport-enet-21.5.0.49251-0+f99.x86_64.rpm
+SRC_URI=https://download.ni.com/ni-linux-desktop/2022/Q2/rpm/ni/el8/ni-visa-passport-enet-21.5.0.49251-0+f99.x86_64.rpm
 _eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
-_md5_=5fc96c4dbe3af4fc72d1f8e4895bf246
+_md5_=852d2a8fc1f6ccd40634aa5d43e4c783

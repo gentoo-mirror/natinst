@@ -9,6 +9,6 @@ LICENSE=all-rights-reserved
 RDEPEND=app-arch/rpm >=sci-ni/ni_switch_daqmx_libs-21.3.0 app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
-SRC_URI=https://download.ni.com/ni-linux-desktop/2022/Q1/rpm/ni/el8/ni-switch-daqmx-21.3.0.49352-0+f200.noarch.rpm
+SRC_URI=https://download.ni.com/ni-linux-desktop/2022/Q2/rpm/ni/el8/ni-switch-daqmx-21.3.0.49352-0+f200.noarch.rpm
 _eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
-_md5_=f474b06b7370ecfd42f39fbdb864044e
+_md5_=fe1c48fb4b6f70f550094bcc671b9bb4
