@@ -1,14 +1,14 @@
 BDEPEND=app-arch/rpm2targz app-arch/rpm
-DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DEFINED_PHASES=compile install postinst postrm preinst prepare prerm unpack
 DESCRIPTION=PicoScope GTK
 EAPI=8
 HOMEPAGE=https://www.picotech.com
 INHERIT=rpm-extended
 KEYWORDS=~amd64
 LICENSE=all-rights-reserved
-RDEPEND=app-arch/rpm app-shells/bash >=sci-pt/libpicoipp-1.1.1-r1 =sci-pt/libpicoipp-1.3.0-r4 =sci-pt/libpl1000-2.0.0-r1 =sci-pt/libps2000-3.0.0-r3 =sci-pt/libps2000a-2.1.0-r5 =sci-pt/libps3000-4.0.0-r3 =sci-pt/libps3000a-2.1.0-r6 =sci-pt/libps4000-2.1.0-r2 =sci-pt/libps4000a-2.1.0-r2 =sci-pt/libps5000-2.1.0-r3 =sci-pt/libps5000a-2.1.0-r5 =sci-pt/libps6000-2.1.0-r6 =sci-pt/libusbdrdaq-2.0.0-r1 >=sci-pt/picomono-4.6.2.16-r1 dev-lang/mono[-minimal] app-arch/rpm
+RDEPEND=app-arch/rpm app-shells/bash >=sci-pt/libpicoipp-1.1.1-r1 =sci-pt/libpicoipp-1.3.0-r4 =sci-pt/libpl1000-2.0.0-r1 =sci-pt/libps2000-3.0.0-r3 =sci-pt/libps2000a-2.1.0-r5 =sci-pt/libps3000-4.0.0-r3 =sci-pt/libps3000a-2.1.0-r6 =sci-pt/libps4000-2.1.0-r2 =sci-pt/libps4000a-2.1.0-r2 =sci-pt/libps5000-2.1.0-r3 =sci-pt/libps5000a-2.1.0-r5 =sci-pt/libps6000-2.1.0-r6 =sci-pt/libusbdrdaq-2.0.0-r1 >=sci-pt/picomono-4.6.2.16-r1 sci-pt/picomono app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://labs.picotech.com/rpm/noarch/picoscope-6.13.7-4r707.noarch.rpm
 _eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
-_md5_=705629a5370f4b14ae0ebcf063a9c015
+_md5_=7084f1d4c3005c80d62e2520b63dc4c0
