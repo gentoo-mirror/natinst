@@ -9,6 +9,6 @@ LICENSE=all-rights-reserved
 RDEPEND=app-arch/rpm >=sci-ni/labview_2019_core-19.0.0 >=sci-ni/ni_modinst_libs-21.8.0 >=sci-ni/ni_modinst_notices-21.8.0 app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
-SRC_URI=https://download.ni.com/ni-linux-desktop/2022/Q2/rpm/ni/el8/ni-modinst-labview-2019-support-21.8.0.49259-0+f107.x86_64.rpm
+SRC_URI=https://download.ni.com/ni-linux-desktop/2022/Q3/rpm/ni/el8/ni-modinst-labview-2019-support-21.8.0.49259-0+f107.x86_64.rpm
 _eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
-_md5_=630b96d2a91802d986fc1d98e63e42d2
+_md5_=7e7ea8de3a3d7eb1b658c4ac26d20a34

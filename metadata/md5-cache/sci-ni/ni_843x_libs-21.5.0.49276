@@ -9,6 +9,6 @@ LICENSE=all-rights-reserved
 RDEPEND=app-arch/rpm >=sci-ni/libniapxipm215-21.5.0 >=sci-ni/libniqpxi1-21.5.0 >=sci-ni/ni_843x_dkms-21.5.0 >=sci-ni/ni_pxiplatformservices-21.5.0 >=sci-ni/ni_syscfg_runtime-21.5.0 sys-devel/gcc sys-libs/glibc app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
-SRC_URI=https://download.ni.com/ni-linux-desktop/2022/Q2/rpm/ni/el8/ni-843x-libs-21.5.0.49276-0+f124.x86_64.rpm
+SRC_URI=https://download.ni.com/ni-linux-desktop/2022/Q3/rpm/ni/el8/ni-843x-libs-21.5.0.49276-0+f124.x86_64.rpm
 _eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
-_md5_=c19829a5988a81a4374b4d1ba68db6e4
+_md5_=681836a32548c4716add6c878c2fe34f
