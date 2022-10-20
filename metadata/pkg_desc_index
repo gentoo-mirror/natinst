@@ -51,20 +51,26 @@ sci-ni/labview_2019_help 19.0.0-r1: LabVIEW On-line Reference Manual
 sci-ni/labview_2019_pro 19.0.0-r1: LabVIEW Professional Developers Tools
 sci-ni/labview_2019_ref 19.0.0-r1: LabVIEW Manuals in Adobe Acrobat (.pdf) format
 sci-ni/labview_2019_rte 19.0.0-r1 19.0.0-r2 19.0.1-r3 19.0.1-r4: LabVIEW Run-Time Engine
-sci-ni/labview_2020_appbuild 20.0.0-r1: LabVIEW Run-Time Application Builder
-sci-ni/labview_2020_core 20.0.0-r1: LabVIEW Application and VI Library
-sci-ni/labview_2020_desktop 20.0.0-r1: LabVIEW KDE and GNOME desktop support
-sci-ni/labview_2020_examples 20.0.0-r1: LabVIEW VI Examples
+sci-ni/labview_2020_appbuild 20.0.0-r1 20.0.1-r1: LabVIEW Run-Time Application Builder
+sci-ni/labview_2020_community 20.5.0.49152-r0: LabVIEW Community Edition
+sci-ni/labview_2020_community_exe 20.5.0.49152-r0: LabVIEW Community Edition Executable
+sci-ni/labview_2020_core 20.0.0-r1 20.0.1-r1: LabVIEW Application and VI Library
+sci-ni/labview_2020_desktop 20.0.0-r1 20.0.1-r1: LabVIEW KDE and GNOME desktop support
+sci-ni/labview_2020_examples 20.0.0-r1 20.0.1-r1: LabVIEW VI Examples
 sci-ni/labview_2020_exe 20.0.0-r1: LabVIEW Executables
-sci-ni/labview_2020_help 20.0.0-r1: LabVIEW On-line Reference Manual
+sci-ni/labview_2020_exe_libs 20.5.0.49152-r0: LabVIEW Executables - Libraries
+sci-ni/labview_2020_help 20.0.0-r1 20.0.1-r1: LabVIEW On-line Reference Manual
 sci-ni/labview_2020_pro 20.0.0-r1: LabVIEW Professional Developers Tools
-sci-ni/labview_2020_ref 20.0.0-r1: LabVIEW Manuals in Adobe Acrobat (.pdf) format
-sci-ni/labview_2020_rte 20.0.0-r1 20.0.1.49152-r0: LabVIEW Run-Time Engine
+sci-ni/labview_2020_profull_exe 20.5.0.49152-r0: LabVIEW Pro/Full Executable
+sci-ni/labview_2020_ref 20.0.0-r1 20.0.1-r1: LabVIEW Manuals in Adobe Acrobat (.pdf) format
+sci-ni/labview_2020_rte 20.0.0-r1 20.0.1.49152-r0 20.1.1.49158-r0: LabVIEW Run-Time Engine
 sci-ni/labview_2021_appbuild 21.0.0-r1: LabVIEW Run-Time Application Builder
+sci-ni/labview_2021_community 21.0.0.49262-r0: LabVIEW Community Edition
+sci-ni/labview_2021_community_exe 21.0.0.49262-r0 21.1.0.49476-r0: LabVIEW Community Edition Executable
 sci-ni/labview_2021_core 21.0.0-r1: LabVIEW Application and VI Library
 sci-ni/labview_2021_desktop 21.0.0-r1: LabVIEW KDE and GNOME desktop support
 sci-ni/labview_2021_examples 21.0.0-r1: LabVIEW VI Examples
-sci-ni/labview_2021_exe_libs 21.0.0.49262-r0: LabVIEW Executables - Libraries
+sci-ni/labview_2021_exe_libs 21.0.0.49262-r0 21.1.0.49476-r0: LabVIEW Executables - Libraries
 sci-ni/labview_2021_help 21.0.0-r1: LabVIEW On-line Reference Manual
 sci-ni/labview_2021_pro 21.0.0-r1: LabVIEW Professional Developers Tools
 sci-ni/labview_2021_profull_exe 21.0.0.49262-r0: LabVIEW Pro/Full Executable
@@ -317,9 +323,9 @@ sci-ni/ni_ecumc_libs_config 21.5.0.49292-r0 21.8.0.49241-r0: Config files for EC
 sci-ni/ni_ecumc_notices 21.5.0.49292-r0 21.8.0.49241-r0: Legal notices for ECU Measurement and Calibration (ECUMC) Toolkit
 sci-ni/ni_ecumc_xcp_ccp_trace 21.5.0.49292-r0 21.8.0.49241-r0: XCP and CCP Trace utility for the ECU Measurement and Calibration (ECUMC) Toolkit
 sci-ni/ni_ecumc_xnet_support 21.5.0.49292-r0 21.8.0.49241-r0: Provides NI-XNET hardware support for ECU Measurement and Calibration Toolkit (metapackage)
-sci-ni/ni_euladepot 18.2.0.49152-r0 18.2.1.49152-r0 20.1.0.49152-r0 20.5.0.49152-r0 21.0.0.49152-r0 21.3.0.49682-r0 21.5.0.49591-r0 21.8.0.49644-r0 22.5.0.49285-r0: End User License Agreement documents
-sci-ni/ni_example_finder 22.3.0.49363-r0: NI Example Finder executables
-sci-ni/ni_example_finder_base 22.3.0.49363-r0: NI Example Finder core files
+sci-ni/ni_euladepot 18.2.0.49152-r0 18.2.1.49152-r0 20.0.0.49152-r0 20.1.0.49152-r0 20.5.0.49152-r0 21.0.0.49152-r0 21.3.0.49682-r0 21.5.0.49591-r0 21.8.0.49644-r0 22.5.0.49285-r0: End User License Agreement documents
+sci-ni/ni_example_finder 21.1.0.49476-r0 22.3.0.49363-r0: NI Example Finder executables
+sci-ni/ni_example_finder_base 21.1.0.49476-r0 22.3.0.49363-r0: NI Example Finder core files
 sci-ni/ni_fgen 21.8.0.49444-r0: Provides support for NI FGEN devices (metapackage)
 sci-ni/ni_fgen_5433 21.8.0.49444-r0: NI-FGEN 5433 Device Support
 sci-ni/ni_fgen_5433_dkms 21.8.0.49444-r0: NI-FGEN 5433 Device Driver
@@ -367,8 +373,17 @@ sci-ni/ni_icp_notices 18.0.0.49152-r0 19.0.0.49152-r0 21.0.0.49152-r0 22.5.0.491
 sci-ni/ni_idl_errors 21.0.0.49152-r0 21.5.0.49315-r0 21.8.0.49212-r0 22.5.0.49193-r0: NI Common Design Libraries Error Files Installer Part
 sci-ni/ni_iotrace 18.1.0.49153-r0 19.0.0.49152-r0 20.0.0.49152-r0 21.0.0.49736-r0 21.5.0.49393-r0 22.5.0.49215-r0: NI I/O Trace Debugging Tool
 sci-ni/ni_kal 17.0.0.49152-r0 18.2.0.49152-r0 19.2.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0 21.3.0.49281-r0 21.5.0.49281-r0 21.8.0.49308-r0 22.5.0.49197-r0: NI kernel abstraction layer
+sci-ni/ni_labview_2021_appbuild 21.1.0.49476-r0: LabVIEW Run-Time Application Builder
+sci-ni/ni_labview_2021_community 21.1.0.49476-r0: LabVIEW Community Edition
+sci-ni/ni_labview_2021_core 21.1.0.49476-r0: LabVIEW Application and VI Library
+sci-ni/ni_labview_2021_desktop 21.1.0.49476-r0: LabVIEW KDE and GNOME desktop support
+sci-ni/ni_labview_2021_example_finder 21.1.0.49476-r0: NI Example Finder core files
+sci-ni/ni_labview_2021_example_finder_lib 21.1.0.49476-r0: NI Example Finder lib files
+sci-ni/ni_labview_2021_examples 21.1.0.49476-r0: LabVIEW VI Examples
 sci-ni/ni_labview_2021_fpga_host_comm 21.0.0.49479-r0: lvfpga_host_comm_linux_installer
 sci-ni/ni_labview_2021_fpga_module_eio 21.0.0.49479-r0: lvfpga_eio_linux_installer
+sci-ni/ni_labview_2021_help 21.1.0.49476-r0: LabVIEW On-line Reference Manual
+sci-ni/ni_labview_2021_ref 21.1.0.49476-r0: LabVIEW Manuals in Adobe Acrobat (.pdf) format
 sci-ni/ni_labview_2022_appbuild 22.3.0.49363-r0: LabVIEW Run-Time Application Builder
 sci-ni/ni_labview_2022_community 22.3.0.49364-r0: LabVIEW Community Edition
 sci-ni/ni_labview_2022_core 22.3.0.49363-r0: LabVIEW Application and VI Library
@@ -382,8 +397,8 @@ sci-ni/ni_labview_2022_help 22.3.0.49363-r0: LabVIEW On-line Reference Manual
 sci-ni/ni_labview_2022_ref 22.3.0.49363-r0: LabVIEW Manuals in Adobe Acrobat (.pdf) format
 sci-ni/ni_labview_command_line_interface 4.0.0.49152-r0 22.3.0.49247-r0: NI Command Line Interface Libraries for LabVIEW
 sci-ni/ni_labview_offline_manual 22.3.0.49365-r0: LabVIEW offline manual
-sci-ni/ni_labview_vicompare 22.3.0.49363-r0: LabVIEW Compare script
-sci-ni/ni_labview_vimerge 22.3.0.49363-r0: LabVIEW Merge script
+sci-ni/ni_labview_vicompare 21.1.0.49476-r0 22.3.0.49363-r0: LabVIEW Compare script
+sci-ni/ni_labview_vimerge 21.1.0.49476-r0 22.3.0.49363-r0: LabVIEW Merge script
 sci-ni/ni_mdbg 17.0.0.49152-r0 18.2.0.49153-r0 18.2.3.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49154-r0 21.3.0.49275-r0 21.5.0.49258-r0 21.8.0.49291-r0 22.5.0.49199-r0: NI Driver Framework Debug Support Library
 sci-ni/ni_mdbg_dkms 18.2.0.49153-r0 18.2.3.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49154-r0 21.3.0.49275-r0 21.5.0.49258-r0 21.8.0.49291-r0 22.5.0.49199-r0: NI Driver Framework Debug Support Kernel Module
 sci-ni/ni_mdbg_errors 17.0.0.49152-r0 18.2.0.49153-r0 18.2.3.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49154-r0 21.3.0.49275-r0 21.5.0.49258-r0 21.8.0.49291-r0 22.5.0.49199-r0: NI-MDBG-based driver error code descriptions
@@ -730,26 +745,26 @@ sci-ni/ni_xnet_nixntpciflexray_dkms 19.5.0.32776-r0 21.5.0.49340-r0 21.8.0.49248
 sci-ni/ni_xnet_notices 19.5.0.32769-r0 21.5.0.49337-r0 21.8.0.49245-r0 22.5.0.49182-r0: NI-XNET Legal Notices
 sci-ni/niapalerri 15.0.0-r0: NI Atomic PAL Error Codes
 sci-ni/nicurli 14.0.0-r0 17.0.0-r0 18.0.0-r0 19.0.0-r0 19.5.0-r0 20.0.0-r0 21.0.0.49152-r0 21.3.0.49152-r0: NI cURL 21.3
-sci-ni/nicurli_32bit 19.5.0-r0 21.0.0.49152-r0: NI cURL 21.0
+sci-ni/nicurli_32bit 19.5.0-r0 20.0.0-r0 21.0.0.49152-r0: NI cURL 21.0
 sci-ni/nidimerri 14.2.0-r0: NI-DIM-ERR
 sci-ni/nidimi 14.2.0-r0 17.0.0-r0: NI-DIM User Libraries
 sci-ni/nidimki 14.2.0-r0 17.0.0-r0: NI-DIM
-sci-ni/niexfinder_base 1.0-r47 1.0-r49 1.0-r59: NI Example Finder core files
-sci-ni/niexfinder_exe 1.0-r47 1.0-r49 1.0-r59: NI Example Finder executable
+sci-ni/niexfinder_base 1.0-r47 1.0-r49 1.0-r59 1.0-r61: NI Example Finder core files
+sci-ni/niexfinder_exe 1.0-r47 1.0-r49 1.0-r59 1.0-r61: NI Example Finder executable
 sci-ni/niexfinder_labview_2018 18.0.0-r1 18.0.1-r1: NI Example Finder core files
 sci-ni/niexfinder_labview_2019 19.0.0-r1: NI Example Finder core files
-sci-ni/niexfinder_labview_2020 20.0.0-r1: NI Example Finder core files
+sci-ni/niexfinder_labview_2020 20.0.0-r1 20.0.1-r1: NI Example Finder core files
 sci-ni/niexfinder_labview_2021 21.0.0-r1: NI Example Finder core files
 sci-ni/niexfinder_lib_2018 18.0.0-r1 18.0.1-r1: NI Example Finder shared libraries
 sci-ni/niexfinder_lib_2019 19.0.0-r1: NI Example Finder shared libraries
-sci-ni/niexfinder_lib_2020 20.0.0-r1: NI Example Finder shared libraries
+sci-ni/niexfinder_lib_2020 20.0.0-r1 20.0.1-r1: NI Example Finder shared libraries
 sci-ni/niexfinder_lib_2021 21.0.0-r1: NI Example Finder shared libraries
 sci-ni/niiotracei 17.0.0-r0: NI I/O Trace Debugging Tool -- niiotrace
 sci-ni/nijsonmapi 18.0.0-r1 18.0.1-r1 19.0.0-r1 20.0.0-r1 21.0.0.49152-r0: Provides NI JSON Map Files
 sci-ni/nikali 15.0.0-r0 15.0.1-r0: NI-KAL kernel module source files
-sci-ni/nilvcli 1.0.0.49152-r0 1.1.0.49154-r0 2.1.0.49152-r0 3.0.0.49156-r0: NI Command Line Interface for LabVIEW
-sci-ni/nilvcompare 18.0.0-r1 18.0.1-r1 19.0.0-r1 20.0.0-r1 21.0.0-r1: LabVIEW Compare script
-sci-ni/nilvmerge 18.0.0-r1 18.0.1-r1 19.0.0-r1 20.0.0-r1 21.0.0-r1: LabVIEW Merge script
+sci-ni/nilvcli 1.0.0.49152-r0 1.1.0.49154-r0 2.1.0.49152-r0 3.0.0.49156-r0 3.1.0.49152-r0: NI Command Line Interface for LabVIEW
+sci-ni/nilvcompare 18.0.0-r1 18.0.1-r1 19.0.0-r1 20.0.0-r1 20.0.1-r1 21.0.0-r1: LabVIEW Compare script
+sci-ni/nilvmerge 18.0.0-r1 18.0.1-r1 19.0.0-r1 20.0.0-r1 20.0.1-r1 21.0.0-r1: LabVIEW Merge script
 sci-ni/nimdbgerri 14.2.1-r0: NI-MDBG-ERR
 sci-ni/nimdbgi 14.2.1-r0: NI-MDBG User Libraries
 sci-ni/nimdbgki 14.2.1-r0: NI-MDBG
@@ -770,7 +785,7 @@ sci-ni/nirocoerri 17.0.0-r0: NI-RoCo Error Codes
 sci-ni/nispylogsupp 17.0.0-r0: NI I/O Trace Support Library -- nispylogsupp
 sci-ni/nisslcerts 14.0.0-r3 17.0.0-r3 18.0.0-r3 19.0.0-r3 19.0.1-r3 20.0.0-r3 20.5.1.49152-r0 21.3.0.49152-r0: NI SSL Certificates 21.3
 sci-ni/nissli 14.0.0-r0 17.0.0-r0 18.0.0-r0 19.0.0-r0 19.0.1-r0 20.0.0-r0 20.5.1.49152-r0 21.3.0.49152-r0: NI SSL 21.3
-sci-ni/nissli_32bit 19.0.1-r0: NI SSL 19.0
+sci-ni/nissli_32bit 19.0.1-r0 20.0.0-r0: NI SSL 20.0
 sci-ni/nisvcloc 14.0.0-r1 17.0.0-r1 18.0.0-r1: NI Service Locator
 sci-ni/niswactions 18.1.0.49153-r0 19.0.0.49152-r0 19.5.0.49152-r0: Software Action Services
 sci-ni/nisyscfgi 15.0.0-r0 17.0.0-r0 18.0.0.49152-r0: NI System Configuration API 18.0
