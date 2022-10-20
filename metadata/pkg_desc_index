@@ -70,6 +70,8 @@ sci-ni/labview_2021_pro 21.0.0-r1: LabVIEW Professional Developers Tools
 sci-ni/labview_2021_profull_exe 21.0.0.49262-r0: LabVIEW Pro/Full Executable
 sci-ni/labview_2021_ref 21.0.0-r1: LabVIEW Manuals in Adobe Acrobat (.pdf) format
 sci-ni/labview_2021_rte 21.0.0.49262-r0 21.1.0.49476-r0 21.1.1.49156-r0: LabVIEW Run-Time Engine
+sci-ni/labview_2022_community_exe 22.3.0.49364-r0: LabVIEW Community Edition Executable
+sci-ni/labview_2022_exe_libs 22.3.0.49363-r0: LabVIEW Executables - Libraries
 sci-ni/labview_2022_rte 22.3.0.49363-r0: LabVIEW Run-Time Engine
 sci-ni/libiotracelog 18.1.0.49153-r0 19.0.0.49152-r0 20.0.0.49152-r0 21.0.0.49736-r0 21.5.0.49393-r0 22.5.0.49215-r0: NI I/O Trace Support Library
 sci-ni/libivivisa0 7.0.0-r1: VISA API library with support for multiple vendor implementations
@@ -146,6 +148,7 @@ sci-ni/lvsupport2021_cdsim 21.0.0-r0: LabVIEW 2021 Control Design and Simulation
 sci-ni/lvsupport2021_cdsimmathscript 21.0.0-r0: LabVIEW 2021 Control Design and Simulation Module MathScript Support 64-bit
 sci-ni/lvsupport2021_mathscriptrt 21.0.0-r0: LabVIEW 2021 64-bit MathScript RT Module
 sci-ni/lvsupport2021_vianalyzer 21.0.0-r0: NI LabVIEW 2021 VI Analyzer Toolkit 64-bit
+sci-ni/lvsupport2022_vianalyzer 22.3.0.49316-r0: NI LabVIEW 2021 VI Analyzer Toolkit for Linux Installer 64-bit
 sci-ni/ni4882i 15.1.0-r0 17.0.0-r0: NI-488.2 Driver Software
 sci-ni/ni4882ki 15.1.0-r0 17.0.0-r0: NI-488.2 Kernel-Mode Driver Software
 sci-ni/ni_4882 18.0.0.49152-r0 19.1.0.49152-r0 20.0.0.49152-r0 21.0.0.49329-r0 21.5.0.49311-r0: Driver for NI GPIB hardware (metapackage)
@@ -315,6 +318,8 @@ sci-ni/ni_ecumc_notices 21.5.0.49292-r0 21.8.0.49241-r0: Legal notices for ECU M
 sci-ni/ni_ecumc_xcp_ccp_trace 21.5.0.49292-r0 21.8.0.49241-r0: XCP and CCP Trace utility for the ECU Measurement and Calibration (ECUMC) Toolkit
 sci-ni/ni_ecumc_xnet_support 21.5.0.49292-r0 21.8.0.49241-r0: Provides NI-XNET hardware support for ECU Measurement and Calibration Toolkit (metapackage)
 sci-ni/ni_euladepot 18.2.0.49152-r0 18.2.1.49152-r0 20.1.0.49152-r0 20.5.0.49152-r0 21.0.0.49152-r0 21.3.0.49682-r0 21.5.0.49591-r0 21.8.0.49644-r0 22.5.0.49285-r0: End User License Agreement documents
+sci-ni/ni_example_finder 22.3.0.49363-r0: NI Example Finder executables
+sci-ni/ni_example_finder_base 22.3.0.49363-r0: NI Example Finder core files
 sci-ni/ni_fgen 21.8.0.49444-r0: Provides support for NI FGEN devices (metapackage)
 sci-ni/ni_fgen_5433 21.8.0.49444-r0: NI-FGEN 5433 Device Support
 sci-ni/ni_fgen_5433_dkms 21.8.0.49444-r0: NI-FGEN 5433 Device Driver
@@ -349,6 +354,8 @@ sci-ni/ni_flexrio_modulario_libs_devel 21.3.0.49287-r0 21.5.0.49290-r0 21.8.0.49
 sci-ni/ni_fpga_errors 21.0.0.49476-r0 21.1.0.49158-r0 22.3.0.49288-r0: FPGA Linux Installer that installs the error code
 sci-ni/ni_fpga_interface 18.1.0.49152-r0 19.0.0.49152-r0 20.0.1.49152-r0 21.3.0.49281-r0 21.5.0.49261-r0 21.8.0.49282-r0 22.5.0.49217-r0: FPGA Interface C API
 sci-ni/ni_fpga_interface_labview_libs 21.3.0.49281-r0 21.5.0.49261-r0 21.8.0.49282-r0 22.5.0.49217-r0: FPGA Interface Labview Libs
+sci-ni/ni_help_launcher 22.5.0.49176-r0: Infrastructure to launch help for NI software
+sci-ni/ni_help_preferences 22.5.0.49178-r0: Preferences dialog for NI Help Launcher
 sci-ni/ni_hwcfg_utility 21.5.0.49910-r0 22.5.0.49345-r0: Hardware Configuration Utility
 sci-ni/ni_hwcu_hwsupport 21.5.0.49910-r0 22.5.0.49345-r0: NI Hardware Configuration Utility Hardware Support
 sci-ni/ni_hwcu_libs 21.5.0.49910-r0 22.5.0.49345-r0: NI Hardware Configuration Utility Libraries
@@ -362,9 +369,21 @@ sci-ni/ni_iotrace 18.1.0.49153-r0 19.0.0.49152-r0 20.0.0.49152-r0 21.0.0.49736-r
 sci-ni/ni_kal 17.0.0.49152-r0 18.2.0.49152-r0 19.2.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0 21.3.0.49281-r0 21.5.0.49281-r0 21.8.0.49308-r0 22.5.0.49197-r0: NI kernel abstraction layer
 sci-ni/ni_labview_2021_fpga_host_comm 21.0.0.49479-r0: lvfpga_host_comm_linux_installer
 sci-ni/ni_labview_2021_fpga_module_eio 21.0.0.49479-r0: lvfpga_eio_linux_installer
+sci-ni/ni_labview_2022_appbuild 22.3.0.49363-r0: LabVIEW Run-Time Application Builder
+sci-ni/ni_labview_2022_community 22.3.0.49364-r0: LabVIEW Community Edition
+sci-ni/ni_labview_2022_core 22.3.0.49363-r0: LabVIEW Application and VI Library
+sci-ni/ni_labview_2022_desktop 22.3.0.49363-r0: LabVIEW KDE and GNOME desktop support
+sci-ni/ni_labview_2022_example_finder 22.3.0.49363-r0: NI Example Finder core files
+sci-ni/ni_labview_2022_example_finder_lib 22.3.0.49363-r0: NI Example Finder lib files
+sci-ni/ni_labview_2022_examples 22.3.0.49363-r0: LabVIEW VI Examples
 sci-ni/ni_labview_2022_fpga_host_comm 22.3.0.49296-r0: lvfpga_host_comm_linux_installer
 sci-ni/ni_labview_2022_fpga_module_eio 22.3.0.49296-r0: lvfpga_eio_linux_installer
-sci-ni/ni_labview_command_line_interface 4.0.0.49152-r0: NI Command Line Interface Libraries for LabVIEW
+sci-ni/ni_labview_2022_help 22.3.0.49363-r0: LabVIEW On-line Reference Manual
+sci-ni/ni_labview_2022_ref 22.3.0.49363-r0: LabVIEW Manuals in Adobe Acrobat (.pdf) format
+sci-ni/ni_labview_command_line_interface 4.0.0.49152-r0 22.3.0.49247-r0: NI Command Line Interface Libraries for LabVIEW
+sci-ni/ni_labview_offline_manual 22.3.0.49365-r0: LabVIEW offline manual
+sci-ni/ni_labview_vicompare 22.3.0.49363-r0: LabVIEW Compare script
+sci-ni/ni_labview_vimerge 22.3.0.49363-r0: LabVIEW Merge script
 sci-ni/ni_mdbg 17.0.0.49152-r0 18.2.0.49153-r0 18.2.3.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49154-r0 21.3.0.49275-r0 21.5.0.49258-r0 21.8.0.49291-r0 22.5.0.49199-r0: NI Driver Framework Debug Support Library
 sci-ni/ni_mdbg_dkms 18.2.0.49153-r0 18.2.3.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49154-r0 21.3.0.49275-r0 21.5.0.49258-r0 21.8.0.49291-r0 22.5.0.49199-r0: NI Driver Framework Debug Support Kernel Module
 sci-ni/ni_mdbg_errors 17.0.0.49152-r0 18.2.0.49153-r0 18.2.3.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49154-r0 21.3.0.49275-r0 21.5.0.49258-r0 21.8.0.49291-r0 22.5.0.49199-r0: NI-MDBG-based driver error code descriptions
@@ -393,6 +412,7 @@ sci-ni/ni_mxlc_labview_2021_support 21.3.0.49268-r0 21.5.0.49284-r0 21.8.0.49283
 sci-ni/ni_mxlc_labview_support 22.5.0.49198-r0: NI-MXLC LabVIEW Development Support
 sci-ni/ni_mxs 18.1.0.49153-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0 21.0.0.49152-r0 21.5.0.49391-r0 22.5.0.49218-r0: NI Configuration Manager (MXS)
 sci-ni/ni_networkdiscoverysvc 18.1.0.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0 21.0.0.49152-r0 21.5.0.49390-r0 22.5.0.49218-r0: NI Network Discovery
+sci-ni/ni_offline_help_viewer 1.8.0-r1: NI Offline Help Viewer
 sci-ni/ni_orb 17.0.0.49152-r0 18.2.0.49153-r0 18.2.3.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49153-r0 21.3.0.49275-r0 21.5.0.49258-r0 21.8.0.49291-r0 22.5.0.49199-r0: NI Object Request Broker
 sci-ni/ni_orb_dkms 18.2.0.49153-r0 18.2.3.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49153-r0 21.3.0.49275-r0 21.5.0.49258-r0 21.8.0.49291-r0 22.5.0.49199-r0: NI-ORB kernel module
 sci-ni/ni_orb_errors 17.0.0.49152-r0 18.2.0.49153-r0 18.2.3.49152-r0 19.0.0.49152-r0 19.5.0.49152-r0 20.0.0.49153-r0 21.3.0.49275-r0 21.5.0.49258-r0 21.8.0.49291-r0 22.5.0.49199-r0: NI-ORB-based driver error code descriptions
@@ -783,4 +803,4 @@ sci-pt/libusbpt104 2.0.17-r1: Pico Technology USB TC-08 Linux driver
 sci-pt/libusbtc08 2.0.17-r1: Pico Technology USB TC-08 Linux driver
 sci-pt/picomono 4.6.2.16-r1: Runtime and libraries limited to those required to run PicoScope 6 on Linux
 sci-pt/picoscope 6.13.7-r4 6.14.17-r4 6.14.23-r4 6.14.36-r4 6.14.44-r4 6.14.47-r4 6.14.54-r4: PicoScope GTK
-sys-kernel/dkms 3.0.6: Dynamic Kernel Module Support
+sys-kernel/dkms 3.0.7: Dynamic Kernel Module Support
