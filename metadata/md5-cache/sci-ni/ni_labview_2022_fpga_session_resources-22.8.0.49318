@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=LabVIEW FPGA Advanced Session Resources component
+EAPI=8
+HOMEPAGE=https://www.ni.com/r/ni-linux-device-drivers
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-arch/rpm >=sci-ni/ni_fpga_interface-22.8.0 >=sci-ni/ni_fpga_interface_labview_libs-22.8.0 app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://download.ni.com/ni-linux-desktop/2022/Q4/rpm/ni/el9/ni-labview-2022-fpga-session-resources-22.8.0.49318-0+f166.x86_64.rpm
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
+_md5_=ad5fe04c7f0823e5e65565133ee20991
