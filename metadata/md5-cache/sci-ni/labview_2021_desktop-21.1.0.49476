@@ -1,14 +1,14 @@
 BDEPEND=app-arch/rpm2targz app-arch/rpm
 DEFINED_PHASES=compile install nofetch postinst postrm preinst prerm unpack
-DESCRIPTION=LabVIEW VI Examples
+DESCRIPTION=LabVIEW KDE and GNOME desktop support
 EAPI=8
 HOMEPAGE=https://www.ni.com/r/ni-linux-device-drivers
 INHERIT=rpm-extended
 KEYWORDS=~amd64
 LICENSE=all-rights-reserved
-RDEPEND=app-arch/rpm >=sci-ni/ni_labview_2021_core-21.1.0 app-arch/rpm
+RDEPEND=app-arch/rpm >=sci-ni/labview_2021_core-21.1.0 app-arch/rpm
 RESTRICT=bindist mirror fetch bindist
 SLOT=0
-SRC_URI=ni-labview-2021-examples-21.1.0.49476-0+f324.x86_64.rpm
+SRC_URI=ni-labview-2021-desktop-21.1.0.49476-0+f324.x86_64.rpm
 _eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
-_md5_=39f669a6b359765525a7a5655724b9c3
+_md5_=870cdf2cb5f4be864e24f0145f3e99c4

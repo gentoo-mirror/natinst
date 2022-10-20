@@ -1,14 +1,14 @@
 BDEPEND=app-arch/rpm2targz app-arch/rpm
 DEFINED_PHASES=compile install nofetch postinst postrm preinst prerm unpack
-DESCRIPTION=LabVIEW Run-Time Application Builder
+DESCRIPTION=LabVIEW On-line Reference Manual
 EAPI=8
 HOMEPAGE=https://www.ni.com/r/ni-linux-device-drivers
 INHERIT=rpm-extended
 KEYWORDS=~amd64
 LICENSE=all-rights-reserved
-RDEPEND=app-arch/rpm >=sci-ni/ni_labview_2021_core-21.1.0 app-arch/rpm
+RDEPEND=app-arch/rpm >=sci-ni/labview_2021_core-21.1.0 app-arch/rpm
 RESTRICT=bindist mirror fetch bindist
 SLOT=0
-SRC_URI=ni-labview-2021-appbuild-21.1.0.49476-0+f324.x86_64.rpm
+SRC_URI=ni-labview-2021-help-21.1.0.49476-0+f324.x86_64.rpm
 _eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
-_md5_=50d45438922f7f2186d47d8a3e9aa1a2
+_md5_=22202514c367af97494a1b8adfabde90

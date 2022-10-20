@@ -64,17 +64,19 @@ sci-ni/labview_2020_pro 20.0.0-r1: LabVIEW Professional Developers Tools
 sci-ni/labview_2020_profull_exe 20.5.0.49152-r0: LabVIEW Pro/Full Executable
 sci-ni/labview_2020_ref 20.0.0-r1 20.0.1-r1: LabVIEW Manuals in Adobe Acrobat (.pdf) format
 sci-ni/labview_2020_rte 20.0.0-r1 20.0.1.49152-r0 20.1.1.49158-r0: LabVIEW Run-Time Engine
-sci-ni/labview_2021_appbuild 21.0.0-r1: LabVIEW Run-Time Application Builder
-sci-ni/labview_2021_community 21.0.0.49262-r0: LabVIEW Community Edition
+sci-ni/labview_2021_appbuild 21.0.0-r1 21.1.0.49476-r0: LabVIEW Run-Time Application Builder
+sci-ni/labview_2021_community 21.0.0.49262-r0 21.1.0.49476-r0: LabVIEW Community Edition
 sci-ni/labview_2021_community_exe 21.0.0.49262-r0 21.1.0.49476-r0: LabVIEW Community Edition Executable
-sci-ni/labview_2021_core 21.0.0-r1: LabVIEW Application and VI Library
-sci-ni/labview_2021_desktop 21.0.0-r1: LabVIEW KDE and GNOME desktop support
-sci-ni/labview_2021_examples 21.0.0-r1: LabVIEW VI Examples
+sci-ni/labview_2021_core 21.0.0-r1 21.1.0.49476-r0: LabVIEW Application and VI Library
+sci-ni/labview_2021_desktop 21.0.0-r1 21.1.0.49476-r0: LabVIEW KDE and GNOME desktop support
+sci-ni/labview_2021_example_finder 21.1.0.49476-r0: NI Example Finder core files
+sci-ni/labview_2021_example_finder_lib 21.1.0.49476-r0: NI Example Finder lib files
+sci-ni/labview_2021_examples 21.0.0-r1 21.1.0.49476-r0: LabVIEW VI Examples
 sci-ni/labview_2021_exe_libs 21.0.0.49262-r0 21.1.0.49476-r0: LabVIEW Executables - Libraries
-sci-ni/labview_2021_help 21.0.0-r1: LabVIEW On-line Reference Manual
+sci-ni/labview_2021_help 21.0.0-r1 21.1.0.49476-r0: LabVIEW On-line Reference Manual
 sci-ni/labview_2021_pro 21.0.0-r1: LabVIEW Professional Developers Tools
 sci-ni/labview_2021_profull_exe 21.0.0.49262-r0: LabVIEW Pro/Full Executable
-sci-ni/labview_2021_ref 21.0.0-r1: LabVIEW Manuals in Adobe Acrobat (.pdf) format
+sci-ni/labview_2021_ref 21.0.0-r1 21.1.0.49476-r0: LabVIEW Manuals in Adobe Acrobat (.pdf) format
 sci-ni/labview_2021_rte 21.0.0.49262-r0 21.1.0.49476-r0 21.1.1.49156-r0: LabVIEW Run-Time Engine
 sci-ni/labview_2022_community_exe 22.3.0.49364-r0: LabVIEW Community Edition Executable
 sci-ni/labview_2022_exe_libs 22.3.0.49363-r0: LabVIEW Executables - Libraries
@@ -376,17 +378,8 @@ sci-ni/ni_icp_notices 18.0.0.49152-r0 19.0.0.49152-r0 21.0.0.49152-r0 22.5.0.491
 sci-ni/ni_idl_errors 21.0.0.49152-r0 21.5.0.49315-r0 21.8.0.49212-r0 22.5.0.49193-r0 22.8.0.49259-r0: NI Common Design Libraries Error Files Installer Part
 sci-ni/ni_iotrace 18.1.0.49153-r0 19.0.0.49152-r0 20.0.0.49152-r0 21.0.0.49736-r0 21.5.0.49393-r0 22.5.0.49215-r0: NI I/O Trace Debugging Tool
 sci-ni/ni_kal 17.0.0.49152-r0 18.2.0.49152-r0 19.2.0.49152-r0 19.5.0.49152-r0 20.0.0.49152-r0 21.3.0.49281-r0 21.5.0.49281-r0 21.8.0.49308-r0 22.5.0.49197-r0 22.8.0.49260-r0: NI kernel abstraction layer
-sci-ni/ni_labview_2021_appbuild 21.1.0.49476-r0: LabVIEW Run-Time Application Builder
-sci-ni/ni_labview_2021_community 21.1.0.49476-r0: LabVIEW Community Edition
-sci-ni/ni_labview_2021_core 21.1.0.49476-r0: LabVIEW Application and VI Library
-sci-ni/ni_labview_2021_desktop 21.1.0.49476-r0: LabVIEW KDE and GNOME desktop support
-sci-ni/ni_labview_2021_example_finder 21.1.0.49476-r0: NI Example Finder core files
-sci-ni/ni_labview_2021_example_finder_lib 21.1.0.49476-r0: NI Example Finder lib files
-sci-ni/ni_labview_2021_examples 21.1.0.49476-r0: LabVIEW VI Examples
 sci-ni/ni_labview_2021_fpga_host_comm 21.0.0.49479-r0: lvfpga_host_comm_linux_installer
 sci-ni/ni_labview_2021_fpga_module_eio 21.0.0.49479-r0: lvfpga_eio_linux_installer
-sci-ni/ni_labview_2021_help 21.1.0.49476-r0: LabVIEW On-line Reference Manual
-sci-ni/ni_labview_2021_ref 21.1.0.49476-r0: LabVIEW Manuals in Adobe Acrobat (.pdf) format
 sci-ni/ni_labview_2022_appbuild 22.3.0.49363-r0: LabVIEW Run-Time Application Builder
 sci-ni/ni_labview_2022_community 22.3.0.49364-r0: LabVIEW Community Edition
 sci-ni/ni_labview_2022_core 22.3.0.49363-r0: LabVIEW Application and VI Library
