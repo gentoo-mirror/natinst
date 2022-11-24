@@ -79,8 +79,9 @@ sci-ni/labview_2021_profull_exe 21.0.0.49262-r0: LabVIEW Pro/Full Executable
 sci-ni/labview_2021_ref 21.0.0-r1 21.1.0.49476-r0: LabVIEW Manuals in Adobe Acrobat (.pdf) format
 sci-ni/labview_2021_rte 21.0.0.49262-r0 21.1.0.49476-r0 21.1.1.49156-r0: LabVIEW Run-Time Engine
 sci-ni/labview_2022_community_exe 22.3.0.49364-r0: LabVIEW Community Edition Executable
-sci-ni/labview_2022_exe_libs 22.3.0.49363-r0: LabVIEW Executables - Libraries
-sci-ni/labview_2022_rte 22.3.0.49363-r0: LabVIEW Run-Time Engine
+sci-ni/labview_2022_exe_libs 22.3.0.49363-r0 22.3.1.49152-r0: LabVIEW Executables - Libraries
+sci-ni/labview_2022_profull_exe 22.3.1.49152-r0: LabVIEW Pro/Full Executable
+sci-ni/labview_2022_rte 22.3.0.49363-r0 22.3.1.49152-r0: LabVIEW Run-Time Engine
 sci-ni/libiotracelog 18.1.0.49153-r0 19.0.0.49152-r0 20.0.0.49152-r0 21.0.0.49736-r0 21.5.0.49393-r0 22.5.0.49215-r0: NI I/O Trace Support Library
 sci-ni/libivivisa0 7.0.0-r1: VISA API library with support for multiple vendor implementations
 sci-ni/libivivisa0_devel 7.0.0-r1: Provides files needed to develop applications that use the libivivisa0 library
@@ -156,6 +157,9 @@ sci-ni/lvsupport2021_cdsim 21.0.0-r0: LabVIEW 2021 Control Design and Simulation
 sci-ni/lvsupport2021_cdsimmathscript 21.0.0-r0: LabVIEW 2021 Control Design and Simulation Module MathScript Support 64-bit
 sci-ni/lvsupport2021_mathscriptrt 21.0.0-r0: LabVIEW 2021 64-bit MathScript RT Module
 sci-ni/lvsupport2021_vianalyzer 21.0.0-r0: NI LabVIEW 2021 VI Analyzer Toolkit 64-bit
+sci-ni/lvsupport2022_cdsim 22.3.0-r0: LabVIEW 2022 Control Design and Simulation Module 64-bit
+sci-ni/lvsupport2022_cdsimmathscript 22.3.0-r0: LabVIEW 2022 Control Design and Simulation Module MathScript Support 64-bit
+sci-ni/lvsupport2022_mathscriptrt 22.3.0.49152-r0: MathScript RT Module 2022 for Linux 64-bit Installer
 sci-ni/lvsupport2022_vianalyzer 22.3.0.49316-r0: NI LabVIEW 2021 VI Analyzer Toolkit for Linux Installer 64-bit
 sci-ni/ni4882i 15.1.0-r0 17.0.0-r0: NI-488.2 Driver Software
 sci-ni/ni4882ki 15.1.0-r0 17.0.0-r0: NI-488.2 Kernel-Mode Driver Software
@@ -382,7 +386,7 @@ sci-ni/ni_labview_2021_fpga_host_comm 21.0.0.49479-r0: lvfpga_host_comm_linux_in
 sci-ni/ni_labview_2021_fpga_module_eio 21.0.0.49479-r0: lvfpga_eio_linux_installer
 sci-ni/ni_labview_2022_appbuild 22.3.0.49363-r0: LabVIEW Run-Time Application Builder
 sci-ni/ni_labview_2022_community 22.3.0.49364-r0: LabVIEW Community Edition
-sci-ni/ni_labview_2022_core 22.3.0.49363-r0: LabVIEW Application and VI Library
+sci-ni/ni_labview_2022_core 22.3.0.49363-r0 22.3.1.49152-r0: LabVIEW Application and VI Library
 sci-ni/ni_labview_2022_desktop 22.3.0.49363-r0: LabVIEW KDE and GNOME desktop support
 sci-ni/ni_labview_2022_example_finder 22.3.0.49363-r0: NI Example Finder core files
 sci-ni/ni_labview_2022_example_finder_lib 22.3.0.49363-r0: NI Example Finder lib files
@@ -390,6 +394,7 @@ sci-ni/ni_labview_2022_examples 22.3.0.49363-r0: LabVIEW VI Examples
 sci-ni/ni_labview_2022_fpga_host_comm 22.3.0.49296-r0: lvfpga_host_comm_linux_installer
 sci-ni/ni_labview_2022_fpga_module_eio 22.3.0.49296-r0: lvfpga_eio_linux_installer
 sci-ni/ni_labview_2022_fpga_session_resources 22.8.0.49318-r0: LabVIEW FPGA Advanced Session Resources component
+sci-ni/ni_labview_2022_full 22.3.1.49152-r0: LabVIEW Full Development System
 sci-ni/ni_labview_2022_help 22.3.0.49363-r0: LabVIEW On-line Reference Manual
 sci-ni/ni_labview_2022_ref 22.3.0.49363-r0: LabVIEW Manuals in Adobe Acrobat (.pdf) format
 sci-ni/ni_labview_command_line_interface 4.0.0.49152-r0 22.3.0.49247-r0: NI Command Line Interface Libraries for LabVIEW

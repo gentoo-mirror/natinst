@@ -1,14 +1,14 @@
 BDEPEND=app-arch/rpm2targz app-arch/rpm
 DEFINED_PHASES=compile install nofetch postinst postrm preinst prerm unpack
-DESCRIPTION=Provides NI JSON Map Files
+DESCRIPTION=LabVIEW Pro/Full Executable
 EAPI=8
-HOMEPAGE=https://www.ni.com/linux/
+HOMEPAGE=https://www.ni.com/r/ni-linux-device-drivers
 INHERIT=rpm-extended
 KEYWORDS=~amd64
 LICENSE=all-rights-reserved
-RDEPEND=app-arch/rpm app-arch/rpm
+RDEPEND=app-arch/rpm >=sci-ni/labview_2022_exe_libs-22.3.1 app-arch/rpm
 RESTRICT=bindist mirror fetch bindist
 SLOT=0
-SRC_URI=nijsonmapi-21.0.0.49152-0+f0.noarch.rpm
+SRC_URI=labview-2022-profull-exe-22.3.1.49152-0+f0.x86_64.rpm
 _eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
-_md5_=c7e20b5875c5c0c56ad19ecfc8e00b8c
+_md5_=752dd994b45771ee8f966d403ab20614
