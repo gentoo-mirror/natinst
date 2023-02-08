@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=NI-SCOPE Runtime
+EAPI=8
+HOMEPAGE=https://www.ni.com/r/ni-linux-device-drivers
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-alternatives/sh app-arch/rpm >=sci-ni/ni_icp_libs-22.5.0 >=sci-ni/ni_scope_notices-23.0.0 sci-ni/ni_sysapi >=sci-ni/ni_syscfg_runtime-23.0.0 >=sci-ni/ni_tclk_libs-23.0.0 >=sci-ni/ni_xlator-23.0.0 sys-devel/gcc sys-libs/glibc app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q1/rpm/ni/el9/ni-scope-libs-23.0.0.49332-0+f180.x86_64.rpm
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
+_md5_=75e6030f20c2dc87ec1dea7f9ba27d89

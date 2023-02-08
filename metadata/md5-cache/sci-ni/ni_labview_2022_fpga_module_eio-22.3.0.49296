@@ -9,6 +9,6 @@ LICENSE=all-rights-reserved
 RDEPEND=app-arch/rpm >=sci-ni/ni_labview_2022_core-22.3.0 >=sci-ni/ni_fpga_errors-22.3.0 app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
-SRC_URI=https://download.ni.com/ni-linux-desktop/2022/Q4/rpm/ni/el9/ni-labview-2022-fpga-module-eio-22.3.0.49296-0+f144.x86_64.rpm
+SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q1/rpm/ni/el9/ni-labview-2022-fpga-module-eio-22.3.0.49296-0+f144.x86_64.rpm
 _eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
-_md5_=29bab604b269f0ea97b6f184181b8b07
+_md5_=db76298614a090649f49f5b5401ff015

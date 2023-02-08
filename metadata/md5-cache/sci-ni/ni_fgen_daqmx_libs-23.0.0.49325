@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=NI-FGEN mx Device Libraries
+EAPI=8
+HOMEPAGE=https://www.ni.com/r/ni-linux-device-drivers
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-alternatives/sh app-arch/rpm >=sci-ni/libnidaqmx-23.0.0 sci-ni/libnidimu1 sci-ni/libnimru2u2 >=sci-ni/ni_fgen_daqmx_dkms-23.0.0 sci-ni/ni_mdbg >=sci-ni/ni_mdbg-23.0.0 >=sci-ni/ni_mru-23.0.0 sci-ni/ni_mxdf >=sci-ni/ni_mxdf-23.0.0 sci-ni/ni_orb >=sci-ni/ni_orb-23.0.0 >=sci-ni/ni_p2p-23.0.0 sci-ni/ni_pal >=sci-ni/ni_pal-23.0.0 sci-ni/ni_sysapi >=sci-ni/ni_tclk_daqmx-23.0.0 sys-devel/gcc sys-libs/glibc app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q1/rpm/ni/el9/ni-fgen-daqmx-libs-23.0.0.49325-0+f173.x86_64.rpm
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
+_md5_=6cf32146dfc261c9fa1f9b1bca9fdd18

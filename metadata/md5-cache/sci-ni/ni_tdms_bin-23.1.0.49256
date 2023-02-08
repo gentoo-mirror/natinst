@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=TDMS Binary Installer for Linux
+EAPI=8
+HOMEPAGE=https://www.ni.com/r/ni-linux-device-drivers
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-alternatives/sh app-arch/rpm app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q1/rpm/ni/el9/ni-tdms-bin-23.1.0.49256-0+f104.x86_64.rpm
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
+_md5_=89931a16e6ac9da72d661592a8afc4c6

@@ -6,9 +6,9 @@ HOMEPAGE=https://www.ni.com/r/ni-linux-device-drivers
 INHERIT=rpm-extended
 KEYWORDS=~amd64
 LICENSE=all-rights-reserved
-RDEPEND=app-arch/rpm app-shells/bash:0 >=sci-ni/labview_2021_rte-21.1.1 >=sci-ni/libniemcc_labview-22.8.0 >=sci-ni/ni_ecumc_notices-22.8.0 >=sci-ni/ni_wine-22.8.0 sys-devel/gcc:12 sys-libs/glibc:2.2 app-arch/rpm
+RDEPEND=app-alternatives/sh app-arch/rpm app-shells/bash >=sci-ni/labview_2021_rte-21.1.1 >=sci-ni/libniemcc_labview-22.8.0 >=sci-ni/ni_ecumc_notices-22.8.0 >=sci-ni/ni_wine-22.8.0 sys-devel/gcc sys-libs/glibc app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
-SRC_URI=https://download.ni.com/ni-linux-desktop/2022/Q4/rpm/ni/el9/ni-ecumc-xcp-ccp-trace-22.8.0.49295-0+f143.x86_64.rpm
+SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q1/rpm/ni/el9/ni-ecumc-xcp-ccp-trace-22.8.0.49295-0+f143.x86_64.rpm
 _eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
-_md5_=b274929a40a92fedb1d17b59f9a1f790
+_md5_=83429f85ae5c842f91b448ac53bf9386

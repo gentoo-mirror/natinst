@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install nofetch postinst postrm preinst prerm unpack
+DESCRIPTION=NI Example Finder core files
+EAPI=8
+HOMEPAGE=https://www.ni.com/r/ni-linux-device-drivers
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-alternatives/sh app-arch/rpm >=sci-ni/ni_example_finder_base-23.1.0 >=sci-ni/ni_labview_2023_example_finder_lib-23.1.0 app-arch/rpm
+RESTRICT=bindist mirror fetch bindist
+SLOT=0
+SRC_URI=ni-labview-2023-example-finder-23.1.0.49227-0+f75.noarch.rpm
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
+_md5_=2e7a7b01b995def4ac507326bd558458
