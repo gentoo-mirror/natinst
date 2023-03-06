@@ -10,5 +10,5 @@ RDEPEND=app-alternatives/sh app-arch/rpm >=sci-ni/libnixnet-22.5.0 >=sci-ni/ni_a
 RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q1/rpm/ni/el9/ni-bci-xnet-libs-22.8.0.49295-0+f143.x86_64.rpm
-_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
 _md5_=9fe94914c9a44e8c197ceec072e00ac9

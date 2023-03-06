@@ -10,5 +10,5 @@ RDEPEND=app-alternatives/sh app-arch/rpm >=sci-ni/ni_euladepot-23.0.0 >=sci-ni/n
 RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q1/rpm/ni/el9/ni-sync-pxi6683-hwsupport-23.0.0.49272-0+f120.el9.x86_64.rpm
-_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
 _md5_=5b81714549725bfb63381edfb25df54b

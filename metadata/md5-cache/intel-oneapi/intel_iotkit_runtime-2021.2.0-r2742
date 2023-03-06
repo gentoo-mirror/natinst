@@ -10,5 +10,5 @@ RDEPEND=app-arch/rpm >=intel-oneapi/intel_basekit-2021.2.0-r2740 >=intel-oneapi/
 RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://yum.repos.intel.com/oneapi/intel-iotkit-runtime-2021.2.0-2742.x86_64.rpm
-_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
 _md5_=74e335b41dbaa31bdfdf320a38091dc5

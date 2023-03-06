@@ -10,5 +10,5 @@ RDEPEND=app-accessibility/at-spi2-core app-arch/rpm dev-libs/nss dev-perl/Gtk3 x
 RESTRICT=bindist mirror fetch bindist
 SLOT=0
 SRC_URI=ni-offline-help-viewer-1.8.0.x86_64.rpm
-_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
 _md5_=67b8b86a0f14a0c03a89a5b4d8ab728d

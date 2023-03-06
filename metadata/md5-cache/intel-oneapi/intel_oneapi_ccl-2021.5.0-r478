@@ -10,5 +10,5 @@ RDEPEND=app-arch/rpm intel-oneapi/intel_oneapi_ccl_202150 app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://yum.repos.intel.com/oneapi/intel-oneapi-ccl-2021.5.0-478.x86_64.rpm
-_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
 _md5_=01ea17cfbfb5e8b20935f4ba253237b6

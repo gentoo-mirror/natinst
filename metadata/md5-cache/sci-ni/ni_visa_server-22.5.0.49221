@@ -10,5 +10,5 @@ RDEPEND=app-arch/rpm >=sci-ni/ni_euladepot-22.5.0 >=sci-ni/ni_visa_runtime-22.5.
 RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q1/rpm/ni/el9/ni-visa-server-22.5.0.49221-0+f69.x86_64.rpm
-_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
 _md5_=83af727ec75b5739a2023a6ea41954d5

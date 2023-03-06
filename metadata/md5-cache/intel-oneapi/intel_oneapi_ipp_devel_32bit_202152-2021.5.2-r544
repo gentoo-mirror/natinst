@@ -10,5 +10,5 @@ RDEPEND=app-alternatives/sh app-arch/rpm intel-oneapi/intel_oneapi_common_licens
 RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://yum.repos.intel.com/oneapi/intel-oneapi-ipp-devel-32bit-2021.5.2-2021.5.2-544.x86_64.rpm
-_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
 _md5_=185c845fb181a13966c59abf2b7a2ae4

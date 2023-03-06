@@ -10,5 +10,5 @@ RDEPEND=app-arch/rpm intel-oneapi/intel_oneapi_common_licensing_202120 >=intel-o
 RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://yum.repos.intel.com/oneapi/intel-oneapi-dpcpp-ct-eclipse-cfg-2021.2.0-222.noarch.rpm
-_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
 _md5_=b15f8c7cf35a87b867ae48f0deb94e9a
