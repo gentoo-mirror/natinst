@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=Intel® oneAPI Base Toolkit
+EAPI=8
+HOMEPAGE=https://yum.repos.intel.com/oneapi/
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-alternatives/sh app-arch/rpm >=intel-oneapi/intel_basekit_getting_started-2023.0.0-r25537 >=intel-oneapi/intel_oneapi_advisor-2023.0.0-r25338 intel-oneapi/intel_oneapi_ccl_devel_202180 intel-oneapi/intel_oneapi_common_licensing_202300 >=intel-oneapi/intel_oneapi_common_vars-2023.0.0-r25325 intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_202300 intel-oneapi/intel_oneapi_dal_devel_202300 intel-oneapi/intel_oneapi_dev_utilities_202180 >=intel-oneapi/intel_oneapi_diagnostics_utility-2022.2.0-r25337 >=intel-oneapi/intel_oneapi_dnnl_devel-2023.0.0-r25399 intel-oneapi/intel_oneapi_dpcpp_ct_202300 intel-oneapi/intel_oneapi_dpcpp_debugger_202300 intel-oneapi/intel_oneapi_ippcp_devel_202163 intel-oneapi/intel_oneapi_ipp_devel_202170 intel-oneapi/intel_oneapi_libdpstd_devel_202200 intel-oneapi/intel_oneapi_mkl_devel_202300 intel-oneapi/intel_oneapi_onevpl_devel_202300 intel-oneapi/intel_oneapi_tbb_devel_202180 >=intel-oneapi/intel_oneapi_vtune-2023.0.0-r25339 app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://yum.repos.intel.com/oneapi/intel-basekit-2023.0.0-2023.0.0-25537.x86_64.rpm
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
+_md5_=754623578ca55e8072f886d5267a18b7

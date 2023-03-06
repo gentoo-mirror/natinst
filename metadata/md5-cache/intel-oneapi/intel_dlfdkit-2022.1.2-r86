@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=Intel® oneAPI DL Framework Developer Toolkit
+EAPI=8
+HOMEPAGE=https://yum.repos.intel.com/oneapi/
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-alternatives/sh app-arch/rpm >=intel-oneapi/intel_dlfdkit_getting_started-2022.1.2-r86 >=intel-oneapi/intel_oneapi_ccl_devel-2021.5.1-r494 >=intel-oneapi/intel_oneapi_common_licensing-2022.0.0-r59 >=intel-oneapi/intel_oneapi_common_vars-2022.0.0-r59 >=intel-oneapi/intel_oneapi_dev_utilities-2021.5.2-r936 >=intel-oneapi/intel_oneapi_dnnl_devel-2022.0.2-r43 app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://yum.repos.intel.com/oneapi/intel-dlfdkit-2022.1.2-86.x86_64.rpm
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
+_md5_=221141b6192623c444d0730e37788532

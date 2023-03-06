@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=Intel(R) DPC++/C++ Pro / Fortran Compiler Runtime Shared Files
+EAPI=8
+HOMEPAGE=https://yum.repos.intel.com/oneapi/
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-arch/rpm intel-oneapi/intel_oneapi_common_licensing_202200 >=intel-oneapi/intel_oneapi_common_vars-2022.0.0-r59 intel-oneapi/intel_oneapi_compiler_shared_runtime_202202 app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://yum.repos.intel.com/oneapi/intel-oneapi-compiler-dpcpp-cpp-classic-fortran-shared-runtime-2022.0.2-2022.0.2-3658.x86_64.rpm
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
+_md5_=5636e03371a397cb299580591f5dfde3

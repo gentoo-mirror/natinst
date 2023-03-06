@@ -27,6 +27,1169 @@ dev-python/npTDMS 1.4.0 1.6.0 1.6.1: Python module for reading TDMS files produc
 dev-python/pythonnet 2.5.2 3.0.1: .Net and Mono integration for Python
 dev-python/stringparser 0.5 0.6: Easy to use pattern matching and information extraction
 dev-python/thermocouples_reference 0.20: Thermocouple emf reference functions
+intel-oneapi/intel_aikit 2021.1.0-r935 2021.2.0-r1101 2021.3.0-r1370 2021.4.0-r1460 2022.1.1-r106 2022.1.2-r135 2022.2.0-r231 2022.3.0-r8775 2022.3.1-r20890 2023.0.0-r26100 2023.1.0-r31760: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_202110 2021.1.0-r935: Intel® AI Analytics Toolkit
+intel-oneapi/intel_aikit_202120 2021.2.0-r1101: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_202130 2021.3.0-r1370: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_202140 2021.4.0-r1460: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_202211 2022.1.1-r106: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_202212 2022.1.2-r135: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_202220 2022.2.0-r231: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_202230 2022.3.0-r8775: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_202231 2022.3.1-r20890: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_202300 2023.0.0-r26100: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_202310 2023.1.0-r31760: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_32bit 2021.1.0-r935 2021.2.0-r1101 2021.3.0-r1370 2021.4.0-r1460 2022.1.1-r106 2022.1.2-r135 2022.2.0-r231 2022.3.0-r8775 2022.3.1-r20890 2023.0.0-r26100 2023.1.0-r31760: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_32bit_202110 2021.1.0-r935: Intel® AI Analytics Toolkit
+intel-oneapi/intel_aikit_32bit_202120 2021.2.0-r1101: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_32bit_202130 2021.3.0-r1370: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_32bit_202140 2021.4.0-r1460: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_32bit_202211 2022.1.1-r106: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_32bit_202212 2022.1.2-r135: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_32bit_202220 2022.2.0-r231: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_32bit_202230 2022.3.0-r8775: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_32bit_202231 2022.3.1-r20890: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_32bit_202300 2023.0.0-r26100: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_32bit_202310 2023.1.0-r31760: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_getting_started 2021.1.0-r935 2021.2.0-r1101 2021.3.0-r1370 2021.4.0-r1460 2022.1.1-r106 2022.1.2-r135 2022.2.0-r231 2022.3.0-r8775 2022.3.1-r20890 2023.0.0-r26100 2023.1.0-r31760: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_runtime 2021.1.0-r935 2021.2.0-r1101 2021.3.0-r1370 2021.4.0-r1460 2022.1.1-r106 2022.1.2-r135 2022.2.0-r231 2022.3.0-r8775 2022.3.1-r20890 2023.0.0-r26100 2023.1.0-r31760: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_runtime_202110 2021.1.0-r935: Intel® AI Analytics Toolkit
+intel-oneapi/intel_aikit_runtime_202120 2021.2.0-r1101: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_runtime_202130 2021.3.0-r1370: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_runtime_202140 2021.4.0-r1460: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_runtime_202211 2022.1.1-r106: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_runtime_202212 2022.1.2-r135: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_runtime_202220 2022.2.0-r231: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_runtime_202230 2022.3.0-r8775: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_runtime_202231 2022.3.1-r20890: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_runtime_202300 2023.0.0-r26100: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_runtime_202310 2023.1.0-r31760: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_runtime_32bit 2021.1.0-r935 2021.2.0-r1101 2021.3.0-r1370 2021.4.0-r1460 2022.1.1-r106 2022.1.2-r135 2022.2.0-r231 2022.3.0-r8775 2022.3.1-r20890 2023.0.0-r26100 2023.1.0-r31760: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_runtime_32bit_202110 2021.1.0-r935: Intel® AI Analytics Toolkit
+intel-oneapi/intel_aikit_runtime_32bit_202120 2021.2.0-r1101: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_runtime_32bit_202130 2021.3.0-r1370: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_runtime_32bit_202140 2021.4.0-r1460: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_runtime_32bit_202211 2022.1.1-r106: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_runtime_32bit_202212 2022.1.2-r135: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_runtime_32bit_202220 2022.2.0-r231: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_runtime_32bit_202230 2022.3.0-r8775: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_runtime_32bit_202231 2022.3.1-r20890: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_runtime_32bit_202300 2023.0.0-r26100: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_aikit_runtime_32bit_202310 2023.1.0-r31760: Intel® oneAPI AI Analytics Toolkit
+intel-oneapi/intel_basekit 2021.1.0-r2659 2021.2.0-r2883 2021.3.0-r3219 2021.4.0-r3422 2022.1.1-r119 2022.1.2-r146 2022.2.0-r262 2022.3.0-r8767 2022.3.1-r17310 2023.0.0-r25537: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_202110 2021.1.0-r2659: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_202120 2021.2.0-r2883: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_202130 2021.3.0-r3219: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_202140 2021.4.0-r3422: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_202211 2022.1.1-r119: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_202212 2022.1.2-r146: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_202220 2022.2.0-r262: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_202230 2022.3.0-r8767: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_202231 2022.3.1-r17310: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_202300 2023.0.0-r25537: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_32bit 2021.1.0-r2659 2021.2.0-r2883 2021.3.0-r3219 2021.4.0-r3422 2022.1.1-r119 2022.1.2-r146 2022.2.0-r262 2022.3.0-r8767 2022.3.1-r17310 2023.0.0-r25537: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_32bit_202110 2021.1.0-r2659: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_32bit_202120 2021.2.0-r2883: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_32bit_202130 2021.3.0-r3219: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_32bit_202140 2021.4.0-r3422: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_32bit_202211 2022.1.1-r119: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_32bit_202212 2022.1.2-r146: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_32bit_202220 2022.2.0-r262: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_32bit_202230 2022.3.0-r8767: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_32bit_202231 2022.3.1-r17310: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_32bit_202300 2023.0.0-r25537: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_getting_started 2021.1.0-r2659 2021.2.0-r2883 2021.3.0-r3219 2021.4.0-r3422 2022.1.1-r119 2022.1.2-r146 2022.2.0-r262 2022.3.0-r8767 2022.3.1-r17310 2023.0.0-r25537: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_runtime 2021.1.0-r2659 2021.2.0-r2883 2021.3.0-r3219 2021.4.0-r3422 2022.1.1-r119 2022.1.2-r146 2022.2.0-r262 2022.3.0-r8767 2022.3.1-r17310 2023.0.0-r25537: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_runtime_202110 2021.1.0-r2659: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_runtime_202120 2021.2.0-r2883: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_runtime_202130 2021.3.0-r3219: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_runtime_202140 2021.4.0-r3422: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_runtime_202211 2022.1.1-r119: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_runtime_202212 2022.1.2-r146: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_runtime_202220 2022.2.0-r262: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_runtime_202230 2022.3.0-r8767: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_runtime_202231 2022.3.1-r17310: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_runtime_202300 2023.0.0-r25537: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_runtime_32bit 2021.1.0-r2659 2021.2.0-r2883 2021.3.0-r3219 2021.4.0-r3422 2022.1.1-r119 2022.1.2-r146 2022.2.0-r262 2022.3.0-r8767 2022.3.1-r17310 2023.0.0-r25537: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_runtime_32bit_202110 2021.1.0-r2659: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_runtime_32bit_202120 2021.2.0-r2883: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_runtime_32bit_202130 2021.3.0-r3219: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_runtime_32bit_202140 2021.4.0-r3422: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_runtime_32bit_202211 2022.1.1-r119: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_runtime_32bit_202212 2022.1.2-r146: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_runtime_32bit_202220 2022.2.0-r262: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_runtime_32bit_202230 2022.3.0-r8767: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_runtime_32bit_202231 2022.3.1-r17310: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_basekit_runtime_32bit_202300 2023.0.0-r25537: Intel® oneAPI Base Toolkit
+intel-oneapi/intel_dlfdkit 2021.1.0-r1920 2021.2.0-r1999 2021.3.0-r2064 2021.4.0-r2105 2022.1.1-r69 2022.1.2-r86 2022.2.0-r140 2022.3.0-r8753 2022.3.1-r17050 2023.0.0-r25405: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_202110 2021.1.0-r1920: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_202120 2021.2.0-r1999: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_202130 2021.3.0-r2064: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_202140 2021.4.0-r2105: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_202211 2022.1.1-r69: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_202212 2022.1.2-r86: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_202220 2022.2.0-r140: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_202230 2022.3.0-r8753: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_202231 2022.3.1-r17050: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_202300 2023.0.0-r25405: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_32bit 2021.1.0-r1920 2021.2.0-r1999 2021.3.0-r2064 2021.4.0-r2105 2022.1.1-r69 2022.1.2-r86 2022.2.0-r140 2022.3.0-r8753 2022.3.1-r17050 2023.0.0-r25405: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_32bit_202110 2021.1.0-r1920: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_32bit_202120 2021.2.0-r1999: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_32bit_202130 2021.3.0-r2064: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_32bit_202140 2021.4.0-r2105: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_32bit_202211 2022.1.1-r69: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_32bit_202212 2022.1.2-r86: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_32bit_202220 2022.2.0-r140: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_32bit_202230 2022.3.0-r8753: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_32bit_202231 2022.3.1-r17050: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_32bit_202300 2023.0.0-r25405: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_getting_started 2021.1.0-r1920 2021.2.0-r1999 2021.3.0-r2064 2021.4.0-r2105 2022.1.1-r69 2022.1.2-r86 2022.2.0-r140 2022.3.0-r8753 2022.3.1-r17050 2023.0.0-r25405: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_runtime 2021.1.0-r1920 2021.2.0-r1999 2021.3.0-r2064 2021.4.0-r2105 2022.1.1-r69 2022.1.2-r86 2022.2.0-r140 2022.3.0-r8753 2022.3.1-r17050 2023.0.0-r25405: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_runtime_202110 2021.1.0-r1920: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_runtime_202120 2021.2.0-r1999: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_runtime_202130 2021.3.0-r2064: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_runtime_202140 2021.4.0-r2105: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_runtime_202211 2022.1.1-r69: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_runtime_202212 2022.1.2-r86: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_runtime_202220 2022.2.0-r140: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_runtime_202230 2022.3.0-r8753: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_runtime_202231 2022.3.1-r17050: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_runtime_202300 2023.0.0-r25405: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_runtime_32bit 2021.1.0-r1920 2021.2.0-r1999 2021.3.0-r2064 2021.4.0-r2105 2022.1.1-r69 2022.1.2-r86 2022.2.0-r140 2022.3.0-r8753 2022.3.1-r17050 2023.0.0-r25405: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_runtime_32bit_202110 2021.1.0-r1920: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_runtime_32bit_202120 2021.2.0-r1999: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_runtime_32bit_202130 2021.3.0-r2064: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_runtime_32bit_202140 2021.4.0-r2105: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_runtime_32bit_202211 2022.1.1-r69: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_runtime_32bit_202212 2022.1.2-r86: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_runtime_32bit_202220 2022.2.0-r140: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_runtime_32bit_202230 2022.3.0-r8753: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_runtime_32bit_202231 2022.3.1-r17050: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dlfdkit_runtime_32bit_202300 2023.0.0-r25405: Intel® oneAPI DL Framework Developer Toolkit
+intel-oneapi/intel_dpcpp_cpp_compiler_202220 2022.2.0-r8772: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic
+intel-oneapi/intel_dpcpp_cpp_compiler_202221 2022.2.1-r16991: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic
+intel-oneapi/intel_dpcpp_cpp_compiler_202300 2023.0.0-r25393: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic
+intel-oneapi/intel_hpckit 2021.1.0-r2684 2021.2.0-r2997 2021.3.0-r3230 2021.4.0-r3347 2022.1.1-r97 2022.1.2-r117 2022.2.0-r191 2022.3.0-r8751 2022.3.1-r16997 2023.0.0-r25400: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_202110 2021.1.0-r2684: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_202120 2021.2.0-r2997: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_202130 2021.3.0-r3230: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_202140 2021.4.0-r3347: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_202211 2022.1.1-r97: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_202212 2022.1.2-r117: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_202220 2022.2.0-r191: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_202230 2022.3.0-r8751: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_202231 2022.3.1-r16997: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_202300 2023.0.0-r25400: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_32bit 2021.1.0-r2684 2021.2.0-r2997 2021.3.0-r3230 2021.4.0-r3347 2022.1.1-r97 2022.1.2-r117 2022.2.0-r191 2022.3.0-r8751 2022.3.1-r16997 2023.0.0-r25400: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_32bit_202110 2021.1.0-r2684: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_32bit_202120 2021.2.0-r2997: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_32bit_202130 2021.3.0-r3230: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_32bit_202140 2021.4.0-r3347: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_32bit_202211 2022.1.1-r97: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_32bit_202212 2022.1.2-r117: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_32bit_202220 2022.2.0-r191: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_32bit_202230 2022.3.0-r8751: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_32bit_202231 2022.3.1-r16997: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_32bit_202300 2023.0.0-r25400: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_getting_started 2021.1.0-r2684 2021.2.0-r2997 2021.3.0-r3230 2021.4.0-r3347 2022.1.1-r97 2022.1.2-r117 2022.2.0-r191 2022.3.0-r8751 2022.3.1-r16997 2023.0.0-r25400: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_runtime 2021.1.0-r2684 2021.2.0-r2997 2021.3.0-r3230 2021.4.0-r3347 2022.1.1-r97 2022.1.2-r117 2022.2.0-r191 2022.3.0-r8751 2022.3.1-r16997 2023.0.0-r25400: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_runtime_202110 2021.1.0-r2684: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_runtime_202120 2021.2.0-r2997: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_runtime_202130 2021.3.0-r3230: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_runtime_202140 2021.4.0-r3347: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_runtime_202211 2022.1.1-r97: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_runtime_202212 2022.1.2-r117: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_runtime_202220 2022.2.0-r191: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_runtime_202230 2022.3.0-r8751: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_runtime_202231 2022.3.1-r16997: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_runtime_202300 2023.0.0-r25400: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_runtime_32bit 2021.1.0-r2684 2021.2.0-r2997 2021.3.0-r3230 2021.4.0-r3347 2022.1.1-r97 2022.1.2-r117 2022.2.0-r191 2022.3.0-r8751 2022.3.1-r16997 2023.0.0-r25400: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_runtime_32bit_202110 2021.1.0-r2684: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_runtime_32bit_202120 2021.2.0-r2997: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_runtime_32bit_202130 2021.3.0-r3230: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_runtime_32bit_202140 2021.4.0-r3347: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_runtime_32bit_202211 2022.1.1-r97: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_runtime_32bit_202212 2022.1.2-r117: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_runtime_32bit_202220 2022.2.0-r191: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_runtime_32bit_202230 2022.3.0-r8751: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_runtime_32bit_202231 2022.3.1-r16997: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_hpckit_runtime_32bit_202300 2023.0.0-r25400: Intel® oneAPI HPC Toolkit
+intel-oneapi/intel_iotkit 2021.1.0-r2658 2021.2.0-r2742 2021.3.0-r2811 2021.4.0-r2858 2022.1.1-r84 2022.1.2-r102 2022.2.0-r165 2022.3.0-r8747 2022.3.1-r16990 2023.0.0-r25397: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_202110 2021.1.0-r2658: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_202120 2021.2.0-r2742: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_202130 2021.3.0-r2811: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_202140 2021.4.0-r2858: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_202211 2022.1.1-r84: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_202212 2022.1.2-r102: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_202220 2022.2.0-r165: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_202230 2022.3.0-r8747: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_202231 2022.3.1-r16990: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_202300 2023.0.0-r25397: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_32bit 2021.1.0-r2658 2021.2.0-r2742 2021.3.0-r2811 2021.4.0-r2858 2022.1.1-r84 2022.1.2-r102 2022.2.0-r165 2022.3.0-r8747 2022.3.1-r16990 2023.0.0-r25397: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_32bit_202110 2021.1.0-r2658: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_32bit_202120 2021.2.0-r2742: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_32bit_202130 2021.3.0-r2811: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_32bit_202140 2021.4.0-r2858: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_32bit_202211 2022.1.1-r84: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_32bit_202212 2022.1.2-r102: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_32bit_202220 2022.2.0-r165: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_32bit_202230 2022.3.0-r8747: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_32bit_202231 2022.3.1-r16990: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_32bit_202300 2023.0.0-r25397: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_getting_started 2021.1.0-r2658 2021.2.0-r2742 2021.3.0-r2811 2021.4.0-r2858 2022.1.1-r84 2022.1.2-r102 2022.2.0-r165 2022.3.0-r8747 2022.3.1-r16990 2023.0.0-r25397: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_runtime 2021.1.0-r2658 2021.2.0-r2742 2021.3.0-r2811 2021.4.0-r2858 2022.1.1-r84 2022.1.2-r102 2022.2.0-r165 2022.3.0-r8747 2022.3.1-r16990 2023.0.0-r25397: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_runtime_202110 2021.1.0-r2658: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_runtime_202120 2021.2.0-r2742: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_runtime_202130 2021.3.0-r2811: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_runtime_202140 2021.4.0-r2858: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_runtime_202211 2022.1.1-r84: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_runtime_202212 2022.1.2-r102: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_runtime_202220 2022.2.0-r165: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_runtime_202230 2022.3.0-r8747: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_runtime_202231 2022.3.1-r16990: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_runtime_202300 2023.0.0-r25397: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_runtime_32bit 2021.1.0-r2658 2021.2.0-r2742 2021.3.0-r2811 2021.4.0-r2858 2022.1.1-r84 2022.1.2-r102 2022.2.0-r165 2022.3.0-r8747 2022.3.1-r16990 2023.0.0-r25397: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_runtime_32bit_202110 2021.1.0-r2658: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_runtime_32bit_202120 2021.2.0-r2742: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_runtime_32bit_202130 2021.3.0-r2811: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_runtime_32bit_202140 2021.4.0-r2858: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_runtime_32bit_202211 2022.1.1-r84: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_runtime_32bit_202212 2022.1.2-r102: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_runtime_32bit_202220 2022.2.0-r165: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_runtime_32bit_202230 2022.3.0-r8747: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_runtime_32bit_202231 2022.3.1-r16990: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_iotkit_runtime_32bit_202300 2023.0.0-r25397: Intel® oneAPI IoT Toolkit
+intel-oneapi/intel_oneapi_advisor 2021.1.1-r43 2021.2.0-r189 2021.3.0-r290 2021.4.0-r389 2022.0.0-r92 2022.1.0-r171 2022.3.0-r8704 2022.3.1-r15323 2023.0.0-r25338: Intel® Advisor
+intel-oneapi/intel_oneapi_ccl 2021.1.1-r54 2021.2.0-r269 2021.3.0-r343 2021.4.0-r433 2021.5.0-r478 2021.5.1-r494 2021.6.0-r568 2021.7.0-r8733 2021.7.1-r16948 2021.8.0-r25371: Intel® oneAPI Collective Communications Library Runtime Environment
+intel-oneapi/intel_oneapi_ccl_202111 2021.1.1-r54: Intel® oneAPI Collective Communications Library Runtime Environment
+intel-oneapi/intel_oneapi_ccl_202120 2021.2.0-r269: Intel® oneAPI Collective Communications Library Runtime Environment
+intel-oneapi/intel_oneapi_ccl_202130 2021.3.0-r343: Intel® oneAPI Collective Communications Library Runtime Environment
+intel-oneapi/intel_oneapi_ccl_202140 2021.4.0-r433: Intel® oneAPI Collective Communications Library Runtime Environment
+intel-oneapi/intel_oneapi_ccl_202150 2021.5.0-r478: Intel® oneAPI Collective Communications Library Runtime Environment
+intel-oneapi/intel_oneapi_ccl_202151 2021.5.1-r494: Intel® oneAPI Collective Communications Library Runtime Environment
+intel-oneapi/intel_oneapi_ccl_202160 2021.6.0-r568: Intel® oneAPI Collective Communications Library Runtime Environment
+intel-oneapi/intel_oneapi_ccl_202170 2021.7.0-r8733: Intel® oneAPI Collective Communications Library Runtime Environment
+intel-oneapi/intel_oneapi_ccl_202171 2021.7.1-r16948: Intel® oneAPI Collective Communications Library Runtime Environment
+intel-oneapi/intel_oneapi_ccl_202180 2021.8.0-r25371: Intel® oneAPI Collective Communications Library Runtime Environment
+intel-oneapi/intel_oneapi_ccl_devel 2021.1.1-r54 2021.2.0-r269 2021.3.0-r343 2021.4.0-r433 2021.5.0-r478 2021.5.1-r494 2021.6.0-r568 2021.7.0-r8733 2021.7.1-r16948 2021.8.0-r25371: Intel® oneAPI Collective Communications Library
+intel-oneapi/intel_oneapi_ccl_devel_202111 2021.1.1-r54: Intel® oneAPI Collective Communications Library
+intel-oneapi/intel_oneapi_ccl_devel_202120 2021.2.0-r269: Intel® oneAPI Collective Communications Library
+intel-oneapi/intel_oneapi_ccl_devel_202130 2021.3.0-r343: Intel® oneAPI Collective Communications Library
+intel-oneapi/intel_oneapi_ccl_devel_202140 2021.4.0-r433: Intel® oneAPI Collective Communications Library
+intel-oneapi/intel_oneapi_ccl_devel_202150 2021.5.0-r478: Intel® oneAPI Collective Communications Library
+intel-oneapi/intel_oneapi_ccl_devel_202151 2021.5.1-r494: Intel® oneAPI Collective Communications Library
+intel-oneapi/intel_oneapi_ccl_devel_202160 2021.6.0-r568: Intel® oneAPI Collective Communications Library
+intel-oneapi/intel_oneapi_ccl_devel_202170 2021.7.0-r8733: Intel® oneAPI Collective Communications Library
+intel-oneapi/intel_oneapi_ccl_devel_202171 2021.7.1-r16948: Intel® oneAPI Collective Communications Library
+intel-oneapi/intel_oneapi_ccl_devel_202180 2021.8.0-r25371: Intel® oneAPI Collective Communications Library
+intel-oneapi/intel_oneapi_clck 2021.1.1-r68 2021.2.0-r308 2021.2.2-r315 2021.3.0-r406 2021.4.0-r509 2021.5.0-r560 2021.5.1-r588 2021.6.0-r650 2021.7.0-r8708 2021.7.1-r16156 2021.7.2-r25333 2021.7.3-r29533: Intel® Cluster Checker
+intel-oneapi/intel_oneapi_clck_202111 2021.1.1-r68: Intel® Cluster Checker
+intel-oneapi/intel_oneapi_clck_202120 2021.2.0-r308: Intel® Cluster Checker
+intel-oneapi/intel_oneapi_clck_202122 2021.2.2-r315: Intel® Cluster Checker
+intel-oneapi/intel_oneapi_clck_202130 2021.3.0-r406: Intel® Cluster Checker
+intel-oneapi/intel_oneapi_clck_202140 2021.4.0-r509: Intel® Cluster Checker
+intel-oneapi/intel_oneapi_clck_202150 2021.5.0-r560: Intel® Cluster Checker
+intel-oneapi/intel_oneapi_clck_202151 2021.5.1-r588: Intel® Cluster Checker
+intel-oneapi/intel_oneapi_clck_202160 2021.6.0-r650: Intel® Cluster Checker
+intel-oneapi/intel_oneapi_clck_202170 2021.7.0-r8708: Intel® Cluster Checker
+intel-oneapi/intel_oneapi_clck_202171 2021.7.1-r16156: Intel® Cluster Checker
+intel-oneapi/intel_oneapi_clck_202172 2021.7.2-r25333: Intel® Cluster Checker
+intel-oneapi/intel_oneapi_clck_202173 2021.7.3-r29533: Intel® Cluster Checker
+intel-oneapi/intel_oneapi_common_licensing 2021.1.1-r60 2021.2.0-r195 2021.3.0-r261 2021.4.0-r327 2022.0.0-r59 2022.0.1-r139 2022.0.1-r140 2022.1.0-r161 2022.2.0-r8694 2022.2.1-r14969 2023.0.0-r25325: oneAPI Common License
+intel-oneapi/intel_oneapi_common_licensing_202111 2021.1.1-r60: oneAPI Common License
+intel-oneapi/intel_oneapi_common_licensing_202120 2021.2.0-r195: oneAPI Common License
+intel-oneapi/intel_oneapi_common_licensing_202130 2021.3.0-r261: oneAPI Common License
+intel-oneapi/intel_oneapi_common_licensing_202140 2021.4.0-r327: oneAPI Common License
+intel-oneapi/intel_oneapi_common_licensing_202200 2022.0.0-r59: oneAPI Common License
+intel-oneapi/intel_oneapi_common_licensing_202201 2022.0.1-r139 2022.0.1-r140: oneAPI Common License
+intel-oneapi/intel_oneapi_common_licensing_202210 2022.1.0-r161: oneAPI Common License
+intel-oneapi/intel_oneapi_common_licensing_202220 2022.2.0-r8694: oneAPI Common License
+intel-oneapi/intel_oneapi_common_licensing_202221 2022.2.1-r14969: oneAPI Common License
+intel-oneapi/intel_oneapi_common_licensing_202300 2023.0.0-r25325: oneAPI Common License
+intel-oneapi/intel_oneapi_common_vars 2021.1.1-r60 2021.2.0-r195 2021.3.0-r261 2021.4.0-r327 2022.0.0-r59 2022.0.1-r139 2022.0.1-r140 2022.1.0-r161 2022.2.0-r8694 2022.2.1-r14969 2023.0.0-r25325: oneAPI Common Environment Scripts
+intel-oneapi/intel_oneapi_compiler_cpp_eclipse_cfg 2021.1.1-r189 2021.1.2-r266 2021.2.0-r610 2021.3.0-r3350 2021.4.0-r3561 2022.0.1-r3633 2022.0.2-r3658 2022.1.0-r3768 2022.2.0-r8734 2022.2.1-r16953 2023.0.0-r25370: Intel® oneAPI DPC++/C++ Compiler 2023.0.0 for Linux* eclipse integration configuration file (C++)
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp 2021.1.1-r189 2021.1.2-r266 2021.2.0-r610 2021.3.0-r3350 2021.4.0-r3561 2022.0.1-r3633 2022.0.2-r3658 2022.1.0-r3768 2022.2.0-r8734 2022.2.1-r16953 2023.0.0-r25370: Intel® oneAPI DPC++/C++ Compiler
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_202111 2021.1.1-r189: Intel® oneAPI DPC++/C++ Compiler
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_202112 2021.1.2-r266: Intel® oneAPI DPC++/C++ Compiler
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_202120 2021.2.0-r610: Intel® oneAPI DPC++/C++ Compiler
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_202130 2021.3.0-r3350: Intel® oneAPI DPC++/C++ Compiler
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_202140 2021.4.0-r3561: Intel® oneAPI DPC++/C++ Compiler
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_202201 2022.0.1-r3633: Intel® oneAPI DPC++/C++ Compiler
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_202202 2022.0.2-r3658: Intel® oneAPI DPC++/C++ Compiler
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_202210 2022.1.0-r3768: Intel® oneAPI DPC++/C++ Compiler
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_202220 2022.2.0-r8734: Intel® oneAPI DPC++/C++ Compiler
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_202221 2022.2.1-r16953: Intel® oneAPI DPC++/C++ Compiler
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_202300 2023.0.0-r25370: Intel® oneAPI DPC++/C++ Compiler
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic 2021.1.1-r189 2021.1.2-r266 2021.2.0-r610 2021.3.0-r3350 2021.4.0-r3561 2022.0.1-r3633 2022.0.2-r3658 2022.1.0-r3768 2022.2.0-r8734 2022.2.1-r16953 2023.0.0-r25370: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2023.0.0 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_202111 2021.1.1-r189: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2021.1.1 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_202112 2021.1.2-r266: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2021.1.2 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_202120 2021.2.0-r610: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2021.2.0 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_202130 2021.3.0-r3350: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2021.3.0 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_202140 2021.4.0-r3561: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2021.4.0 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_202201 2022.0.1-r3633: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2022.0.1 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_202202 2022.0.2-r3658: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2022.0.2 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_202210 2022.1.0-r3768: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2022.1.0 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_202220 2022.2.0-r8734: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2022.2.0 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_202221 2022.2.1-r16953: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2022.2.1 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_202300 2023.0.0-r25370: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2023.0.0 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_32bit 2021.1.1-r189 2021.1.2-r266 2021.2.0-r610 2021.3.0-r3350 2021.4.0-r3561 2022.0.1-r3633 2022.0.2-r3658 2022.1.0-r3768 2022.2.0-r8734 2022.2.1-r16953 2023.0.0-r25370: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2023.0.0 for Linux* for IA-32
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_32bit_202111 2021.1.1-r189: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2021.1.1 for Linux* for IA-32
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_32bit_202112 2021.1.2-r266: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2021.1.2 for Linux* for IA-32
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_32bit_202120 2021.2.0-r610: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2021.2.0 for Linux* for IA-32
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_32bit_202130 2021.3.0-r3350: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2021.3.0 for Linux* for IA-32
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_32bit_202140 2021.4.0-r3561: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2021.4.0 for Linux* for IA-32
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_32bit_202201 2022.0.1-r3633: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2022.0.1 for Linux* for IA-32
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_32bit_202202 2022.0.2-r3658: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2022.0.2 for Linux* for IA-32
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_32bit_202210 2022.1.0-r3768: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2022.1.0 for Linux* for IA-32
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_32bit_202220 2022.2.0-r8734: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2022.2.0 for Linux* for IA-32
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_32bit_202221 2022.2.1-r16953: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2022.2.1 for Linux* for IA-32
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_32bit_202300 2023.0.0-r25370: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2023.0.0 for Linux* for IA-32
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_common_202111 2021.1.1-r189: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2021.1.1 for Linux*
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_common_202112 2021.1.2-r266: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2021.1.2 for Linux*
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_common_202120 2021.2.0-r610: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2021.2.0 for Linux*
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_common_202130 2021.3.0-r3350: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2021.3.0 for Linux*
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_common_202140 2021.4.0-r3561: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2021.4.0 for Linux*
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_common_202201 2022.0.1-r3633: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2022.0.1 for Linux*
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_common_202202 2022.0.2-r3658: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2022.0.2 for Linux*
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_common_202210 2022.1.0-r3768: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2022.1.0 for Linux*
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_common_202220 2022.2.0-r8734: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2022.2.0 for Linux*
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_common_202221 2022.2.1-r16953: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2022.2.1 for Linux*
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_common_202300 2023.0.0-r25370: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2023.0.0 for Linux*
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_runtime_202111 2021.1.1-r189: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2021.1.1 for Linux* runtime for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_runtime_202112 2021.1.2-r266: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2021.1.2 for Linux* runtime for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_runtime_202120 2021.2.0-r610: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2021.2.0 for Linux* runtime for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_runtime_202130 2021.3.0-r3350: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2021.3.0 for Linux* runtime for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_runtime_202140 2021.4.0-r3561: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2021.4.0 for Linux* runtime for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_runtime_202201 2022.0.1-r3633: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2022.0.1 for Linux* runtime for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_runtime_202202 2022.0.2-r3658: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2022.0.2 for Linux* runtime for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_runtime_202210 2022.1.0-r3768: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2022.1.0 for Linux* runtime for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_runtime_202220 2022.2.0-r8734: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2022.2.0 for Linux* runtime for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_runtime_202221 2022.2.1-r16953: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2022.2.1 for Linux* runtime for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_runtime_202300 2023.0.0-r25370: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2023.0.0 for Linux* runtime for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_runtime_32bit 2021.1.1-r189 2021.1.2-r266 2021.2.0-r610 2021.3.0-r3350 2021.4.0-r3561 2022.0.1-r3633 2022.0.2-r3658 2022.1.0-r3768 2022.2.0-r8734 2022.2.1-r16953 2023.0.0-r25370: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2023.0.0 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_runtime_32bit_202111 2021.1.1-r189: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2021.1.1 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_runtime_32bit_202112 2021.1.2-r266: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2021.1.2 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_runtime_32bit_202120 2021.2.0-r610: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2021.2.0 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_runtime_32bit_202130 2021.3.0-r3350: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2021.3.0 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_runtime_32bit_202140 2021.4.0-r3561: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2021.4.0 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_runtime_32bit_202201 2022.0.1-r3633: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2022.0.1 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_runtime_32bit_202202 2022.0.2-r3658: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2022.0.2 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_runtime_32bit_202210 2022.1.0-r3768: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2022.1.0 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_runtime_32bit_202220 2022.2.0-r8734: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2022.2.0 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_runtime_32bit_202221 2022.2.1-r16953: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2022.2.1 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_runtime_32bit_202300 2023.0.0-r25370: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2023.0.0 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_classic_fortran_shared_runtime_202111 2021.1.1-r189: Intel(R) DPC++/C++ Pro / Fortran Compiler Runtime Shared Files
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_classic_fortran_shared_runtime_202112 2021.1.2-r266: Intel(R) DPC++/C++ Pro / Fortran Compiler Runtime Shared Files
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_classic_fortran_shared_runtime_202120 2021.2.0-r610: Intel(R) DPC++/C++ Pro / Fortran Compiler Runtime Shared Files
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_classic_fortran_shared_runtime_202130 2021.3.0-r3350: Intel(R) DPC++/C++ Pro / Fortran Compiler Runtime Shared Files
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_classic_fortran_shared_runtime_202140 2021.4.0-r3561: Intel(R) DPC++/C++ Pro / Fortran Compiler Runtime Shared Files
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_classic_fortran_shared_runtime_202201 2022.0.1-r3633: Intel(R) DPC++/C++ Pro / Fortran Compiler Runtime Shared Files
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_classic_fortran_shared_runtime_202202 2022.0.2-r3658: Intel(R) DPC++/C++ Pro / Fortran Compiler Runtime Shared Files
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_classic_fortran_shared_runtime_202210 2022.1.0-r3768: Intel(R) DPC++/C++ Pro / Fortran Compiler Runtime Shared Files
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_classic_fortran_shared_runtime_202220 2022.2.0-r8734: Intel(R) DPC++/C++ Pro / Fortran Compiler Runtime Shared Files
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_classic_fortran_shared_runtime_202221 2022.2.1-r16953: Intel(R) DPC++/C++ Pro / Fortran Compiler Runtime Shared Files
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_classic_fortran_shared_runtime_202300 2023.0.0-r25370: Intel(R) DPC++/C++ Pro / Fortran Compiler Runtime Shared Files
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_classic_fortran_shared_runtime_32bit_202111 2021.1.1-r189: Intel(R) DPC++/C++ Pro / Fortran Compiler Runtime Shared Files
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_classic_fortran_shared_runtime_32bit_202112 2021.1.2-r266: Intel(R) DPC++/C++ Pro / Fortran Compiler Runtime Shared Files
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_classic_fortran_shared_runtime_32bit_202120 2021.2.0-r610: Intel(R) DPC++/C++ Pro / Fortran Compiler Runtime Shared Files
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_classic_fortran_shared_runtime_32bit_202130 2021.3.0-r3350: Intel(R) DPC++/C++ Pro / Fortran Compiler Runtime Shared Files
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_classic_fortran_shared_runtime_32bit_202140 2021.4.0-r3561: Intel(R) DPC++/C++ Pro / Fortran Compiler Runtime Shared Files
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_classic_fortran_shared_runtime_32bit_202201 2022.0.1-r3633: Intel(R) DPC++/C++ Pro / Fortran Compiler Runtime Shared Files
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_classic_fortran_shared_runtime_32bit_202202 2022.0.2-r3658: Intel(R) DPC++/C++ Pro / Fortran Compiler Runtime Shared Files
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_classic_fortran_shared_runtime_32bit_202210 2022.1.0-r3768: Intel(R) DPC++/C++ Pro / Fortran Compiler Runtime Shared Files
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_classic_fortran_shared_runtime_32bit_202220 2022.2.0-r8734: Intel(R) DPC++/C++ Pro / Fortran Compiler Runtime Shared Files
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_classic_fortran_shared_runtime_32bit_202221 2022.2.1-r16953: Intel(R) DPC++/C++ Pro / Fortran Compiler Runtime Shared Files
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_classic_fortran_shared_runtime_32bit_202300 2023.0.0-r25370: Intel(R) DPC++/C++ Pro / Fortran Compiler Runtime Shared Files
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_common_202111 2021.1.1-r189: Intel® oneAPI DPC++/C++ Compiler 2021.1.1 for Linux*
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_common_202112 2021.1.2-r266: Intel® oneAPI DPC++/C++ Compiler 2021.1.2 for Linux*
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_common_202120 2021.2.0-r610: Intel® oneAPI DPC++/C++ Compiler 2021.2.0 for Linux*
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_common_202130 2021.3.0-r3350: Intel® oneAPI DPC++/C++ Compiler 2021.3.0 for Linux*
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_common_202140 2021.4.0-r3561: Intel® oneAPI DPC++/C++ Compiler 2021.4.0 for Linux*
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_common_202201 2022.0.1-r3633: Intel® oneAPI DPC++/C++ Compiler 2022.0.1 for Linux*
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_common_202202 2022.0.2-r3658: Intel® oneAPI DPC++/C++ Compiler 2022.0.2 for Linux*
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_common_202210 2022.1.0-r3768: Intel® oneAPI DPC++/C++ Compiler 2022.1.0 for Linux*
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_common_202220 2022.2.0-r8734: Intel® oneAPI DPC++/C++ Compiler 2022.2.0 for Linux*
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_common_202221 2022.2.1-r16953: Intel® oneAPI DPC++/C++ Compiler 2022.2.1 for Linux*
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_common_202300 2023.0.0-r25370: Intel® oneAPI DPC++/C++ Compiler 2023.0.0 for Linux*
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_runtime 2021.1.1-r189 2021.1.2-r266 2021.2.0-r610 2021.3.0-r3350 2021.4.0-r3561 2022.0.1-r3633 2022.0.2-r3658 2022.1.0-r3768 2022.2.0-r8734 2022.2.1-r16953 2023.0.0-r25370: Intel® oneAPI DPC++/C++ Compiler 2023.0.0 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_runtime_202111 2021.1.1-r189: Intel® oneAPI DPC++/C++ Compiler 2021.1.1 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_runtime_202112 2021.1.2-r266: Intel® oneAPI DPC++/C++ Compiler 2021.1.2 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_runtime_202120 2021.2.0-r610: Intel® oneAPI DPC++/C++ Compiler 2021.2.0 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_runtime_202130 2021.3.0-r3350: Intel® oneAPI DPC++/C++ Compiler 2021.3.0 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_runtime_202140 2021.4.0-r3561: Intel® oneAPI DPC++/C++ Compiler 2021.4.0 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_runtime_202201 2022.0.1-r3633: Intel® oneAPI DPC++/C++ Compiler 2022.0.1 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_runtime_202202 2022.0.2-r3658: Intel® oneAPI DPC++/C++ Compiler 2022.0.2 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_runtime_202210 2022.1.0-r3768: Intel® oneAPI DPC++/C++ Compiler 2022.1.0 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_runtime_202220 2022.2.0-r8734: Intel® oneAPI DPC++/C++ Compiler 2022.2.0 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_runtime_202221 2022.2.1-r16953: Intel® oneAPI DPC++/C++ Compiler 2022.2.1 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_runtime_202300 2023.0.0-r25370: Intel® oneAPI DPC++/C++ Compiler 2023.0.0 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_dpcpp_eclipse_cfg 2021.1.1-r189 2021.1.2-r266 2021.2.0-r610 2021.3.0-r3350 2021.4.0-r3561 2022.0.1-r3633 2022.0.2-r3658 2022.1.0-r3768 2022.2.0-r8734 2022.2.1-r16953 2023.0.0-r25370: Intel® oneAPI DPC++/C++ Compiler 2023.0.0 for Linux* eclipse integration configuration file (DPC++)
+intel-oneapi/intel_oneapi_compiler_fortran 2021.1.1-r189 2021.1.2-r266 2021.2.0-r610 2021.3.0-r3350 2021.4.0-r3561 2022.0.1-r3633 2022.0.2-r3658 2022.1.0-r3768 2022.2.0-r8734 2022.2.1-r16953 2023.0.0-r25370: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2023.0.0 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_fortran_202111 2021.1.1-r189: Intel® Fortran Compiler (Beta) & Intel® Fortran Compiler Classic 2021.1.1 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_fortran_202112 2021.1.2-r266: Intel® Fortran Compiler (Beta) & Intel® Fortran Compiler Classic 2021.1.2 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_fortran_202120 2021.2.0-r610: Intel® Fortran Compiler (Beta) & Intel® Fortran Compiler Classic 2021.2.0 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_fortran_202130 2021.3.0-r3350: Intel® Fortran Compiler (Beta) & Intel® Fortran Compiler Classic 2021.3.0 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_fortran_202140 2021.4.0-r3561: Intel® Fortran Compiler (Beta) & Intel® Fortran Compiler Classic 2021.4.0 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_fortran_202201 2022.0.1-r3633: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2022.0.1 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_fortran_202202 2022.0.2-r3658: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2022.0.2 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_fortran_202210 2022.1.0-r3768: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2022.1.0 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_fortran_202220 2022.2.0-r8734: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2022.2.0 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_fortran_202221 2022.2.1-r16953: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2022.2.1 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_fortran_202300 2023.0.0-r25370: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2023.0.0 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_fortran_32bit 2021.1.1-r189 2021.1.2-r266 2021.2.0-r610 2021.3.0-r3350 2021.4.0-r3561 2022.0.1-r3633 2022.0.2-r3658 2022.1.0-r3768 2022.2.0-r8734 2022.2.1-r16953 2023.0.0-r25370: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2023.0.0 for Linux* for IA-32
+intel-oneapi/intel_oneapi_compiler_fortran_32bit_202111 2021.1.1-r189: Intel® Fortran Compiler (Beta) & Intel® Fortran Compiler Classic 2021.1.1 for Linux* for IA-32
+intel-oneapi/intel_oneapi_compiler_fortran_32bit_202112 2021.1.2-r266: Intel® Fortran Compiler (Beta) & Intel® Fortran Compiler Classic 2021.1.2 for Linux* for IA-32
+intel-oneapi/intel_oneapi_compiler_fortran_32bit_202120 2021.2.0-r610: Intel® Fortran Compiler (Beta) & Intel® Fortran Compiler Classic 2021.2.0 for Linux* for IA-32
+intel-oneapi/intel_oneapi_compiler_fortran_32bit_202130 2021.3.0-r3350: Intel® Fortran Compiler (Beta) & Intel® Fortran Compiler Classic 2021.3.0 for Linux* for IA-32
+intel-oneapi/intel_oneapi_compiler_fortran_32bit_202140 2021.4.0-r3561: Intel® Fortran Compiler (Beta) & Intel® Fortran Compiler Classic 2021.4.0 for Linux* for IA-32
+intel-oneapi/intel_oneapi_compiler_fortran_32bit_202201 2022.0.1-r3633: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2022.0.1 for Linux* for IA-32
+intel-oneapi/intel_oneapi_compiler_fortran_32bit_202202 2022.0.2-r3658: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2022.0.2 for Linux* for IA-32
+intel-oneapi/intel_oneapi_compiler_fortran_32bit_202210 2022.1.0-r3768: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2022.1.0 for Linux* for IA-32
+intel-oneapi/intel_oneapi_compiler_fortran_32bit_202220 2022.2.0-r8734: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2022.2.0 for Linux* for IA-32
+intel-oneapi/intel_oneapi_compiler_fortran_32bit_202221 2022.2.1-r16953: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2022.2.1 for Linux* for IA-32
+intel-oneapi/intel_oneapi_compiler_fortran_32bit_202300 2023.0.0-r25370: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2023.0.0 for Linux* for IA-32
+intel-oneapi/intel_oneapi_compiler_fortran_common_202111 2021.1.1-r189: Intel® Fortran Compiler (Beta) & Intel® Fortran Compiler Classic 2021.1.1 for Linux*
+intel-oneapi/intel_oneapi_compiler_fortran_common_202112 2021.1.2-r266: Intel® Fortran Compiler (Beta) & Intel® Fortran Compiler Classic 2021.1.2 for Linux*
+intel-oneapi/intel_oneapi_compiler_fortran_common_202120 2021.2.0-r610: Intel® Fortran Compiler (Beta) & Intel® Fortran Compiler Classic 2021.2.0 for Linux*
+intel-oneapi/intel_oneapi_compiler_fortran_common_202130 2021.3.0-r3350: Intel® Fortran Compiler (Beta) & Intel® Fortran Compiler Classic 2021.3.0 for Linux*
+intel-oneapi/intel_oneapi_compiler_fortran_common_202140 2021.4.0-r3561: Intel® Fortran Compiler (Beta) & Intel® Fortran Compiler Classic 2021.4.0 for Linux*
+intel-oneapi/intel_oneapi_compiler_fortran_common_202201 2022.0.1-r3633: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2022.0.1 for Linux*
+intel-oneapi/intel_oneapi_compiler_fortran_common_202202 2022.0.2-r3658: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2022.0.2 for Linux*
+intel-oneapi/intel_oneapi_compiler_fortran_common_202210 2022.1.0-r3768: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2022.1.0 for Linux*
+intel-oneapi/intel_oneapi_compiler_fortran_common_202220 2022.2.0-r8734: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2022.2.0 for Linux*
+intel-oneapi/intel_oneapi_compiler_fortran_common_202221 2022.2.1-r16953: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2022.2.1 for Linux*
+intel-oneapi/intel_oneapi_compiler_fortran_common_202300 2023.0.0-r25370: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2023.0.0 for Linux*
+intel-oneapi/intel_oneapi_compiler_fortran_runtime 2021.1.1-r189 2021.1.2-r266 2021.2.0-r610 2021.3.0-r3350 2021.4.0-r3561 2022.0.1-r3633 2022.0.2-r3658 2022.1.0-r3768 2022.2.0-r8734 2022.2.1-r16953 2023.0.0-r25370: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2023.0.0 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_fortran_runtime_202111 2021.1.1-r189: Intel® Fortran Compiler (Beta) & Intel® Fortran Compiler Classic 2021.1.1 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_fortran_runtime_202112 2021.1.2-r266: Intel® Fortran Compiler (Beta) & Intel® Fortran Compiler Classic 2021.1.2 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_fortran_runtime_202120 2021.2.0-r610: Intel® Fortran Compiler (Beta) & Intel® Fortran Compiler Classic 2021.2.0 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_fortran_runtime_202130 2021.3.0-r3350: Intel® Fortran Compiler (Beta) & Intel® Fortran Compiler Classic 2021.3.0 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_fortran_runtime_202140 2021.4.0-r3561: Intel® Fortran Compiler (Beta) & Intel® Fortran Compiler Classic 2021.4.0 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_fortran_runtime_202201 2022.0.1-r3633: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2022.0.1 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_fortran_runtime_202202 2022.0.2-r3658: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2022.0.2 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_fortran_runtime_202210 2022.1.0-r3768: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2022.1.0 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_fortran_runtime_202220 2022.2.0-r8734: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2022.2.0 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_fortran_runtime_202221 2022.2.1-r16953: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2022.2.1 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_fortran_runtime_202300 2023.0.0-r25370: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2023.0.0 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_compiler_fortran_runtime_32bit 2021.1.1-r189 2021.1.2-r266 2021.2.0-r610 2021.3.0-r3350 2021.4.0-r3561 2022.0.1-r3633 2022.0.2-r3658 2022.1.0-r3768 2022.2.0-r8734 2022.2.1-r16953 2023.0.0-r25370: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2023.0.0 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_compiler_fortran_runtime_32bit_202111 2021.1.1-r189: Intel® Fortran Compiler (Beta) & Intel® Fortran Compiler Classic 2021.1.1 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_compiler_fortran_runtime_32bit_202112 2021.1.2-r266: Intel® Fortran Compiler (Beta) & Intel® Fortran Compiler Classic 2021.1.2 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_compiler_fortran_runtime_32bit_202120 2021.2.0-r610: Intel® Fortran Compiler (Beta) & Intel® Fortran Compiler Classic 2021.2.0 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_compiler_fortran_runtime_32bit_202130 2021.3.0-r3350: Intel® Fortran Compiler (Beta) & Intel® Fortran Compiler Classic 2021.3.0 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_compiler_fortran_runtime_32bit_202140 2021.4.0-r3561: Intel® Fortran Compiler (Beta) & Intel® Fortran Compiler Classic 2021.4.0 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_compiler_fortran_runtime_32bit_202201 2022.0.1-r3633: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2022.0.1 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_compiler_fortran_runtime_32bit_202202 2022.0.2-r3658: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2022.0.2 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_compiler_fortran_runtime_32bit_202210 2022.1.0-r3768: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2022.1.0 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_compiler_fortran_runtime_32bit_202220 2022.2.0-r8734: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2022.2.0 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_compiler_fortran_runtime_32bit_202221 2022.2.1-r16953: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2022.2.1 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_compiler_fortran_runtime_32bit_202300 2023.0.0-r25370: Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2023.0.0 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_compiler_shared_202111 2021.1.1-r189: Intel(R) Compiler Shared Files
+intel-oneapi/intel_oneapi_compiler_shared_202112 2021.1.2-r266: Intel(R) Compiler Shared Files
+intel-oneapi/intel_oneapi_compiler_shared_202120 2021.2.0-r610: Intel(R) Compiler Shared Files
+intel-oneapi/intel_oneapi_compiler_shared_202130 2021.3.0-r3350: Intel(R) Compiler Shared Files
+intel-oneapi/intel_oneapi_compiler_shared_202140 2021.4.0-r3561: Intel(R) Compiler Shared Files
+intel-oneapi/intel_oneapi_compiler_shared_202201 2022.0.1-r3633: Intel(R) Compiler Shared Files
+intel-oneapi/intel_oneapi_compiler_shared_202202 2022.0.2-r3658: Intel(R) Compiler Shared Files
+intel-oneapi/intel_oneapi_compiler_shared_202210 2022.1.0-r3768: Intel(R) Compiler Shared Files
+intel-oneapi/intel_oneapi_compiler_shared_202220 2022.2.0-r8734: Intel(R) Compiler Shared Files
+intel-oneapi/intel_oneapi_compiler_shared_202221 2022.2.1-r16953: Intel(R) Compiler Shared Files
+intel-oneapi/intel_oneapi_compiler_shared_202300 2023.0.0-r25370: Intel(R) Compiler Shared Files
+intel-oneapi/intel_oneapi_compiler_shared_32bit_202111 2021.1.1-r189: Intel(R) Compiler Shared Files
+intel-oneapi/intel_oneapi_compiler_shared_32bit_202112 2021.1.2-r266: Intel(R) Compiler Shared Files
+intel-oneapi/intel_oneapi_compiler_shared_32bit_202120 2021.2.0-r610: Intel(R) Compiler Shared Files
+intel-oneapi/intel_oneapi_compiler_shared_32bit_202130 2021.3.0-r3350: Intel(R) Compiler Shared Files
+intel-oneapi/intel_oneapi_compiler_shared_32bit_202140 2021.4.0-r3561: Intel(R) Compiler Shared Files
+intel-oneapi/intel_oneapi_compiler_shared_32bit_202201 2022.0.1-r3633: Intel(R) Compiler Shared Files
+intel-oneapi/intel_oneapi_compiler_shared_32bit_202202 2022.0.2-r3658: Intel(R) Compiler Shared Files
+intel-oneapi/intel_oneapi_compiler_shared_32bit_202210 2022.1.0-r3768: Intel(R) Compiler Shared Files
+intel-oneapi/intel_oneapi_compiler_shared_32bit_202220 2022.2.0-r8734: Intel(R) Compiler Shared Files
+intel-oneapi/intel_oneapi_compiler_shared_32bit_202221 2022.2.1-r16953: Intel(R) Compiler Shared Files
+intel-oneapi/intel_oneapi_compiler_shared_32bit_202300 2023.0.0-r25370: Intel(R) Compiler Shared Files
+intel-oneapi/intel_oneapi_compiler_shared_common_202111 2021.1.1-r189: Intel(R) Compiler Shared Files.
+intel-oneapi/intel_oneapi_compiler_shared_common_202112 2021.1.2-r266: Intel(R) Compiler Shared Files.
+intel-oneapi/intel_oneapi_compiler_shared_common_202120 2021.2.0-r610: Intel(R) Compiler Shared Files.
+intel-oneapi/intel_oneapi_compiler_shared_common_202130 2021.3.0-r3350: Intel(R) Compiler Shared Files.
+intel-oneapi/intel_oneapi_compiler_shared_common_202140 2021.4.0-r3561: Intel(R) Compiler Shared Files.
+intel-oneapi/intel_oneapi_compiler_shared_common_202201 2022.0.1-r3633: Intel(R) Compiler Shared Files.
+intel-oneapi/intel_oneapi_compiler_shared_common_202202 2022.0.2-r3658: Intel(R) Compiler Shared Files.
+intel-oneapi/intel_oneapi_compiler_shared_common_202210 2022.1.0-r3768: Intel(R) Compiler Shared Files.
+intel-oneapi/intel_oneapi_compiler_shared_common_202220 2022.2.0-r8734: Intel(R) Compiler Shared Files.
+intel-oneapi/intel_oneapi_compiler_shared_common_202221 2022.2.1-r16953: Intel(R) Compiler Shared Files.
+intel-oneapi/intel_oneapi_compiler_shared_common_202300 2023.0.0-r25370: Intel(R) Compiler Shared Files.
+intel-oneapi/intel_oneapi_compiler_shared_common_runtime_202111 2021.1.1-r189: Intel(R) Compiler Shared Files
+intel-oneapi/intel_oneapi_compiler_shared_common_runtime_202112 2021.1.2-r266: Intel(R) Compiler Shared Files
+intel-oneapi/intel_oneapi_compiler_shared_common_runtime_202120 2021.2.0-r610: Intel(R) Compiler Shared Files
+intel-oneapi/intel_oneapi_compiler_shared_common_runtime_202130 2021.3.0-r3350: Intel(R) Compiler Shared Files
+intel-oneapi/intel_oneapi_compiler_shared_runtime_202111 2021.1.1-r189: Intel(R) Compiler Shared Files runtime contents
+intel-oneapi/intel_oneapi_compiler_shared_runtime_202112 2021.1.2-r266: Intel(R) Compiler Shared Files runtime contents
+intel-oneapi/intel_oneapi_compiler_shared_runtime_202120 2021.2.0-r610: Intel(R) Compiler Shared Files runtime contents
+intel-oneapi/intel_oneapi_compiler_shared_runtime_202130 2021.3.0-r3350: Intel(R) Compiler Shared Files runtime contents
+intel-oneapi/intel_oneapi_compiler_shared_runtime_202140 2021.4.0-r3561: Intel(R) Compiler Shared Files runtime contents
+intel-oneapi/intel_oneapi_compiler_shared_runtime_202201 2022.0.1-r3633: Intel(R) Compiler Shared Files runtime contents
+intel-oneapi/intel_oneapi_compiler_shared_runtime_202202 2022.0.2-r3658: Intel(R) Compiler Shared Files runtime contents
+intel-oneapi/intel_oneapi_compiler_shared_runtime_202210 2022.1.0-r3768: Intel(R) Compiler Shared Files runtime contents
+intel-oneapi/intel_oneapi_compiler_shared_runtime_202220 2022.2.0-r8734: Intel(R) Compiler Shared Files runtime contents
+intel-oneapi/intel_oneapi_compiler_shared_runtime_202221 2022.2.1-r16953: Intel(R) Compiler Shared Files runtime contents
+intel-oneapi/intel_oneapi_compiler_shared_runtime_202300 2023.0.0-r25370: Intel(R) Compiler Shared Files runtime contents
+intel-oneapi/intel_oneapi_compiler_shared_runtime_32bit_202111 2021.1.1-r189: Intel(R) Compiler Shared Files runtime contents
+intel-oneapi/intel_oneapi_compiler_shared_runtime_32bit_202112 2021.1.2-r266: Intel(R) Compiler Shared Files runtime contents
+intel-oneapi/intel_oneapi_compiler_shared_runtime_32bit_202120 2021.2.0-r610: Intel(R) Compiler Shared Files runtime contents
+intel-oneapi/intel_oneapi_compiler_shared_runtime_32bit_202130 2021.3.0-r3350: Intel(R) Compiler Shared Files runtime contents
+intel-oneapi/intel_oneapi_compiler_shared_runtime_32bit_202140 2021.4.0-r3561: Intel(R) Compiler Shared Files runtime contents
+intel-oneapi/intel_oneapi_compiler_shared_runtime_32bit_202201 2022.0.1-r3633: Intel(R) Compiler Shared Files runtime contents
+intel-oneapi/intel_oneapi_compiler_shared_runtime_32bit_202202 2022.0.2-r3658: Intel(R) Compiler Shared Files runtime contents
+intel-oneapi/intel_oneapi_compiler_shared_runtime_32bit_202210 2022.1.0-r3768: Intel(R) Compiler Shared Files runtime contents
+intel-oneapi/intel_oneapi_compiler_shared_runtime_32bit_202220 2022.2.0-r8734: Intel(R) Compiler Shared Files runtime contents
+intel-oneapi/intel_oneapi_compiler_shared_runtime_32bit_202221 2022.2.1-r16953: Intel(R) Compiler Shared Files runtime contents
+intel-oneapi/intel_oneapi_compiler_shared_runtime_32bit_202300 2023.0.0-r25370: Intel(R) Compiler Shared Files runtime contents
+intel-oneapi/intel_oneapi_condaindex 2021.1.1-r58 2021.2.0-r94 2021.3.0-r159 2021.4.0-r207 2022.0.0-r74 2022.1.0-r155 2022.2.0-r8695 2022.2.1-r14970 2023.0.0-r25326: oneAPI Common Install components
+intel-oneapi/intel_oneapi_daal 2021.1.1-r79 2021.2.0-r358 2021.3.0-r557 2021.4.0-r729 2021.5.1-r803 2021.5.3-r832: Intel® oneAPI Data Analytics Library
+intel-oneapi/intel_oneapi_daal_devel 2021.1.1-r79 2021.2.0-r358 2021.3.0-r557 2021.4.0-r729 2021.5.1-r803 2021.5.3-r832: Intel® oneAPI Data Analytics Library Development Package
+intel-oneapi/intel_oneapi_dal 2021.1.1-r79 2021.2.0-r358 2021.3.0-r557 2021.4.0-r729 2021.5.1-r803 2021.5.3-r832 2021.6.0-r915 2021.7.0-r8746 2021.7.1-r16996 2023.0.0-r25395: Intel® oneAPI Data Analytics Library
+intel-oneapi/intel_oneapi_dal_202111 2021.1.1-r79: Intel® oneAPI Data Analytics Library
+intel-oneapi/intel_oneapi_dal_202120 2021.2.0-r358: Intel® oneAPI Data Analytics Library
+intel-oneapi/intel_oneapi_dal_202130 2021.3.0-r557: Intel® oneAPI Data Analytics Library
+intel-oneapi/intel_oneapi_dal_202140 2021.4.0-r729: Intel® oneAPI Data Analytics Library
+intel-oneapi/intel_oneapi_dal_202151 2021.5.1-r803: Intel® oneAPI Data Analytics Library
+intel-oneapi/intel_oneapi_dal_202153 2021.5.3-r832: Intel® oneAPI Data Analytics Library
+intel-oneapi/intel_oneapi_dal_202160 2021.6.0-r915: Intel® oneAPI Data Analytics Library
+intel-oneapi/intel_oneapi_dal_202170 2021.7.0-r8746: Intel® oneAPI Data Analytics Library
+intel-oneapi/intel_oneapi_dal_202171 2021.7.1-r16996: Intel® oneAPI Data Analytics Library
+intel-oneapi/intel_oneapi_dal_202300 2023.0.0-r25395: Intel® oneAPI Data Analytics Library
+intel-oneapi/intel_oneapi_dal_common_202111 2021.1.1-r79: Intel® oneAPI Data Analytics Library common
+intel-oneapi/intel_oneapi_dal_common_202120 2021.2.0-r358: Intel® oneAPI Data Analytics Library common
+intel-oneapi/intel_oneapi_dal_common_202130 2021.3.0-r557: Intel® oneAPI Data Analytics Library common
+intel-oneapi/intel_oneapi_dal_common_202140 2021.4.0-r729: Intel® oneAPI Data Analytics Library common
+intel-oneapi/intel_oneapi_dal_common_202151 2021.5.1-r803: Intel® oneAPI Data Analytics Library common
+intel-oneapi/intel_oneapi_dal_common_202153 2021.5.3-r832: Intel® oneAPI Data Analytics Library common
+intel-oneapi/intel_oneapi_dal_common_202160 2021.6.0-r915: Intel® oneAPI Data Analytics Library common
+intel-oneapi/intel_oneapi_dal_common_202170 2021.7.0-r8746: Intel® oneAPI Data Analytics Library common
+intel-oneapi/intel_oneapi_dal_common_202171 2021.7.1-r16996: Intel® oneAPI Data Analytics Library common
+intel-oneapi/intel_oneapi_dal_common_202300 2023.0.0-r25395: Intel® oneAPI Data Analytics Library common
+intel-oneapi/intel_oneapi_dal_common_devel_202111 2021.1.1-r79: Intel® oneAPI Data Analytics Library common
+intel-oneapi/intel_oneapi_dal_common_devel_202120 2021.2.0-r358: Intel® oneAPI Data Analytics Library common
+intel-oneapi/intel_oneapi_dal_common_devel_202130 2021.3.0-r557: Intel® oneAPI Data Analytics Library common
+intel-oneapi/intel_oneapi_dal_common_devel_202140 2021.4.0-r729: Intel® oneAPI Data Analytics Library common
+intel-oneapi/intel_oneapi_dal_common_devel_202151 2021.5.1-r803: Intel® oneAPI Data Analytics Library common
+intel-oneapi/intel_oneapi_dal_common_devel_202153 2021.5.3-r832: Intel® oneAPI Data Analytics Library common
+intel-oneapi/intel_oneapi_dal_common_devel_202160 2021.6.0-r915: Intel® oneAPI Data Analytics Library common
+intel-oneapi/intel_oneapi_dal_common_devel_202170 2021.7.0-r8746: Intel® oneAPI Data Analytics Library common
+intel-oneapi/intel_oneapi_dal_common_devel_202171 2021.7.1-r16996: Intel® oneAPI Data Analytics Library common
+intel-oneapi/intel_oneapi_dal_common_devel_202300 2023.0.0-r25395: Intel® oneAPI Data Analytics Library common
+intel-oneapi/intel_oneapi_dal_daal4py_202130 2021.3.0-r557: Intel® oneAPI Data Analytics Library daal4py Package
+intel-oneapi/intel_oneapi_dal_daal4py_202140 2021.4.0-r729: Intel® oneAPI Data Analytics Library daal4py Package
+intel-oneapi/intel_oneapi_dal_daal4py_202151 2021.5.1-r803: Intel® oneAPI Data Analytics Library daal4py Package
+intel-oneapi/intel_oneapi_dal_daal4py_202153 2021.5.3-r832: Intel® oneAPI Data Analytics Library daal4py Package
+intel-oneapi/intel_oneapi_dal_daal4py_202160 2021.6.0-r915: Intel® oneAPI Data Analytics Library daal4py Package
+intel-oneapi/intel_oneapi_dal_daal4py_202170 2021.7.0-r8746: Intel® oneAPI Data Analytics Library daal4py Package
+intel-oneapi/intel_oneapi_dal_daal4py_202171 2021.7.1-r16996: Intel® oneAPI Data Analytics Library daal4py Package
+intel-oneapi/intel_oneapi_dal_daal4py_202300 2023.0.0-r25395: Intel® oneAPI Data Analytics Library daal4py Package
+intel-oneapi/intel_oneapi_dal_devel 2021.1.1-r79 2021.2.0-r358 2021.3.0-r557 2021.4.0-r729 2021.5.1-r803 2021.5.3-r832 2021.6.0-r915 2021.7.0-r8746 2021.7.1-r16996 2023.0.0-r25395: Intel® oneAPI Data Analytics Library Development Package
+intel-oneapi/intel_oneapi_dal_devel_202111 2021.1.1-r79: Intel® oneAPI Data Analytics Library Development Package
+intel-oneapi/intel_oneapi_dal_devel_202120 2021.2.0-r358: Intel® oneAPI Data Analytics Library Development Package
+intel-oneapi/intel_oneapi_dal_devel_202130 2021.3.0-r557: Intel® oneAPI Data Analytics Library Development Package
+intel-oneapi/intel_oneapi_dal_devel_202140 2021.4.0-r729: Intel® oneAPI Data Analytics Library Development Package
+intel-oneapi/intel_oneapi_dal_devel_202151 2021.5.1-r803: Intel® oneAPI Data Analytics Library Development Package
+intel-oneapi/intel_oneapi_dal_devel_202153 2021.5.3-r832: Intel® oneAPI Data Analytics Library Development Package
+intel-oneapi/intel_oneapi_dal_devel_202160 2021.6.0-r915: Intel® oneAPI Data Analytics Library Development Package
+intel-oneapi/intel_oneapi_dal_devel_202170 2021.7.0-r8746: Intel® oneAPI Data Analytics Library Development Package
+intel-oneapi/intel_oneapi_dal_devel_202171 2021.7.1-r16996: Intel® oneAPI Data Analytics Library Development Package
+intel-oneapi/intel_oneapi_dal_devel_202300 2023.0.0-r25395: Intel® oneAPI Data Analytics Library Development Package
+intel-oneapi/intel_oneapi_dal_scikit_learn_intelex_202130 2021.3.0-r557: Intel® oneAPI Data Analytics Library scikit-learn-intelex Package
+intel-oneapi/intel_oneapi_dal_scikit_learn_intelex_202140 2021.4.0-r729: Intel® oneAPI Data Analytics Library scikit-learn-intelex Package
+intel-oneapi/intel_oneapi_dal_scikit_learn_intelex_202151 2021.5.1-r803: Intel® oneAPI Data Analytics Library scikit-learn-intelex Package
+intel-oneapi/intel_oneapi_dal_scikit_learn_intelex_202153 2021.5.3-r832: Intel® oneAPI Data Analytics Library scikit-learn-intelex Package
+intel-oneapi/intel_oneapi_dal_scikit_learn_intelex_202160 2021.6.0-r915: Intel® oneAPI Data Analytics Library scikit-learn-intelex Package
+intel-oneapi/intel_oneapi_dal_scikit_learn_intelex_202170 2021.7.0-r8746: Intel® oneAPI Data Analytics Library scikit-learn-intelex Package
+intel-oneapi/intel_oneapi_dal_scikit_learn_intelex_202171 2021.7.1-r16996: Intel® oneAPI Data Analytics Library scikit-learn-intelex Package
+intel-oneapi/intel_oneapi_dal_scikit_learn_intelex_202300 2023.0.0-r25395: Intel® oneAPI Data Analytics Library scikit-learn-intelex Package
+intel-oneapi/intel_oneapi_dev_utilities 2021.1.1-r197 2021.2.0-r493 2021.3.0-r691 2021.4.0-r847 2021.5.1-r924 2021.5.2-r936 2021.6.0-r989 2021.7.0-r8698 2021.7.1-r14991 2021.8.0-r25328: Dev Utilities meta-package
+intel-oneapi/intel_oneapi_dev_utilities_202111 2021.1.1-r197: Dev Utilities
+intel-oneapi/intel_oneapi_dev_utilities_202120 2021.2.0-r493: Dev Utilities
+intel-oneapi/intel_oneapi_dev_utilities_202130 2021.3.0-r691: Dev Utilities
+intel-oneapi/intel_oneapi_dev_utilities_202140 2021.4.0-r847: Dev Utilities
+intel-oneapi/intel_oneapi_dev_utilities_202151 2021.5.1-r924: Dev Utilities
+intel-oneapi/intel_oneapi_dev_utilities_202152 2021.5.2-r936: Dev Utilities
+intel-oneapi/intel_oneapi_dev_utilities_202160 2021.6.0-r989: Dev Utilities
+intel-oneapi/intel_oneapi_dev_utilities_202170 2021.7.0-r8698: Dev Utilities
+intel-oneapi/intel_oneapi_dev_utilities_202171 2021.7.1-r14991: Dev Utilities
+intel-oneapi/intel_oneapi_dev_utilities_202180 2021.8.0-r25328: Dev Utilities
+intel-oneapi/intel_oneapi_dev_utilities_eclipse_cfg 2021.1.1-r197 2021.2.0-r493 2021.3.0-r691 2021.4.0-r847 2021.5.1-r924 2021.5.2-r936 2021.6.0-r989 2021.7.0-r8698 2021.7.1-r14991 2021.8.0-r25328: Dev Utilities 2021.8.0 for Linux* eclipse integration configuration file
+intel-oneapi/intel_oneapi_diagnostics_utility 2021.4.0-r84 2022.0.0-r58 2022.1.0-r150 2022.1.1-r8702 2022.1.2-r14995 2022.2.0-r25337: Diagnostics Utility for Intel® oneAPI Toolkits
+intel-oneapi/intel_oneapi_dnnl 2021.1.1-r55 2021.2.0-r228 2021.3.0-r344 2021.4.0-r467 2022.0.1-r26 2022.0.2-r43 2022.1.0-r132 2022.2.0-r8750 2022.2.1-r16994 2023.0.0-r25399: Intel® oneAPI Deep Neural Network Library
+intel-oneapi/intel_oneapi_dnnl_devel 2021.1.1-r55 2021.2.0-r228 2021.3.0-r344 2021.4.0-r467 2022.0.1-r26 2022.0.2-r43 2022.1.0-r132 2022.2.0-r8750 2022.2.1-r16994 2023.0.0-r25399: Intel® oneAPI Deep Neural Network Library Development Package
+intel-oneapi/intel_oneapi_dpcpp_cpp_202111 2021.1.1-r189: Intel® oneAPI DPC++/C++ Compiler 2021.1.1 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_dpcpp_cpp_202112 2021.1.2-r266: Intel® oneAPI DPC++/C++ Compiler 2021.1.2 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_dpcpp_cpp_202120 2021.2.0-r610: Intel® oneAPI DPC++/C++ Compiler 2021.2.0 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_dpcpp_cpp_202130 2021.3.0-r3350: Intel® oneAPI DPC++/C++ Compiler 2021.3.0 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_dpcpp_cpp_202140 2021.4.0-r3561: Intel® oneAPI DPC++/C++ Compiler 2021.4.0 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_dpcpp_cpp_202201 2022.0.1-r3633: Intel® oneAPI DPC++/C++ Compiler 2022.0.1 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_dpcpp_cpp_202202 2022.0.2-r3658: Intel® oneAPI DPC++/C++ Compiler 2022.0.2 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_dpcpp_cpp_202210 2022.1.0-r3768: Intel® oneAPI DPC++/C++ Compiler 2022.1.0 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_dpcpp_cpp_202220 2022.2.0-r8734: Intel® oneAPI DPC++/C++ Compiler 2022.2.0 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_dpcpp_cpp_202221 2022.2.1-r16953: Intel® oneAPI DPC++/C++ Compiler 2022.2.1 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_dpcpp_cpp_202300 2023.0.0-r25370: Intel® oneAPI DPC++/C++ Compiler 2023.0.0 for Linux* for Intel(R) 64
+intel-oneapi/intel_oneapi_dpcpp_ct 2021.1.1-r59 2021.2.0-r222 2021.3.0-r308 2021.4.0-r402 2022.0.0-r96 2022.1.0-r172 2022.2.0-r8701 2022.2.1-r14994 2023.0.0-r25483: Intel® DPC++ Compatibility Tool
+intel-oneapi/intel_oneapi_dpcpp_ct_202111 2021.1.1-r59: Intel® DPC++ Compatibility Tool
+intel-oneapi/intel_oneapi_dpcpp_ct_202120 2021.2.0-r222: Intel® DPC++ Compatibility Tool
+intel-oneapi/intel_oneapi_dpcpp_ct_202130 2021.3.0-r308: Intel® DPC++ Compatibility Tool
+intel-oneapi/intel_oneapi_dpcpp_ct_202140 2021.4.0-r402: Intel® DPC++ Compatibility Tool
+intel-oneapi/intel_oneapi_dpcpp_ct_202200 2022.0.0-r96: Intel® DPC++ Compatibility Tool
+intel-oneapi/intel_oneapi_dpcpp_ct_202210 2022.1.0-r172: Intel® DPC++ Compatibility Tool
+intel-oneapi/intel_oneapi_dpcpp_ct_202220 2022.2.0-r8701: Intel® DPC++ Compatibility Tool
+intel-oneapi/intel_oneapi_dpcpp_ct_202221 2022.2.1-r14994: Intel® DPC++ Compatibility Tool
+intel-oneapi/intel_oneapi_dpcpp_ct_202300 2023.0.0-r25483: Intel® DPC++ Compatibility Tool
+intel-oneapi/intel_oneapi_dpcpp_ct_eclipse_cfg 2021.1.1-r59 2021.2.0-r222 2021.3.0-r308 2021.4.0-r402 2022.0.0-r96 2022.1.0-r172 2022.2.0-r8701 2022.2.1-r14994 2023.0.0-r25483: Intel® DPC++ Compatibility Tool 2023.0.0 for Linux* eclipse integration configuration file
+intel-oneapi/intel_oneapi_dpcpp_debugger 10.0.0-r2219 10.1.1-r80 10.1.2-r225 10.2.4-r56 2021.5.0-r109 2021.6.0-r178 2021.7.0-r8700 2021.7.1-r14993 2023.0.0-r25336: Intel® Distribution for GDB*
+intel-oneapi/intel_oneapi_dpcpp_debugger_1000 10.0.0-r2219: Intel® Distribution for GDB*
+intel-oneapi/intel_oneapi_dpcpp_debugger_1011 10.1.1-r80: Intel® Distribution for GDB*
+intel-oneapi/intel_oneapi_dpcpp_debugger_1012 10.1.2-r225: Intel® Distribution for GDB*
+intel-oneapi/intel_oneapi_dpcpp_debugger_1024 10.2.4-r56: Intel® Distribution for GDB*
+intel-oneapi/intel_oneapi_dpcpp_debugger_202150 2021.5.0-r109: Intel® Distribution for GDB*
+intel-oneapi/intel_oneapi_dpcpp_debugger_202160 2021.6.0-r178: Intel® Distribution for GDB*
+intel-oneapi/intel_oneapi_dpcpp_debugger_202170 2021.7.0-r8700: Intel® Distribution for GDB*
+intel-oneapi/intel_oneapi_dpcpp_debugger_202171 2021.7.1-r14993: Intel® Distribution for GDB*
+intel-oneapi/intel_oneapi_dpcpp_debugger_202300 2023.0.0-r25336: Intel® Distribution for GDB*
+intel-oneapi/intel_oneapi_dpcpp_debugger_eclipse_cfg 10.0.0-r2219 10.1.1-r80 10.1.2-r225 10.2.4-r56 2021.5.0-r109 2021.6.0-r178 2021.7.0-r8700 2021.7.1-r14993 2023.0.0-r25336: Intel® Distribution for GDB* 2023.0.0 for Linux* eclipse integration configuration file
+intel-oneapi/intel_oneapi_eclipse_ide 2021.1.1-r52 2021.2.0-r143: Eclipse* IDE
+intel-oneapi/intel_oneapi_eclipse_ide_202111 2021.1.1-r52: Eclipse* IDE
+intel-oneapi/intel_oneapi_eclipse_ide_202120 2021.2.0-r143: Eclipse* IDE
+intel-oneapi/intel_oneapi_embree 3.12.0-r91 3.12.2-r123 3.13.0-r257 3.13.1-r297 3.13.2-r73 3.13.3-r360 3.13.4-r8730 3.13.5-r21152 3.13.5-r25372: Intel® Embree
+intel-oneapi/intel_oneapi_embree_3120 3.12.0-r91: Intel® Embree
+intel-oneapi/intel_oneapi_embree_3122 3.12.2-r123: Intel® Embree
+intel-oneapi/intel_oneapi_embree_3130 3.13.0-r257: Intel® Embree
+intel-oneapi/intel_oneapi_embree_3131 3.13.1-r297: Intel® Embree
+intel-oneapi/intel_oneapi_embree_3132 3.13.2-r73: Intel® Embree
+intel-oneapi/intel_oneapi_embree_3133 3.13.3-r360: Intel® Embree
+intel-oneapi/intel_oneapi_embree_3134 3.13.4-r8730: Intel® Embree
+intel-oneapi/intel_oneapi_embree_3135 3.13.5-r21152 3.13.5-r25372: Intel® Embree
+intel-oneapi/intel_oneapi_icc_eclipse_plugin_cpp_202201 2022.0.1-r3633: Intel® oneAPI DPC++/C++ Compiler 2022.0.1 for Linux*
+intel-oneapi/intel_oneapi_icc_eclipse_plugin_cpp_202202 2022.0.2-r3658: Intel® oneAPI DPC++/C++ Compiler 2022.0.2 for Linux*
+intel-oneapi/intel_oneapi_icc_eclipse_plugin_cpp_202210 2022.1.0-r3768: Intel® oneAPI DPC++/C++ Compiler 2022.1.0 for Linux*
+intel-oneapi/intel_oneapi_icc_eclipse_plugin_cpp_202220 2022.2.0-r8734: Intel® oneAPI DPC++/C++ Compiler 2022.2.0 for Linux*
+intel-oneapi/intel_oneapi_icc_eclipse_plugin_cpp_202221 2022.2.1-r16953: Intel® oneAPI DPC++/C++ Compiler 2022.2.1 for Linux*
+intel-oneapi/intel_oneapi_icc_eclipse_plugin_cpp_202300 2023.0.0-r25370: Intel® oneAPI DPC++/C++ Compiler 2023.0.0 for Linux*
+intel-oneapi/intel_oneapi_ilit 1.0.0-r204 1.0.0-r319: Intel® Low Precision Optimization Tool
+intel-oneapi/intel_oneapi_inspector 2021.1.1-r42 2021.2.0-r145 2021.3.0-r217 2021.4.0-r266 2022.0.0-r56 2022.1.0-r123 2022.3.0-r8706 2022.3.1-r15318 2023.0.0-r25340: Intel® Inspector
+intel-oneapi/intel_oneapi_intelfpgadpcpp_a10gx_s10sx 2021.1.1-r1 2021.2.0-r1 2021.3.0-r1 2021.4.0-r1 2022.1.0-r1: Intel® FPGA Add-on using Intel® Quartus® Prime Pro 19.2 software supporting the Intel® FPGA Programmable Acceleration Cards (PAC): Intel® PAC® with Intel® Arria® 10 GX FPGA, Intel® FPGA PAC® D5005
+intel-oneapi/intel_oneapi_intelfpgadpcpp_custom_platforms_quartus194 2021.1.1-r1 2021.2.0-r1 2021.3.0-r1: Intel® FPGA Add-on for custom platforms using Intel® Quartus® Prime Pro 19.4 software
+intel-oneapi/intel_oneapi_intelfpgadpcpp_custom_platforms_quartus194_part2 2021.1.1-r1 2021.2.0-r1 2021.3.0-r1: Intel® FPGA Add-on for custom platforms using Intel® Quartus® Prime Pro 19.4 software, Part 2
+intel-oneapi/intel_oneapi_intelfpgadpcpp_custom_platforms_quartus202 2021.1.1-r1 2021.2.0-r1 2021.3.0-r1: Intel® FPGA Add-on for custom platforms using Intel® Quartus® Prime Pro 20.2 software
+intel-oneapi/intel_oneapi_intelfpgadpcpp_custom_platforms_quartus202_part2 2021.1.1-r1 2021.2.0-r1 2021.3.0-r1: Intel® FPGA Add-on for custom platforms using Intel® Quartus® Prime Pro 20.2 software, Part 2
+intel-oneapi/intel_oneapi_intelfpgadpcpp_custom_platforms_quartus203 2021.1.1-r1 2021.2.0-r1 2021.3.0-r1: Intel® FPGA Add-on for custom platforms using Intel® Quartus® Prime Pro 20.3 software
+intel-oneapi/intel_oneapi_intelfpgadpcpp_custom_platforms_quartus203_part2 2021.1.1-r1 2021.2.0-r1 2021.3.0-r1: Intel® FPGA Add-on for custom platforms using Intel® Quartus® Prime Pro 20.3 software, Part 2
+intel-oneapi/intel_oneapi_intelfpgadpcpp_custom_platforms_quartus204 2021.2.0-r1 2021.3.0-r1 2022.1.0-r1: Intel® FPGA Add-on for custom platforms using Intel® Quartus® Prime Pro 20.4 software
+intel-oneapi/intel_oneapi_intelfpgadpcpp_custom_platforms_quartus204_part2 2021.2.0-r1 2021.3.0-r1 2022.1.0-r1: Intel® FPGA Add-on for custom platforms using Intel® Quartus® Prime Pro 20.4 software, Part 2
+intel-oneapi/intel_oneapi_intelfpgadpcpp_custom_platforms_quartus211 2021.3.0-r1 2022.1.0-r1: Intel® FPGA Add-on for custom platforms using Intel® Quartus® Prime Pro 21.1 software
+intel-oneapi/intel_oneapi_intelfpgadpcpp_custom_platforms_quartus211_part2 2021.3.0-r1 2022.1.0-r1: Intel® FPGA Add-on for custom platforms using Intel® Quartus® Prime Pro 21.1 software, Part 2
+intel-oneapi/intel_oneapi_intelfpgadpcpp_custom_platforms_quartus212 2021.4.0-r1: Intel® FPGA Add-on for custom platforms using Intel® Quartus® Prime Pro 21.2 software
+intel-oneapi/intel_oneapi_intelfpgadpcpp_custom_platforms_quartus212_part2 2021.4.0-r1: Intel® FPGA Add-on for custom platforms using Intel® Quartus® Prime Pro 21.2 software, Part 2
+intel-oneapi/intel_oneapi_intelfpgadpcpp_custom_platforms_quartus213 2022.1.0-r1: Intel® FPGA Add-on for custom platforms using Intel® Quartus® Prime Pro 21.3 software
+intel-oneapi/intel_oneapi_intelfpgadpcpp_custom_platforms_quartus213_part2 2022.1.0-r1: Intel® FPGA Add-on for custom platforms using Intel® Quartus® Prime Pro 21.3 software, Part 2
+intel-oneapi/intel_oneapi_intelfpgadpcpp_custom_platforms_quartus214 2022.2.0-r1: Intel® FPGA Add-on for custom platforms using Intel® Quartus® Prime Pro 21.4 software
+intel-oneapi/intel_oneapi_intelfpgadpcpp_custom_platforms_quartus214_part2 2022.2.0-r1: Intel® FPGA Add-on for custom platforms using Intel® Quartus® Prime Pro 21.4 software, Part 2
+intel-oneapi/intel_oneapi_iot_eclipse_plugins 2021.1.1-r69 2021.2.0-r213 2021.3.0-r268 2021.4.0-r338: IoT Plugins for Eclipse
+intel-oneapi/intel_oneapi_iot_eclipse_plugins_202111 2021.1.1-r69: IoT Plugins for Eclipse
+intel-oneapi/intel_oneapi_iot_eclipse_plugins_202120 2021.2.0-r213: IoT Plugins for Eclipse
+intel-oneapi/intel_oneapi_iot_eclipse_plugins_202130 2021.3.0-r268: IoT Plugins for Eclipse
+intel-oneapi/intel_oneapi_iot_eclipse_plugins_202140 2021.4.0-r338: IoT Plugins for Eclipse
+intel-oneapi/intel_oneapi_iot_eclipse_plugins_cfg 2021.1.1-r69 2021.2.0-r213 2021.3.0-r268 2021.4.0-r338: IoT Plugins for Eclipse eclipse integration configuration file
+intel-oneapi/intel_oneapi_ipp 2021.1.1-r47 2021.2.0-r233 2021.3.0-r333 2021.4.0-r459 2021.5.1-r522 2021.5.2-r544 2021.6.0-r626 2021.6.1-r8749 2021.6.2-r16995 2021.7.0-r25396: Intel® Integrated Performance Primitives
+intel-oneapi/intel_oneapi_ipp_202111 2021.1.1-r47: Intel® Integrated Performance Primitives
+intel-oneapi/intel_oneapi_ipp_202120 2021.2.0-r233: Intel® Integrated Performance Primitives
+intel-oneapi/intel_oneapi_ipp_202130 2021.3.0-r333: Intel® Integrated Performance Primitives
+intel-oneapi/intel_oneapi_ipp_202140 2021.4.0-r459: Intel® Integrated Performance Primitives
+intel-oneapi/intel_oneapi_ipp_202151 2021.5.1-r522: Intel® Integrated Performance Primitives
+intel-oneapi/intel_oneapi_ipp_202152 2021.5.2-r544: Intel® Integrated Performance Primitives
+intel-oneapi/intel_oneapi_ipp_202160 2021.6.0-r626: Intel® Integrated Performance Primitives
+intel-oneapi/intel_oneapi_ipp_202161 2021.6.1-r8749: Intel® Integrated Performance Primitives
+intel-oneapi/intel_oneapi_ipp_202162 2021.6.2-r16995: Intel® Integrated Performance Primitives
+intel-oneapi/intel_oneapi_ipp_202170 2021.7.0-r25396: Intel® Integrated Performance Primitives
+intel-oneapi/intel_oneapi_ipp_32bit 2021.1.1-r47 2021.2.0-r233 2021.3.0-r333 2021.4.0-r459 2021.5.1-r522 2021.5.2-r544 2021.6.0-r626 2021.6.1-r8749 2021.6.2-r16995 2021.7.0-r25396: Intel® Integrated Performance Primitives for IA-32
+intel-oneapi/intel_oneapi_ipp_32bit_202111 2021.1.1-r47: Intel® Integrated Performance Primitives for IA-32
+intel-oneapi/intel_oneapi_ipp_32bit_202120 2021.2.0-r233: Intel® Integrated Performance Primitives for IA-32
+intel-oneapi/intel_oneapi_ipp_32bit_202130 2021.3.0-r333: Intel® Integrated Performance Primitives for IA-32
+intel-oneapi/intel_oneapi_ipp_32bit_202140 2021.4.0-r459: Intel® Integrated Performance Primitives for IA-32
+intel-oneapi/intel_oneapi_ipp_32bit_202151 2021.5.1-r522: Intel® Integrated Performance Primitives for IA-32
+intel-oneapi/intel_oneapi_ipp_32bit_202152 2021.5.2-r544: Intel® Integrated Performance Primitives for IA-32
+intel-oneapi/intel_oneapi_ipp_32bit_202160 2021.6.0-r626: Intel® Integrated Performance Primitives for IA-32
+intel-oneapi/intel_oneapi_ipp_32bit_202161 2021.6.1-r8749: Intel® Integrated Performance Primitives for IA-32
+intel-oneapi/intel_oneapi_ipp_32bit_202162 2021.6.2-r16995: Intel® Integrated Performance Primitives for IA-32
+intel-oneapi/intel_oneapi_ipp_32bit_202170 2021.7.0-r25396: Intel® Integrated Performance Primitives for IA-32
+intel-oneapi/intel_oneapi_ipp_common_202111 2021.1.1-r47: Intel® Integrated Performance Primitives common
+intel-oneapi/intel_oneapi_ipp_common_202120 2021.2.0-r233: Intel® Integrated Performance Primitives common
+intel-oneapi/intel_oneapi_ipp_common_202130 2021.3.0-r333: Intel® Integrated Performance Primitives common
+intel-oneapi/intel_oneapi_ipp_common_202140 2021.4.0-r459: Intel® Integrated Performance Primitives common
+intel-oneapi/intel_oneapi_ipp_common_202151 2021.5.1-r522: Intel® Integrated Performance Primitives common
+intel-oneapi/intel_oneapi_ipp_common_202152 2021.5.2-r544: Intel® Integrated Performance Primitives common
+intel-oneapi/intel_oneapi_ipp_common_202160 2021.6.0-r626: Intel® Integrated Performance Primitives common
+intel-oneapi/intel_oneapi_ipp_common_202161 2021.6.1-r8749: Intel® Integrated Performance Primitives common
+intel-oneapi/intel_oneapi_ipp_common_202162 2021.6.2-r16995: Intel® Integrated Performance Primitives common
+intel-oneapi/intel_oneapi_ipp_common_202170 2021.7.0-r25396: Intel® Integrated Performance Primitives common
+intel-oneapi/intel_oneapi_ipp_common_devel_202111 2021.1.1-r47: Intel® Integrated Performance Primitives common
+intel-oneapi/intel_oneapi_ipp_common_devel_202120 2021.2.0-r233: Intel® Integrated Performance Primitives common
+intel-oneapi/intel_oneapi_ipp_common_devel_202130 2021.3.0-r333: Intel® Integrated Performance Primitives common
+intel-oneapi/intel_oneapi_ipp_common_devel_202140 2021.4.0-r459: Intel® Integrated Performance Primitives common
+intel-oneapi/intel_oneapi_ipp_common_devel_202151 2021.5.1-r522: Intel® Integrated Performance Primitives common
+intel-oneapi/intel_oneapi_ipp_common_devel_202152 2021.5.2-r544: Intel® Integrated Performance Primitives common
+intel-oneapi/intel_oneapi_ipp_common_devel_202160 2021.6.0-r626: Intel® Integrated Performance Primitives common
+intel-oneapi/intel_oneapi_ipp_common_devel_202161 2021.6.1-r8749: Intel® Integrated Performance Primitives common
+intel-oneapi/intel_oneapi_ipp_common_devel_202162 2021.6.2-r16995: Intel® Integrated Performance Primitives common
+intel-oneapi/intel_oneapi_ipp_common_devel_202170 2021.7.0-r25396: Intel® Integrated Performance Primitives common
+intel-oneapi/intel_oneapi_ipp_devel 2021.1.1-r47 2021.2.0-r233 2021.3.0-r333 2021.4.0-r459 2021.5.1-r522 2021.5.2-r544 2021.6.0-r626 2021.6.1-r8749 2021.6.2-r16995 2021.7.0-r25396: Intel® Integrated Performance Primitives Development Package
+intel-oneapi/intel_oneapi_ipp_devel_202111 2021.1.1-r47: Intel® Integrated Performance Primitives Development Package
+intel-oneapi/intel_oneapi_ipp_devel_202120 2021.2.0-r233: Intel® Integrated Performance Primitives Development Package
+intel-oneapi/intel_oneapi_ipp_devel_202130 2021.3.0-r333: Intel® Integrated Performance Primitives Development Package
+intel-oneapi/intel_oneapi_ipp_devel_202140 2021.4.0-r459: Intel® Integrated Performance Primitives Development Package
+intel-oneapi/intel_oneapi_ipp_devel_202151 2021.5.1-r522: Intel® Integrated Performance Primitives Development Package
+intel-oneapi/intel_oneapi_ipp_devel_202152 2021.5.2-r544: Intel® Integrated Performance Primitives Development Package
+intel-oneapi/intel_oneapi_ipp_devel_202160 2021.6.0-r626: Intel® Integrated Performance Primitives Development Package
+intel-oneapi/intel_oneapi_ipp_devel_202161 2021.6.1-r8749: Intel® Integrated Performance Primitives Development Package
+intel-oneapi/intel_oneapi_ipp_devel_202162 2021.6.2-r16995: Intel® Integrated Performance Primitives Development Package
+intel-oneapi/intel_oneapi_ipp_devel_202170 2021.7.0-r25396: Intel® Integrated Performance Primitives Development Package
+intel-oneapi/intel_oneapi_ipp_devel_32bit 2021.1.1-r47 2021.2.0-r233 2021.3.0-r333 2021.4.0-r459 2021.5.1-r522 2021.5.2-r544 2021.6.0-r626 2021.6.1-r8749 2021.6.2-r16995 2021.7.0-r25396: Intel® Integrated Performance Primitives Development Package for IA-32
+intel-oneapi/intel_oneapi_ipp_devel_32bit_202111 2021.1.1-r47: Intel® Integrated Performance Primitives Development Package for IA-32
+intel-oneapi/intel_oneapi_ipp_devel_32bit_202120 2021.2.0-r233: Intel® Integrated Performance Primitives Development Package for IA-32
+intel-oneapi/intel_oneapi_ipp_devel_32bit_202130 2021.3.0-r333: Intel® Integrated Performance Primitives Development Package for IA-32
+intel-oneapi/intel_oneapi_ipp_devel_32bit_202140 2021.4.0-r459: Intel® Integrated Performance Primitives Development Package for IA-32
+intel-oneapi/intel_oneapi_ipp_devel_32bit_202151 2021.5.1-r522: Intel® Integrated Performance Primitives Development Package for IA-32
+intel-oneapi/intel_oneapi_ipp_devel_32bit_202152 2021.5.2-r544: Intel® Integrated Performance Primitives Development Package for IA-32
+intel-oneapi/intel_oneapi_ipp_devel_32bit_202160 2021.6.0-r626: Intel® Integrated Performance Primitives Development Package for IA-32
+intel-oneapi/intel_oneapi_ipp_devel_32bit_202161 2021.6.1-r8749: Intel® Integrated Performance Primitives Development Package for IA-32
+intel-oneapi/intel_oneapi_ipp_devel_32bit_202162 2021.6.2-r16995: Intel® Integrated Performance Primitives Development Package for IA-32
+intel-oneapi/intel_oneapi_ipp_devel_32bit_202170 2021.7.0-r25396: Intel® Integrated Performance Primitives Development Package for IA-32
+intel-oneapi/intel_oneapi_ippcp 2021.1.1-r54 2021.2.0-r231 2021.3.0-r315 2021.4.0-r401 2021.5.0-r445 2021.5.1-r462 2021.6.0-r536 2021.6.1-r8714 2021.6.2-r15006 2021.6.3-r25343: Intel® Integrated Performance Primitives Cryptography
+intel-oneapi/intel_oneapi_ippcp_202111 2021.1.1-r54: Intel® Integrated Performance Primitives Cryptography
+intel-oneapi/intel_oneapi_ippcp_202120 2021.2.0-r231: Intel® Integrated Performance Primitives Cryptography
+intel-oneapi/intel_oneapi_ippcp_202130 2021.3.0-r315: Intel® Integrated Performance Primitives Cryptography
+intel-oneapi/intel_oneapi_ippcp_202140 2021.4.0-r401: Intel® Integrated Performance Primitives Cryptography
+intel-oneapi/intel_oneapi_ippcp_202150 2021.5.0-r445: Intel® Integrated Performance Primitives Cryptography
+intel-oneapi/intel_oneapi_ippcp_202151 2021.5.1-r462: Intel® Integrated Performance Primitives Cryptography
+intel-oneapi/intel_oneapi_ippcp_202160 2021.6.0-r536: Intel® Integrated Performance Primitives Cryptography
+intel-oneapi/intel_oneapi_ippcp_202161 2021.6.1-r8714: Intel® Integrated Performance Primitives Cryptography
+intel-oneapi/intel_oneapi_ippcp_202162 2021.6.2-r15006: Intel® Integrated Performance Primitives Cryptography
+intel-oneapi/intel_oneapi_ippcp_202163 2021.6.3-r25343: Intel® Integrated Performance Primitives Cryptography
+intel-oneapi/intel_oneapi_ippcp_32bit 2021.1.1-r54 2021.2.0-r231 2021.3.0-r315 2021.4.0-r401 2021.5.0-r445 2021.5.1-r462 2021.6.0-r536 2021.6.1-r8714 2021.6.2-r15006 2021.6.3-r25343: Intel® Integrated Performance Primitives Cryptography for IA-32
+intel-oneapi/intel_oneapi_ippcp_32bit_202111 2021.1.1-r54: Intel® Integrated Performance Primitives Cryptography for IA-32
+intel-oneapi/intel_oneapi_ippcp_32bit_202120 2021.2.0-r231: Intel® Integrated Performance Primitives Cryptography for IA-32
+intel-oneapi/intel_oneapi_ippcp_32bit_202130 2021.3.0-r315: Intel® Integrated Performance Primitives Cryptography for IA-32
+intel-oneapi/intel_oneapi_ippcp_32bit_202140 2021.4.0-r401: Intel® Integrated Performance Primitives Cryptography for IA-32
+intel-oneapi/intel_oneapi_ippcp_32bit_202150 2021.5.0-r445: Intel® Integrated Performance Primitives Cryptography for IA-32
+intel-oneapi/intel_oneapi_ippcp_32bit_202151 2021.5.1-r462: Intel® Integrated Performance Primitives Cryptography for IA-32
+intel-oneapi/intel_oneapi_ippcp_32bit_202160 2021.6.0-r536: Intel® Integrated Performance Primitives Cryptography for IA-32
+intel-oneapi/intel_oneapi_ippcp_32bit_202161 2021.6.1-r8714: Intel® Integrated Performance Primitives Cryptography for IA-32
+intel-oneapi/intel_oneapi_ippcp_32bit_202162 2021.6.2-r15006: Intel® Integrated Performance Primitives Cryptography for IA-32
+intel-oneapi/intel_oneapi_ippcp_32bit_202163 2021.6.3-r25343: Intel® Integrated Performance Primitives Cryptography for IA-32
+intel-oneapi/intel_oneapi_ippcp_common_202111 2021.1.1-r54: Intel® Integrated Performance Primitives Cryptography common
+intel-oneapi/intel_oneapi_ippcp_common_202120 2021.2.0-r231: Intel® Integrated Performance Primitives Cryptography common
+intel-oneapi/intel_oneapi_ippcp_common_202130 2021.3.0-r315: Intel® Integrated Performance Primitives Cryptography common
+intel-oneapi/intel_oneapi_ippcp_common_202140 2021.4.0-r401: Intel® Integrated Performance Primitives Cryptography common
+intel-oneapi/intel_oneapi_ippcp_common_202150 2021.5.0-r445: Intel® Integrated Performance Primitives Cryptography common
+intel-oneapi/intel_oneapi_ippcp_common_202151 2021.5.1-r462: Intel® Integrated Performance Primitives Cryptography common
+intel-oneapi/intel_oneapi_ippcp_common_202160 2021.6.0-r536: Intel® Integrated Performance Primitives Cryptography common
+intel-oneapi/intel_oneapi_ippcp_common_202161 2021.6.1-r8714: Intel® Integrated Performance Primitives Cryptography common
+intel-oneapi/intel_oneapi_ippcp_common_202162 2021.6.2-r15006: Intel® Integrated Performance Primitives Cryptography common
+intel-oneapi/intel_oneapi_ippcp_common_202163 2021.6.3-r25343: Intel® Integrated Performance Primitives Cryptography common
+intel-oneapi/intel_oneapi_ippcp_common_devel_202111 2021.1.1-r54: Intel® Integrated Performance Primitives Cryptography common
+intel-oneapi/intel_oneapi_ippcp_common_devel_202120 2021.2.0-r231: Intel® Integrated Performance Primitives Cryptography common
+intel-oneapi/intel_oneapi_ippcp_common_devel_202130 2021.3.0-r315: Intel® Integrated Performance Primitives Cryptography common
+intel-oneapi/intel_oneapi_ippcp_common_devel_202140 2021.4.0-r401: Intel® Integrated Performance Primitives Cryptography common
+intel-oneapi/intel_oneapi_ippcp_common_devel_202150 2021.5.0-r445: Intel® Integrated Performance Primitives Cryptography common
+intel-oneapi/intel_oneapi_ippcp_common_devel_202151 2021.5.1-r462: Intel® Integrated Performance Primitives Cryptography common
+intel-oneapi/intel_oneapi_ippcp_common_devel_202160 2021.6.0-r536: Intel® Integrated Performance Primitives Cryptography common
+intel-oneapi/intel_oneapi_ippcp_common_devel_202161 2021.6.1-r8714: Intel® Integrated Performance Primitives Cryptography common
+intel-oneapi/intel_oneapi_ippcp_common_devel_202162 2021.6.2-r15006: Intel® Integrated Performance Primitives Cryptography common
+intel-oneapi/intel_oneapi_ippcp_common_devel_202163 2021.6.3-r25343: Intel® Integrated Performance Primitives Cryptography common
+intel-oneapi/intel_oneapi_ippcp_devel 2021.1.1-r54 2021.2.0-r231 2021.3.0-r315 2021.4.0-r401 2021.5.0-r445 2021.5.1-r462 2021.6.0-r536 2021.6.1-r8714 2021.6.2-r15006 2021.6.3-r25343: Intel® Integrated Performance Primitives Cryptography Development Package
+intel-oneapi/intel_oneapi_ippcp_devel_202111 2021.1.1-r54: Intel® Integrated Performance Primitives Cryptography Development Package
+intel-oneapi/intel_oneapi_ippcp_devel_202120 2021.2.0-r231: Intel® Integrated Performance Primitives Cryptography Development Package
+intel-oneapi/intel_oneapi_ippcp_devel_202130 2021.3.0-r315: Intel® Integrated Performance Primitives Cryptography Development Package
+intel-oneapi/intel_oneapi_ippcp_devel_202140 2021.4.0-r401: Intel® Integrated Performance Primitives Cryptography Development Package
+intel-oneapi/intel_oneapi_ippcp_devel_202150 2021.5.0-r445: Intel® Integrated Performance Primitives Cryptography Development Package
+intel-oneapi/intel_oneapi_ippcp_devel_202151 2021.5.1-r462: Intel® Integrated Performance Primitives Cryptography Development Package
+intel-oneapi/intel_oneapi_ippcp_devel_202160 2021.6.0-r536: Intel® Integrated Performance Primitives Cryptography Development Package
+intel-oneapi/intel_oneapi_ippcp_devel_202161 2021.6.1-r8714: Intel® Integrated Performance Primitives Cryptography Development Package
+intel-oneapi/intel_oneapi_ippcp_devel_202162 2021.6.2-r15006: Intel® Integrated Performance Primitives Cryptography Development Package
+intel-oneapi/intel_oneapi_ippcp_devel_202163 2021.6.3-r25343: Intel® Integrated Performance Primitives Cryptography Development Package
+intel-oneapi/intel_oneapi_ippcp_devel_32bit 2021.1.1-r54 2021.2.0-r231 2021.3.0-r315 2021.4.0-r401 2021.5.0-r445 2021.5.1-r462 2021.6.0-r536 2021.6.1-r8714 2021.6.2-r15006 2021.6.3-r25343: Intel® Integrated Performance Primitives Cryptography Development Package for IA-32
+intel-oneapi/intel_oneapi_ippcp_devel_32bit_202111 2021.1.1-r54: Intel® Integrated Performance Primitives Cryptography Development Package for IA-32
+intel-oneapi/intel_oneapi_ippcp_devel_32bit_202120 2021.2.0-r231: Intel® Integrated Performance Primitives Cryptography Development Package for IA-32
+intel-oneapi/intel_oneapi_ippcp_devel_32bit_202130 2021.3.0-r315: Intel® Integrated Performance Primitives Cryptography Development Package for IA-32
+intel-oneapi/intel_oneapi_ippcp_devel_32bit_202140 2021.4.0-r401: Intel® Integrated Performance Primitives Cryptography Development Package for IA-32
+intel-oneapi/intel_oneapi_ippcp_devel_32bit_202150 2021.5.0-r445: Intel® Integrated Performance Primitives Cryptography Development Package for IA-32
+intel-oneapi/intel_oneapi_ippcp_devel_32bit_202151 2021.5.1-r462: Intel® Integrated Performance Primitives Cryptography Development Package for IA-32
+intel-oneapi/intel_oneapi_ippcp_devel_32bit_202160 2021.6.0-r536: Intel® Integrated Performance Primitives Cryptography Development Package for IA-32
+intel-oneapi/intel_oneapi_ippcp_devel_32bit_202161 2021.6.1-r8714: Intel® Integrated Performance Primitives Cryptography Development Package for IA-32
+intel-oneapi/intel_oneapi_ippcp_devel_32bit_202162 2021.6.2-r15006: Intel® Integrated Performance Primitives Cryptography Development Package for IA-32
+intel-oneapi/intel_oneapi_ippcp_devel_32bit_202163 2021.6.3-r25343: Intel® Integrated Performance Primitives Cryptography Development Package for IA-32
+intel-oneapi/intel_oneapi_ispc 1.16.1-r81 1.17.0-r140 1.18.0-r8709 1.18.1-r21155 1.18.1-r25344: Intel® Implicit SPMD Program Compiler
+intel-oneapi/intel_oneapi_ispc_1161 1.16.1-r81: Intel® Implicit SPMD Program Compiler
+intel-oneapi/intel_oneapi_ispc_1170 1.17.0-r140: Intel® Implicit SPMD Program Compiler
+intel-oneapi/intel_oneapi_ispc_1180 1.18.0-r8709: Intel® Implicit SPMD Program Compiler
+intel-oneapi/intel_oneapi_ispc_1181 1.18.1-r21155 1.18.1-r25344: Intel® Implicit SPMD Program Compiler
+intel-oneapi/intel_oneapi_itac 2021.1.1-r42 2021.2.0-r152 2021.3.0-r223 2021.4.0-r322 2021.5.0-r370 2021.6.0-r434 2021.7.0-r8707 2021.7.1-r15324 2021.8.0-r25341: Intel® Trace Analyzer and Collector
+intel-oneapi/intel_oneapi_itac_202111 2021.1.1-r42: Intel® Trace Analyzer and Collector
+intel-oneapi/intel_oneapi_itac_202120 2021.2.0-r152: Intel® Trace Analyzer and Collector
+intel-oneapi/intel_oneapi_itac_202130 2021.3.0-r223: Intel® Trace Analyzer and Collector
+intel-oneapi/intel_oneapi_itac_202140 2021.4.0-r322: Intel® Trace Analyzer and Collector
+intel-oneapi/intel_oneapi_itac_202150 2021.5.0-r370: Intel® Trace Analyzer and Collector
+intel-oneapi/intel_oneapi_itac_202160 2021.6.0-r434: Intel® Trace Analyzer and Collector
+intel-oneapi/intel_oneapi_itac_202170 2021.7.0-r8707: Intel® Trace Analyzer and Collector
+intel-oneapi/intel_oneapi_itac_202171 2021.7.1-r15324: Intel® Trace Analyzer and Collector
+intel-oneapi/intel_oneapi_itac_202180 2021.8.0-r25341: Intel® Trace Analyzer and Collector
+intel-oneapi/intel_oneapi_libdpstd_devel 2021.1.1-r189 2021.1.2-r266 2021.2.0-r245 2021.3.0-r271 2021.4.0-r337 2021.5.0-r445 2021.6.0-r501 2021.7.0-r631 2021.7.1-r8713 2021.7.2-r15007 2022.0.0-r25335: Intel® oneAPI DPC++ Library meta-package
+intel-oneapi/intel_oneapi_libdpstd_devel_202111 2021.1.1-r189: Intel® oneAPI DPC++ Library 2021.1.1 for Linux*
+intel-oneapi/intel_oneapi_libdpstd_devel_202112 2021.1.2-r266: Intel® oneAPI DPC++ Library 2021.1.2 for Linux*
+intel-oneapi/intel_oneapi_libdpstd_devel_202120 2021.2.0-r245: Intel® oneAPI DPC++ Library 2021.2.0 for Linux*
+intel-oneapi/intel_oneapi_libdpstd_devel_202130 2021.3.0-r271: Intel® oneAPI DPC++ Library 2021.3.0 for Linux*
+intel-oneapi/intel_oneapi_libdpstd_devel_202140 2021.4.0-r337: Intel® oneAPI DPC++ Library 2021.4.0 for Linux*
+intel-oneapi/intel_oneapi_libdpstd_devel_202150 2021.5.0-r445: Intel® oneAPI DPC++ Library 2021.5.0 for Linux*
+intel-oneapi/intel_oneapi_libdpstd_devel_202160 2021.6.0-r501: Intel® oneAPI DPC++ Library 2021.6.0 for Linux*
+intel-oneapi/intel_oneapi_libdpstd_devel_202170 2021.7.0-r631: Intel® oneAPI DPC++ Library 2021.7.0 for Linux*
+intel-oneapi/intel_oneapi_libdpstd_devel_202171 2021.7.1-r8713: Intel® oneAPI DPC++ Library 2021.7.1 for Linux*
+intel-oneapi/intel_oneapi_libdpstd_devel_202172 2021.7.2-r15007: Intel® oneAPI DPC++ Library 2021.7.2 for Linux*
+intel-oneapi/intel_oneapi_libdpstd_devel_202200 2022.0.0-r25335: Intel® oneAPI DPC++ Library 2022.0.0 for Linux*
+intel-oneapi/intel_oneapi_lpot 1.4.1.0-r454 1.5.1.0-r537: Intel® Low Precision Optimization Tool
+intel-oneapi/intel_oneapi_mkl 2021.1.1-r52 2021.2.0-r296 2021.3.0-r520 2021.4.0-r640 2022.0.1-r117 2022.0.2-r136 2022.1.0-r223 2022.2.0-r8748 2022.2.1-r16993 2023.0.0-r25398: Intel® oneAPI Math Kernel Library 2023.0.0 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_mkl_202111 2021.1.1-r52: Intel® oneAPI Math Kernel Library 2021.1.1 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_mkl_202120 2021.2.0-r296: Intel® oneAPI Math Kernel Library 2021.2.0 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_mkl_202130 2021.3.0-r520: Intel® oneAPI Math Kernel Library 2021.3.0 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_mkl_202140 2021.4.0-r640: Intel® oneAPI Math Kernel Library 2021.4.0 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_mkl_202201 2022.0.1-r117: Intel® oneAPI Math Kernel Library 2022.0.1 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_mkl_202202 2022.0.2-r136: Intel® oneAPI Math Kernel Library 2022.0.2 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_mkl_202210 2022.1.0-r223: Intel® oneAPI Math Kernel Library 2022.1.0 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_mkl_202220 2022.2.0-r8748: Intel® oneAPI Math Kernel Library 2022.2.0 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_mkl_202221 2022.2.1-r16993: Intel® oneAPI Math Kernel Library 2022.2.1 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_mkl_202300 2023.0.0-r25398: Intel® oneAPI Math Kernel Library 2023.0.0 for Linux* runtime package for Intel(R) 64
+intel-oneapi/intel_oneapi_mkl_32bit 2021.1.1-r52 2021.2.0-r296 2021.3.0-r520 2021.4.0-r640 2022.0.1-r117 2022.0.2-r136 2022.1.0-r223 2022.2.0-r8748 2022.2.1-r16993 2023.0.0-r25398: Intel® oneAPI Math Kernel Library 2023.0.0 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_mkl_32bit_202111 2021.1.1-r52: Intel® oneAPI Math Kernel Library 2021.1.1 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_mkl_32bit_202120 2021.2.0-r296: Intel® oneAPI Math Kernel Library 2021.2.0 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_mkl_32bit_202130 2021.3.0-r520: Intel® oneAPI Math Kernel Library 2021.3.0 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_mkl_32bit_202140 2021.4.0-r640: Intel® oneAPI Math Kernel Library 2021.4.0 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_mkl_32bit_202201 2022.0.1-r117: Intel® oneAPI Math Kernel Library 2022.0.1 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_mkl_32bit_202202 2022.0.2-r136: Intel® oneAPI Math Kernel Library 2022.0.2 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_mkl_32bit_202210 2022.1.0-r223: Intel® oneAPI Math Kernel Library 2022.1.0 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_mkl_32bit_202220 2022.2.0-r8748: Intel® oneAPI Math Kernel Library 2022.2.0 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_mkl_32bit_202221 2022.2.1-r16993: Intel® oneAPI Math Kernel Library 2022.2.1 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_mkl_32bit_202300 2023.0.0-r25398: Intel® oneAPI Math Kernel Library 2023.0.0 for Linux* runtime package for IA-32
+intel-oneapi/intel_oneapi_mkl_common_202111 2021.1.1-r52: Intel® oneAPI Math Kernel Library 2021.1.1 for Linux* common
+intel-oneapi/intel_oneapi_mkl_common_202120 2021.2.0-r296: Intel® oneAPI Math Kernel Library 2021.2.0 for Linux* common
+intel-oneapi/intel_oneapi_mkl_common_202130 2021.3.0-r520: Intel® oneAPI Math Kernel Library 2021.3.0 for Linux* common
+intel-oneapi/intel_oneapi_mkl_common_202140 2021.4.0-r640: Intel® oneAPI Math Kernel Library 2021.4.0 for Linux* common
+intel-oneapi/intel_oneapi_mkl_common_202201 2022.0.1-r117: Intel® oneAPI Math Kernel Library 2022.0.1 for Linux* common
+intel-oneapi/intel_oneapi_mkl_common_202202 2022.0.2-r136: Intel® oneAPI Math Kernel Library 2022.0.2 for Linux* common
+intel-oneapi/intel_oneapi_mkl_common_202210 2022.1.0-r223: Intel® oneAPI Math Kernel Library 2022.1.0 for Linux* common
+intel-oneapi/intel_oneapi_mkl_common_202220 2022.2.0-r8748: Intel® oneAPI Math Kernel Library 2022.2.0 for Linux* common
+intel-oneapi/intel_oneapi_mkl_common_202221 2022.2.1-r16993: Intel® oneAPI Math Kernel Library 2022.2.1 for Linux* common
+intel-oneapi/intel_oneapi_mkl_common_202300 2023.0.0-r25398: Intel® oneAPI Math Kernel Library 2023.0.0 for Linux* common
+intel-oneapi/intel_oneapi_mkl_common_devel_202111 2021.1.1-r52: Intel® oneAPI Math Kernel Library 2021.1.1 for Linux* common
+intel-oneapi/intel_oneapi_mkl_common_devel_202120 2021.2.0-r296: Intel® oneAPI Math Kernel Library 2021.2.0 for Linux* common
+intel-oneapi/intel_oneapi_mkl_common_devel_202130 2021.3.0-r520: Intel® oneAPI Math Kernel Library 2021.3.0 for Linux* common
+intel-oneapi/intel_oneapi_mkl_common_devel_202140 2021.4.0-r640: Intel® oneAPI Math Kernel Library 2021.4.0 for Linux* common
+intel-oneapi/intel_oneapi_mkl_common_devel_202201 2022.0.1-r117: Intel® oneAPI Math Kernel Library 2022.0.1 for Linux* common
+intel-oneapi/intel_oneapi_mkl_common_devel_202202 2022.0.2-r136: Intel® oneAPI Math Kernel Library 2022.0.2 for Linux* common
+intel-oneapi/intel_oneapi_mkl_common_devel_202210 2022.1.0-r223: Intel® oneAPI Math Kernel Library 2022.1.0 for Linux* common
+intel-oneapi/intel_oneapi_mkl_common_devel_202220 2022.2.0-r8748: Intel® oneAPI Math Kernel Library 2022.2.0 for Linux* common
+intel-oneapi/intel_oneapi_mkl_common_devel_202221 2022.2.1-r16993: Intel® oneAPI Math Kernel Library 2022.2.1 for Linux* common
+intel-oneapi/intel_oneapi_mkl_common_devel_202300 2023.0.0-r25398: Intel® oneAPI Math Kernel Library 2023.0.0 for Linux* common
+intel-oneapi/intel_oneapi_mkl_devel 2021.1.1-r52 2021.2.0-r296 2021.3.0-r520 2021.4.0-r640 2022.0.1-r117 2022.0.2-r136 2022.1.0-r223 2022.2.0-r8748 2022.2.1-r16993 2023.0.0-r25398: Intel® oneAPI Math Kernel Library 2023.0.0 for Linux* development package for Intel(R) 64
+intel-oneapi/intel_oneapi_mkl_devel_202111 2021.1.1-r52: Intel® oneAPI Math Kernel Library 2021.1.1 for Linux* development package for Intel(R) 64
+intel-oneapi/intel_oneapi_mkl_devel_202120 2021.2.0-r296: Intel® oneAPI Math Kernel Library 2021.2.0 for Linux* development package for Intel(R) 64
+intel-oneapi/intel_oneapi_mkl_devel_202130 2021.3.0-r520: Intel® oneAPI Math Kernel Library 2021.3.0 for Linux* development package for Intel(R) 64
+intel-oneapi/intel_oneapi_mkl_devel_202140 2021.4.0-r640: Intel® oneAPI Math Kernel Library 2021.4.0 for Linux* development package for Intel(R) 64
+intel-oneapi/intel_oneapi_mkl_devel_202201 2022.0.1-r117: Intel® oneAPI Math Kernel Library 2022.0.1 for Linux* development package for Intel(R) 64
+intel-oneapi/intel_oneapi_mkl_devel_202202 2022.0.2-r136: Intel® oneAPI Math Kernel Library 2022.0.2 for Linux* development package for Intel(R) 64
+intel-oneapi/intel_oneapi_mkl_devel_202210 2022.1.0-r223: Intel® oneAPI Math Kernel Library 2022.1.0 for Linux* development package for Intel(R) 64
+intel-oneapi/intel_oneapi_mkl_devel_202220 2022.2.0-r8748: Intel® oneAPI Math Kernel Library 2022.2.0 for Linux* development package for Intel(R) 64
+intel-oneapi/intel_oneapi_mkl_devel_202221 2022.2.1-r16993: Intel® oneAPI Math Kernel Library 2022.2.1 for Linux* development package for Intel(R) 64
+intel-oneapi/intel_oneapi_mkl_devel_202300 2023.0.0-r25398: Intel® oneAPI Math Kernel Library 2023.0.0 for Linux* development package for Intel(R) 64
+intel-oneapi/intel_oneapi_mkl_devel_32bit 2021.1.1-r52 2021.2.0-r296 2021.3.0-r520 2021.4.0-r640 2022.0.1-r117 2022.0.2-r136 2022.1.0-r223 2022.2.0-r8748 2022.2.1-r16993 2023.0.0-r25398: Intel® oneAPI Math Kernel Library 2023.0.0 for Linux* development package for IA-32
+intel-oneapi/intel_oneapi_mkl_devel_32bit_202111 2021.1.1-r52: Intel® oneAPI Math Kernel Library 2021.1.1 for Linux* development package for IA-32
+intel-oneapi/intel_oneapi_mkl_devel_32bit_202120 2021.2.0-r296: Intel® oneAPI Math Kernel Library 2021.2.0 for Linux* development package for IA-32
+intel-oneapi/intel_oneapi_mkl_devel_32bit_202130 2021.3.0-r520: Intel® oneAPI Math Kernel Library 2021.3.0 for Linux* development package for IA-32
+intel-oneapi/intel_oneapi_mkl_devel_32bit_202140 2021.4.0-r640: Intel® oneAPI Math Kernel Library 2021.4.0 for Linux* development package for IA-32
+intel-oneapi/intel_oneapi_mkl_devel_32bit_202201 2022.0.1-r117: Intel® oneAPI Math Kernel Library 2022.0.1 for Linux* development package for IA-32
+intel-oneapi/intel_oneapi_mkl_devel_32bit_202202 2022.0.2-r136: Intel® oneAPI Math Kernel Library 2022.0.2 for Linux* development package for IA-32
+intel-oneapi/intel_oneapi_mkl_devel_32bit_202210 2022.1.0-r223: Intel® oneAPI Math Kernel Library 2022.1.0 for Linux* development package for IA-32
+intel-oneapi/intel_oneapi_mkl_devel_32bit_202220 2022.2.0-r8748: Intel® oneAPI Math Kernel Library 2022.2.0 for Linux* development package for IA-32
+intel-oneapi/intel_oneapi_mkl_devel_32bit_202221 2022.2.1-r16993: Intel® oneAPI Math Kernel Library 2022.2.1 for Linux* development package for IA-32
+intel-oneapi/intel_oneapi_mkl_devel_32bit_202300 2023.0.0-r25398: Intel® oneAPI Math Kernel Library 2023.0.0 for Linux* development package for IA-32
+intel-oneapi/intel_oneapi_model_zoo 1.8.0-r204 2.2.0-r287 2.4.0-r344 2.4.0-r417 2.5.0-r63 2.5.0-r146 2.8.0-r8699 2.8.0-r20880 2.8.0-r25330 2.9.0-r29666: Model Zoo
+intel-oneapi/intel_oneapi_modin 0.13.3-r69 0.13.3-r8765 0.13.3-r20879 0.17.0-r26095 0.17.0.1-r31755: Intel® Distribution of Modin
+intel-oneapi/intel_oneapi_mpi 2021.1.1-r76 2021.2.0-r215 2021.3.0-r294 2021.3.1-r315 2021.4.0-r441 2021.5.0-r495 2021.5.1-r515 2021.6.0-r602 2021.7.0-r8711 2021.7.1-r16815 2021.8.0-r25329: Intel® MPI Library Runtime Environment
+intel-oneapi/intel_oneapi_mpi_202111 2021.1.1-r76: Intel® MPI Library Runtime Environment
+intel-oneapi/intel_oneapi_mpi_202120 2021.2.0-r215: Intel® MPI Library Runtime Environment
+intel-oneapi/intel_oneapi_mpi_202130 2021.3.0-r294: Intel® MPI Library Runtime Environment
+intel-oneapi/intel_oneapi_mpi_202131 2021.3.1-r315: Intel® MPI Library Runtime Environment
+intel-oneapi/intel_oneapi_mpi_202140 2021.4.0-r441: Intel® MPI Library Runtime Environment
+intel-oneapi/intel_oneapi_mpi_202150 2021.5.0-r495: Intel® MPI Library Runtime Environment
+intel-oneapi/intel_oneapi_mpi_202151 2021.5.1-r515: Intel® MPI Library Runtime Environment
+intel-oneapi/intel_oneapi_mpi_202160 2021.6.0-r602: Intel® MPI Library Runtime Environment
+intel-oneapi/intel_oneapi_mpi_202170 2021.7.0-r8711: Intel® MPI Library Runtime Environment
+intel-oneapi/intel_oneapi_mpi_202171 2021.7.1-r16815: Intel® MPI Library Runtime Environment
+intel-oneapi/intel_oneapi_mpi_202180 2021.8.0-r25329: Intel® MPI Library Runtime Environment
+intel-oneapi/intel_oneapi_mpi_devel 2021.1.1-r76 2021.2.0-r215 2021.3.0-r294 2021.3.1-r315 2021.4.0-r441 2021.5.0-r495 2021.5.1-r515 2021.6.0-r602 2021.7.0-r8711 2021.7.1-r16815 2021.8.0-r25329: Intel® MPI Library
+intel-oneapi/intel_oneapi_mpi_devel_202111 2021.1.1-r76: Intel® MPI Library
+intel-oneapi/intel_oneapi_mpi_devel_202120 2021.2.0-r215: Intel® MPI Library
+intel-oneapi/intel_oneapi_mpi_devel_202130 2021.3.0-r294: Intel® MPI Library
+intel-oneapi/intel_oneapi_mpi_devel_202131 2021.3.1-r315: Intel® MPI Library
+intel-oneapi/intel_oneapi_mpi_devel_202140 2021.4.0-r441: Intel® MPI Library
+intel-oneapi/intel_oneapi_mpi_devel_202150 2021.5.0-r495: Intel® MPI Library
+intel-oneapi/intel_oneapi_mpi_devel_202151 2021.5.1-r515: Intel® MPI Library
+intel-oneapi/intel_oneapi_mpi_devel_202160 2021.6.0-r602: Intel® MPI Library
+intel-oneapi/intel_oneapi_mpi_devel_202170 2021.7.0-r8711: Intel® MPI Library
+intel-oneapi/intel_oneapi_mpi_devel_202171 2021.7.1-r16815: Intel® MPI Library
+intel-oneapi/intel_oneapi_mpi_devel_202180 2021.8.0-r25329: Intel® MPI Library
+intel-oneapi/intel_oneapi_neural_compressor 1.7.0-r597 1.7.0-r616 1.10.0-r703 1.13.0-r8764 1.13.0-r20878 1.13.0-r26098 1.14.2.0-r31757: Intel® Neural Compressor
+intel-oneapi/intel_oneapi_oidn 1.2.4-r116 1.3.0-r167 1.4.0-r63 1.4.1-r90 1.4.2-r73 1.4.3-r160 1.4.3-r8731 1.4.3-r15341 1.4.3-r25373: Intel® Open Image Denoise
+intel-oneapi/intel_oneapi_oidn_124 1.2.4-r116: Intel® Open Image Denoise
+intel-oneapi/intel_oneapi_oidn_130 1.3.0-r167: Intel® Open Image Denoise
+intel-oneapi/intel_oneapi_oidn_140 1.4.0-r63: Intel® Open Image Denoise
+intel-oneapi/intel_oneapi_oidn_141 1.4.1-r90: Intel® Open Image Denoise
+intel-oneapi/intel_oneapi_oidn_142 1.4.2-r73: Intel® Open Image Denoise
+intel-oneapi/intel_oneapi_oidn_143 1.4.3-r160 1.4.3-r8731 1.4.3-r15341 1.4.3-r25373: Intel® Open Image Denoise
+intel-oneapi/intel_oneapi_onevpl 2021.1.1-r66 2021.2.2-r212 2021.4.0-r328 2021.6.0-r458 2022.0.0-r58 2022.1.0-r154 2022.2.0-r8703 2022.2.5-r17121 2023.0.0-r25332: Intel® oneAPI Video Processing Library
+intel-oneapi/intel_oneapi_onevpl_202111 2021.1.1-r66: Intel® oneAPI Video Processing Library
+intel-oneapi/intel_oneapi_onevpl_202122 2021.2.2-r212: Intel® oneAPI Video Processing Library
+intel-oneapi/intel_oneapi_onevpl_202140 2021.4.0-r328: Intel® oneAPI Video Processing Library
+intel-oneapi/intel_oneapi_onevpl_202160 2021.6.0-r458: Intel® oneAPI Video Processing Library
+intel-oneapi/intel_oneapi_onevpl_202200 2022.0.0-r58: Intel® oneAPI Video Processing Library
+intel-oneapi/intel_oneapi_onevpl_202210 2022.1.0-r154: Intel® oneAPI Video Processing Library
+intel-oneapi/intel_oneapi_onevpl_202220 2022.2.0-r8703: Intel® oneAPI Video Processing Library
+intel-oneapi/intel_oneapi_onevpl_202225 2022.2.5-r17121: Intel® oneAPI Video Processing Library
+intel-oneapi/intel_oneapi_onevpl_202300 2023.0.0-r25332: Intel® oneAPI Video Processing Library
+intel-oneapi/intel_oneapi_onevpl_devel 2021.1.1-r66 2021.2.2-r212 2021.4.0-r328 2021.6.0-r458 2022.0.0-r58 2022.1.0-r154 2022.2.0-r8703 2022.2.5-r17121 2023.0.0-r25332: Intel® oneAPI Video Processing Library
+intel-oneapi/intel_oneapi_onevpl_devel_202111 2021.1.1-r66: Intel® oneAPI Video Processing Library
+intel-oneapi/intel_oneapi_onevpl_devel_202122 2021.2.2-r212: Intel® oneAPI Video Processing Library
+intel-oneapi/intel_oneapi_onevpl_devel_202140 2021.4.0-r328: Intel® oneAPI Video Processing Library
+intel-oneapi/intel_oneapi_onevpl_devel_202160 2021.6.0-r458: Intel® oneAPI Video Processing Library
+intel-oneapi/intel_oneapi_onevpl_devel_202200 2022.0.0-r58: Intel® oneAPI Video Processing Library
+intel-oneapi/intel_oneapi_onevpl_devel_202210 2022.1.0-r154: Intel® oneAPI Video Processing Library
+intel-oneapi/intel_oneapi_onevpl_devel_202220 2022.2.0-r8703: Intel® oneAPI Video Processing Library
+intel-oneapi/intel_oneapi_onevpl_devel_202225 2022.2.5-r17121: Intel® oneAPI Video Processing Library
+intel-oneapi/intel_oneapi_onevpl_devel_202300 2023.0.0-r25332: Intel® oneAPI Video Processing Library
+intel-oneapi/intel_oneapi_openmp 2021.1.1-r189 2021.1.2-r266 2021.2.0-r610 2021.3.0-r3350 2021.4.0-r3561 2022.0.1-r3633 2022.0.2-r3658 2022.1.0-r3768 2022.2.0-r8734 2022.2.1-r16953 2023.0.0-r25370: Intel® OpenMP* Runtime Library meta-package
+intel-oneapi/intel_oneapi_openmp_202111 2021.1.1-r189: Intel® OpenMP* Runtime Library for Intel(R) 64
+intel-oneapi/intel_oneapi_openmp_202112 2021.1.2-r266: Intel® OpenMP* Runtime Library for Intel(R) 64
+intel-oneapi/intel_oneapi_openmp_202120 2021.2.0-r610: Intel® OpenMP* Runtime Library for Intel(R) 64
+intel-oneapi/intel_oneapi_openmp_202130 2021.3.0-r3350: Intel® OpenMP* Runtime Library for Intel(R) 64
+intel-oneapi/intel_oneapi_openmp_202140 2021.4.0-r3561: Intel® OpenMP* Runtime Library for Intel(R) 64
+intel-oneapi/intel_oneapi_openmp_202201 2022.0.1-r3633: Intel® OpenMP* Runtime Library for Intel(R) 64
+intel-oneapi/intel_oneapi_openmp_202202 2022.0.2-r3658: Intel® OpenMP* Runtime Library for Intel(R) 64
+intel-oneapi/intel_oneapi_openmp_202210 2022.1.0-r3768: Intel® OpenMP* Runtime Library for Intel(R) 64
+intel-oneapi/intel_oneapi_openmp_202220 2022.2.0-r8734: Intel® OpenMP* Runtime Library for Intel(R) 64
+intel-oneapi/intel_oneapi_openmp_202221 2022.2.1-r16953: Intel® OpenMP* Runtime Library for Intel(R) 64
+intel-oneapi/intel_oneapi_openmp_202300 2023.0.0-r25370: Intel® OpenMP* Runtime Library for Intel(R) 64
+intel-oneapi/intel_oneapi_openmp_32bit 2021.1.1-r189 2021.1.2-r266 2021.2.0-r610 2021.3.0-r3350 2021.4.0-r3561 2022.0.1-r3633 2022.0.2-r3658 2022.1.0-r3768 2022.2.0-r8734 2022.2.1-r16953 2023.0.0-r25370: Intel® OpenMP* Runtime Library meta-package
+intel-oneapi/intel_oneapi_openmp_32bit_202111 2021.1.1-r189: Intel® OpenMP* Runtime Library for IA-32
+intel-oneapi/intel_oneapi_openmp_32bit_202112 2021.1.2-r266: Intel® OpenMP* Runtime Library for IA-32
+intel-oneapi/intel_oneapi_openmp_32bit_202120 2021.2.0-r610: Intel® OpenMP* Runtime Library for IA-32
+intel-oneapi/intel_oneapi_openmp_32bit_202130 2021.3.0-r3350: Intel® OpenMP* Runtime Library for IA-32
+intel-oneapi/intel_oneapi_openmp_32bit_202140 2021.4.0-r3561: Intel® OpenMP* Runtime Library for IA-32
+intel-oneapi/intel_oneapi_openmp_32bit_202201 2022.0.1-r3633: Intel® OpenMP* Runtime Library for IA-32
+intel-oneapi/intel_oneapi_openmp_32bit_202202 2022.0.2-r3658: Intel® OpenMP* Runtime Library for IA-32
+intel-oneapi/intel_oneapi_openmp_32bit_202210 2022.1.0-r3768: Intel® OpenMP* Runtime Library for IA-32
+intel-oneapi/intel_oneapi_openmp_32bit_202220 2022.2.0-r8734: Intel® OpenMP* Runtime Library for IA-32
+intel-oneapi/intel_oneapi_openmp_32bit_202221 2022.2.1-r16953: Intel® OpenMP* Runtime Library for IA-32
+intel-oneapi/intel_oneapi_openmp_32bit_202300 2023.0.0-r25370: Intel® OpenMP* Runtime Library for IA-32
+intel-oneapi/intel_oneapi_openmp_common_202111 2021.1.1-r189: Intel® OpenMP* Runtime Library
+intel-oneapi/intel_oneapi_openmp_common_202112 2021.1.2-r266: Intel® OpenMP* Runtime Library
+intel-oneapi/intel_oneapi_openmp_common_202120 2021.2.0-r610: Intel® OpenMP* Runtime Library
+intel-oneapi/intel_oneapi_openmp_common_202130 2021.3.0-r3350: Intel® OpenMP* Runtime Library
+intel-oneapi/intel_oneapi_openmp_common_202140 2021.4.0-r3561: Intel® OpenMP* Runtime Library
+intel-oneapi/intel_oneapi_openmp_common_202201 2022.0.1-r3633: Intel® OpenMP* Runtime Library
+intel-oneapi/intel_oneapi_openmp_common_202202 2022.0.2-r3658: Intel® OpenMP* Runtime Library
+intel-oneapi/intel_oneapi_openmp_common_202210 2022.1.0-r3768: Intel® OpenMP* Runtime Library
+intel-oneapi/intel_oneapi_openmp_common_202220 2022.2.0-r8734: Intel® OpenMP* Runtime Library
+intel-oneapi/intel_oneapi_openmp_common_202221 2022.2.1-r16953: Intel® OpenMP* Runtime Library
+intel-oneapi/intel_oneapi_openmp_common_202300 2023.0.0-r25370: Intel® OpenMP* Runtime Library
+intel-oneapi/intel_oneapi_openvkl 0.11.0-r87 0.12.0-r26 0.13.0-r65 1.0.0-r123 1.1.0-r77 1.2.0-r187 1.3.0-r8735 1.3.1-r21158 1.3.1-r25381: Intel® Open Volume Kernel Library
+intel-oneapi/intel_oneapi_openvkl_0110 0.11.0-r87: Intel® Open Volume Kernel Library
+intel-oneapi/intel_oneapi_openvkl_0120 0.12.0-r26: Intel® Open Volume Kernel Library
+intel-oneapi/intel_oneapi_openvkl_0130 0.13.0-r65: Intel® Open Volume Kernel Library
+intel-oneapi/intel_oneapi_openvkl_100 1.0.0-r123: Intel® Open Volume Kernel Library
+intel-oneapi/intel_oneapi_openvkl_110 1.1.0-r77: Intel® Open Volume Kernel Library
+intel-oneapi/intel_oneapi_openvkl_120 1.2.0-r187: Intel® Open Volume Kernel Library
+intel-oneapi/intel_oneapi_openvkl_130 1.3.0-r8735: Intel® Open Volume Kernel Library
+intel-oneapi/intel_oneapi_openvkl_131 1.3.1-r21158 1.3.1-r25381: Intel® Open Volume Kernel Library
+intel-oneapi/intel_oneapi_ospray 2.4.0-r55 2.5.0-r122 2.6.0-r78 2.7.0-r27 2.8.0-r77 2.9.0-r142 2.10.0-r8737 2.10.0-r21162 2.10.0-r25384: Intel® OSPRay
+intel-oneapi/intel_oneapi_ospray_2100 2.10.0-r8737 2.10.0-r21162 2.10.0-r25384: Intel® OSPRay
+intel-oneapi/intel_oneapi_ospray_240 2.4.0-r55: Intel® OSPRay
+intel-oneapi/intel_oneapi_ospray_250 2.5.0-r122: Intel® OSPRay
+intel-oneapi/intel_oneapi_ospray_260 2.6.0-r78: Intel® OSPRay
+intel-oneapi/intel_oneapi_ospray_270 2.7.0-r27: Intel® OSPRay
+intel-oneapi/intel_oneapi_ospray_280 2.8.0-r77: Intel® OSPRay
+intel-oneapi/intel_oneapi_ospray_290 2.9.0-r142: Intel® OSPRay
+intel-oneapi/intel_oneapi_ospray_studio 0.5.0-r84 0.6.0-r108 0.7.0-r65 0.8.0-r19 0.9.0-r64 0.10.0-r125 0.11.1-r8738 0.11.1-r21165 0.11.1-r25387: Intel® OSPRay Studio
+intel-oneapi/intel_oneapi_ospray_studio_0100 0.10.0-r125: Intel® OSPRay Studio
+intel-oneapi/intel_oneapi_ospray_studio_0111 0.11.1-r8738 0.11.1-r21165 0.11.1-r25387: Intel® OSPRay Studio
+intel-oneapi/intel_oneapi_ospray_studio_050 0.5.0-r84: Intel® OSPRay Studio
+intel-oneapi/intel_oneapi_ospray_studio_060 0.6.0-r108: Intel® OSPRay Studio
+intel-oneapi/intel_oneapi_ospray_studio_070 0.7.0-r65: Intel® OSPRay Studio
+intel-oneapi/intel_oneapi_ospray_studio_080 0.8.0-r19: Intel® OSPRay Studio
+intel-oneapi/intel_oneapi_ospray_studio_090 0.9.0-r64: Intel® OSPRay Studio
+intel-oneapi/intel_oneapi_python 2021.1.1-r44 2021.2.0-r161 2021.3.0-r3209 2021.4.0-r3353 2022.0.1-r127 2022.0.2-r155 2022.1.0-r214 2022.2.0-r8762 2022.2.1-r17274 2023.0.0-r25636: Intel® Distribution for Python*
+intel-oneapi/intel_oneapi_pytorch 1.5.0-r726 1.7.0-r846 1.8.0-r1075 1.8.0-r1194 1.8.0-r1262 1.8.0-r1291 1.10.0-r1427 1.12.0-r8768 1.12.0-r20888 1.12.0.1-r26099 1.13.0.0-r31759: PyTorch*
+intel-oneapi/intel_oneapi_rkcommon 1.5.0-r118 1.6.0-r91 1.6.1-r119 1.7.0-r70 1.8.0-r75 1.9.0-r138 1.10.0-r8729 1.10.0-r15330 1.10.0-r25366: Rendering toolkit common
+intel-oneapi/intel_oneapi_rkcommon_1100 1.10.0-r8729 1.10.0-r15330 1.10.0-r25366: Rendering toolkit common
+intel-oneapi/intel_oneapi_rkcommon_150 1.5.0-r118: Rendering toolkit common
+intel-oneapi/intel_oneapi_rkcommon_160 1.6.0-r91: Rendering toolkit common
+intel-oneapi/intel_oneapi_rkcommon_161 1.6.1-r119: Rendering toolkit common
+intel-oneapi/intel_oneapi_rkcommon_170 1.7.0-r70: Rendering toolkit common
+intel-oneapi/intel_oneapi_rkcommon_180 1.8.0-r75: Rendering toolkit common
+intel-oneapi/intel_oneapi_rkcommon_190 1.9.0-r138: Rendering toolkit common
+intel-oneapi/intel_oneapi_rkutil 1.0.0-r76 1.1.0-r84 1.2.0-r47 1.3.0-r18 1.4.0-r67 1.5.0-r126 1.6.1-r8710 1.6.2-r21147 1.6.2-r25342: Rendering Toolkit Utilities
+intel-oneapi/intel_oneapi_rkutil_100 1.0.0-r76: Rendering Toolkit Utilities
+intel-oneapi/intel_oneapi_rkutil_110 1.1.0-r84: Rendering Toolkit Utilities
+intel-oneapi/intel_oneapi_rkutil_120 1.2.0-r47: Rendering Toolkit Utilities
+intel-oneapi/intel_oneapi_rkutil_130 1.3.0-r18: Rendering Toolkit Utilities
+intel-oneapi/intel_oneapi_rkutil_140 1.4.0-r67: Rendering Toolkit Utilities
+intel-oneapi/intel_oneapi_rkutil_150 1.5.0-r126: Rendering Toolkit Utilities
+intel-oneapi/intel_oneapi_rkutil_161 1.6.1-r8710: Rendering Toolkit Utilities
+intel-oneapi/intel_oneapi_rkutil_162 1.6.2-r21147 1.6.2-r25342: Rendering Toolkit Utilities
+intel-oneapi/intel_oneapi_runtime_ccl 2021.1.1-r54 2021.2.0-r269 2021.3.0-r343 2021.4.0-r433 2021.5.0-r478 2021.5.1-r494 2021.6.0-r568 2021.7.0-r8733 2021.7.1-r16948 2021.8.0-r25371: Intel® oneAPI Collective Communications Library runtime
+intel-oneapi/intel_oneapi_runtime_compilers 2021.1.1-r189 2021.1.2-r266 2021.2.0-r610 2021.3.0-r3350 2021.4.0-r3561 2022.0.1-r3633 2022.0.2-r3658 2022.1.0-r3768 2022.2.0-r8734 2022.2.1-r16953 2023.0.0-r25370: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic runtime common files
+intel-oneapi/intel_oneapi_runtime_compilers_32bit 2021.1.1-r189 2021.1.2-r266 2021.2.0-r610 2021.3.0-r3350 2021.4.0-r3561 2022.0.1-r3633 2022.0.2-r3658 2022.1.0-r3768 2022.2.0-r8734 2022.2.1-r16953 2023.0.0-r25370: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic runtime Shared Files
+intel-oneapi/intel_oneapi_runtime_compilers_common 2021.1.1-r189 2021.1.2-r266 2021.2.0-r610 2021.3.0-r3350 2021.4.0-r3561 2022.0.1-r3633 2022.0.2-r3658 2022.1.0-r3768 2022.2.0-r8734 2022.2.1-r16953 2023.0.0-r25370: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic runtime common files
+intel-oneapi/intel_oneapi_runtime_dal 2021.1.1-r79 2021.2.0-r358 2021.3.0-r557 2021.4.0-r729 2021.5.1-r803 2021.5.3-r832 2021.6.0-r915 2021.7.0-r8746 2021.7.1-r16996 2023.0.0-r25395: Intel® oneAPI Data Analytics Library runtime
+intel-oneapi/intel_oneapi_runtime_dnnl 2021.1.1-r55 2021.2.0-r228 2021.3.0-r344 2021.4.0-r467 2022.0.1-r26 2022.0.2-r43 2022.1.0-r132 2022.2.0-r8750 2022.2.1-r16994 2023.0.0-r25399: Intel® oneAPI Deep Neural Network Library runtime
+intel-oneapi/intel_oneapi_runtime_dpcpp_cpp 2021.1.1-r189 2021.1.2-r266 2021.2.0-r610 2021.3.0-r3350 2021.4.0-r3561 2022.0.1-r3633 2022.0.2-r3658 2022.1.0-r3768 2022.2.0-r8734 2022.2.1-r16953 2023.0.0-r25370: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic runtime
+intel-oneapi/intel_oneapi_runtime_dpcpp_cpp_32bit 2021.1.1-r189 2021.1.2-r266 2021.2.0-r610 2021.3.0-r3350 2021.4.0-r3561 2022.0.1-r3633 2022.0.2-r3658 2022.1.0-r3768 2022.2.0-r8734 2022.2.1-r16953 2023.0.0-r25370: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic runtime
+intel-oneapi/intel_oneapi_runtime_dpcpp_cpp_common 2021.1.1-r189 2021.1.2-r266 2021.2.0-r610 2021.3.0-r3350 2021.4.0-r3561 2022.0.1-r3633 2022.0.2-r3658 2022.1.0-r3768 2022.2.0-r8734 2022.2.1-r16953 2023.0.0-r25370: Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic runtime
+intel-oneapi/intel_oneapi_runtime_dpcpp_library 2021.1.1-r189 2021.1.2-r266 2021.2.0-r245 2021.3.0-r271 2021.4.0-r337 2021.5.0-r445 2021.6.0-r501 2021.7.0-r631 2021.7.1-r8713 2021.7.2-r15007 2022.0.0-r25335: Intel® oneAPI DPC++ Library runtime
+intel-oneapi/intel_oneapi_runtime_dpcpp_library_32bit 2021.1.1-r189 2021.1.2-r266 2021.2.0-r245 2021.3.0-r271 2021.4.0-r337 2021.5.0-r445 2021.6.0-r501 2021.7.0-r631 2021.7.1-r8713 2021.7.2-r15007 2022.0.0-r25335: Intel® oneAPI DPC++ Library runtime
+intel-oneapi/intel_oneapi_runtime_fortran 2021.1.1-r189 2021.1.2-r266 2021.2.0-r610 2021.3.0-r3350 2021.4.0-r3561 2022.0.1-r3633 2022.0.2-r3658 2022.1.0-r3768 2022.2.0-r8734 2022.2.1-r16953 2023.0.0-r25370: Intel® Fortran Compiler & Intel® Fortran Compiler Classic runtime
+intel-oneapi/intel_oneapi_runtime_fortran_32bit 2021.1.1-r189 2021.1.2-r266 2021.2.0-r610 2021.3.0-r3350 2021.4.0-r3561 2022.0.1-r3633 2022.0.2-r3658 2022.1.0-r3768 2022.2.0-r8734 2022.2.1-r16953 2023.0.0-r25370: Intel® Fortran Compiler & Intel® Fortran Compiler Classic runtime
+intel-oneapi/intel_oneapi_runtime_fortran_common 2021.1.1-r189 2021.1.2-r266 2021.2.0-r610 2021.3.0-r3350 2021.4.0-r3561 2022.0.1-r3633 2022.0.2-r3658 2022.1.0-r3768 2022.2.0-r8734 2022.2.1-r16953 2023.0.0-r25370: Intel® Fortran Compiler & Intel® Fortran Compiler Classic runtime
+intel-oneapi/intel_oneapi_runtime_ipp 2021.1.1-r47 2021.2.0-r233 2021.3.0-r333 2021.4.0-r459 2021.5.1-r522 2021.5.2-r544 2021.6.0-r626 2021.6.1-r8749 2021.6.2-r16995 2021.7.0-r25396: Intel® Integrated Performance Primitives runtime
+intel-oneapi/intel_oneapi_runtime_ipp_32bit 2021.1.1-r47 2021.2.0-r233 2021.3.0-r333 2021.4.0-r459 2021.5.1-r522 2021.5.2-r544 2021.6.0-r626 2021.6.1-r8749 2021.6.2-r16995 2021.7.0-r25396: Intel® Integrated Performance Primitives runtime
+intel-oneapi/intel_oneapi_runtime_ipp_common 2021.1.1-r47 2021.2.0-r233 2021.3.0-r333 2021.4.0-r459 2021.5.1-r522 2021.5.2-r544 2021.6.0-r626 2021.6.1-r8749 2021.6.2-r16995 2021.7.0-r25396: Intel® Integrated Performance Primitives runtime common
+intel-oneapi/intel_oneapi_runtime_ipp_crypto 2021.1.1-r54 2021.2.0-r231 2021.3.0-r315 2021.4.0-r401 2021.5.0-r445 2021.5.1-r462 2021.6.0-r536 2021.6.1-r8714 2021.6.2-r15006 2021.6.3-r25343: Intel® Integrated Performance Primitives Cryptography runtime
+intel-oneapi/intel_oneapi_runtime_ipp_crypto_32bit 2021.1.1-r54 2021.2.0-r231 2021.3.0-r315 2021.4.0-r401 2021.5.0-r445 2021.5.1-r462 2021.6.0-r536 2021.6.1-r8714 2021.6.2-r15006 2021.6.3-r25343: Intel® Integrated Performance Primitives Cryptography runtime
+intel-oneapi/intel_oneapi_runtime_ipp_crypto_common 2021.1.1-r54 2021.2.0-r231 2021.3.0-r315 2021.4.0-r401 2021.5.0-r445 2021.5.1-r462 2021.6.0-r536 2021.6.1-r8714 2021.6.2-r15006 2021.6.3-r25343: Intel® Integrated Performance Primitives Cryptography runtime common
+intel-oneapi/intel_oneapi_runtime_libs 2021.1.1-r26 2021.2.0-r95 2021.3.0-r161 2021.4.0-r200 2022.1.1-r70 2022.1.2-r85 2022.2.0-r137: Intel® oneAPI Runtime Libraries
+intel-oneapi/intel_oneapi_runtime_libs_32bit 2021.1.1-r26 2021.2.0-r95 2021.3.0-r161 2021.4.0-r200 2022.1.1-r70 2022.1.2-r85 2022.2.0-r137: Intel® oneAPI Runtime Libraries
+intel-oneapi/intel_oneapi_runtime_mkl 2021.1.1-r52 2021.2.0-r296 2021.3.0-r520 2021.4.0-r640 2022.0.1-r117 2022.0.2-r136 2022.1.0-r223 2022.2.0-r8748 2022.2.1-r16993 2023.0.0-r25398: Intel® oneAPI Math Kernel Library runtime
+intel-oneapi/intel_oneapi_runtime_mkl_32bit 2021.1.1-r52 2021.2.0-r296 2021.3.0-r520 2021.4.0-r640 2022.0.1-r117 2022.0.2-r136 2022.1.0-r223 2022.2.0-r8748 2022.2.1-r16993 2023.0.0-r25398: Intel® oneAPI Math Kernel Library runtime
+intel-oneapi/intel_oneapi_runtime_mkl_common 2021.1.1-r52 2021.2.0-r296 2021.3.0-r520 2021.4.0-r640 2022.0.1-r117 2022.0.2-r136 2022.1.0-r223 2022.2.0-r8748 2022.2.1-r16993 2023.0.0-r25398: Intel® oneAPI Math Kernel Library runtime common
+intel-oneapi/intel_oneapi_runtime_mpi 2021.1.1-r76 2021.2.0-r215 2021.3.0-r294 2021.3.1-r315 2021.4.0-r441 2021.5.0-r495 2021.5.1-r515 2021.6.0-r602 2021.7.0-r8711 2021.7.1-r16815 2021.8.0-r25329: Intel® MPI Library runtime
+intel-oneapi/intel_oneapi_runtime_opencl 2021.1.1-r189 2021.1.2-r266 2021.2.0-r610 2021.3.0-r3350 2021.4.0-r3561 2022.0.1-r3633 2022.0.2-r3658 2022.1.0-r3768 2022.2.0-r8734 2022.2.1-r16953 2023.0.0-r25370: Intel® CPU Runtime for OpenCL(TM) Applications runtime
+intel-oneapi/intel_oneapi_runtime_openmp 2021.1.1-r189 2021.1.2-r266 2021.2.0-r610 2021.3.0-r3350 2021.4.0-r3561 2022.0.1-r3633 2022.0.2-r3658 2022.1.0-r3768 2022.2.0-r8734 2022.2.1-r16953 2023.0.0-r25370: Intel® OpenMP* Runtime Library runtime
+intel-oneapi/intel_oneapi_runtime_openmp_32bit 2021.1.1-r189 2021.1.2-r266 2021.2.0-r610 2021.3.0-r3350 2021.4.0-r3561 2022.0.1-r3633 2022.0.2-r3658 2022.1.0-r3768 2022.2.0-r8734 2022.2.1-r16953 2023.0.0-r25370: Intel® OpenMP* Runtime Library runtime
+intel-oneapi/intel_oneapi_runtime_openmp_common 2021.1.1-r189 2021.1.2-r266 2021.2.0-r610 2021.3.0-r3350 2021.4.0-r3561 2022.0.1-r3633 2022.0.2-r3658 2022.1.0-r3768 2022.2.0-r8734 2022.2.1-r16953 2023.0.0-r25370: Intel® OpenMP* Runtime Library runtime
+intel-oneapi/intel_oneapi_runtime_tbb 2021.1.1-r119 2021.2.0-r357 2021.3.0-r511 2021.4.0-r643 2021.5.0-r707 2021.5.1-r738 2021.6.0-r835 2021.7.0-r8712 2021.7.1-r15005 2021.8.0-r25334: Intel® oneAPI Threading Building Blocks runtime
+intel-oneapi/intel_oneapi_runtime_tbb_32bit 2021.1.1-r119 2021.2.0-r357 2021.3.0-r511 2021.4.0-r643 2021.5.0-r707 2021.5.1-r738 2021.6.0-r835 2021.7.0-r8712 2021.7.1-r15005 2021.8.0-r25334: Intel® oneAPI Threading Building Blocks runtime
+intel-oneapi/intel_oneapi_runtime_tbb_common 2021.1.1-r119 2021.2.0-r357 2021.3.0-r511 2021.4.0-r643 2021.5.0-r707 2021.5.1-r738 2021.6.0-r835 2021.7.0-r8712 2021.7.1-r15005 2021.8.0-r25334: Intel® oneAPI Threading Building Blocks runtime common
+intel-oneapi/intel_oneapi_runtime_vpl 2021.1.1-r66 2021.2.2-r212 2021.4.0-r328 2021.6.0-r458 2022.0.0-r58 2022.1.0-r154 2022.2.0-r8703 2022.2.5-r17121 2023.0.0-r25332: Intel® oneAPI Video Processing Library runtime
+intel-oneapi/intel_oneapi_tbb 2021.1.1-r119 2021.2.0-r357 2021.3.0-r511 2021.4.0-r643 2021.5.0-r707 2021.5.1-r738 2021.6.0-r835 2021.7.0-r8712 2021.7.1-r15005 2021.8.0-r25334: Intel® oneAPI Threading Building Blocks
+intel-oneapi/intel_oneapi_tbb_202111 2021.1.1-r119: Intel® oneAPI Threading Building Blocks
+intel-oneapi/intel_oneapi_tbb_202120 2021.2.0-r357: Intel® oneAPI Threading Building Blocks
+intel-oneapi/intel_oneapi_tbb_202130 2021.3.0-r511: Intel® oneAPI Threading Building Blocks
+intel-oneapi/intel_oneapi_tbb_202140 2021.4.0-r643: Intel® oneAPI Threading Building Blocks
+intel-oneapi/intel_oneapi_tbb_202150 2021.5.0-r707: Intel® oneAPI Threading Building Blocks
+intel-oneapi/intel_oneapi_tbb_202151 2021.5.1-r738: Intel® oneAPI Threading Building Blocks
+intel-oneapi/intel_oneapi_tbb_202160 2021.6.0-r835: Intel® oneAPI Threading Building Blocks
+intel-oneapi/intel_oneapi_tbb_202170 2021.7.0-r8712: Intel® oneAPI Threading Building Blocks
+intel-oneapi/intel_oneapi_tbb_202171 2021.7.1-r15005: Intel® oneAPI Threading Building Blocks
+intel-oneapi/intel_oneapi_tbb_202180 2021.8.0-r25334: Intel® oneAPI Threading Building Blocks
+intel-oneapi/intel_oneapi_tbb_32bit 2021.1.1-r119 2021.2.0-r357 2021.3.0-r511 2021.4.0-r643 2021.5.0-r707 2021.5.1-r738 2021.6.0-r835 2021.7.0-r8712 2021.7.1-r15005 2021.8.0-r25334: Intel® oneAPI Threading Building Blocks for IA-32
+intel-oneapi/intel_oneapi_tbb_32bit_202111 2021.1.1-r119: Intel® oneAPI Threading Building Blocks for IA-32
+intel-oneapi/intel_oneapi_tbb_32bit_202120 2021.2.0-r357: Intel® oneAPI Threading Building Blocks for IA-32
+intel-oneapi/intel_oneapi_tbb_32bit_202130 2021.3.0-r511: Intel® oneAPI Threading Building Blocks for IA-32
+intel-oneapi/intel_oneapi_tbb_32bit_202140 2021.4.0-r643: Intel® oneAPI Threading Building Blocks for IA-32
+intel-oneapi/intel_oneapi_tbb_32bit_202150 2021.5.0-r707: Intel® oneAPI Threading Building Blocks for IA-32
+intel-oneapi/intel_oneapi_tbb_32bit_202151 2021.5.1-r738: Intel® oneAPI Threading Building Blocks for IA-32
+intel-oneapi/intel_oneapi_tbb_32bit_202160 2021.6.0-r835: Intel® oneAPI Threading Building Blocks for IA-32
+intel-oneapi/intel_oneapi_tbb_32bit_202170 2021.7.0-r8712: Intel® oneAPI Threading Building Blocks for IA-32
+intel-oneapi/intel_oneapi_tbb_32bit_202171 2021.7.1-r15005: Intel® oneAPI Threading Building Blocks for IA-32
+intel-oneapi/intel_oneapi_tbb_32bit_202180 2021.8.0-r25334: Intel® oneAPI Threading Building Blocks for IA-32
+intel-oneapi/intel_oneapi_tbb_common_202111 2021.1.1-r119: Intel® oneAPI Threading Building Blocks common
+intel-oneapi/intel_oneapi_tbb_common_202120 2021.2.0-r357: Intel® oneAPI Threading Building Blocks common
+intel-oneapi/intel_oneapi_tbb_common_202130 2021.3.0-r511: Intel® oneAPI Threading Building Blocks common
+intel-oneapi/intel_oneapi_tbb_common_202140 2021.4.0-r643: Intel® oneAPI Threading Building Blocks common
+intel-oneapi/intel_oneapi_tbb_common_202150 2021.5.0-r707: Intel® oneAPI Threading Building Blocks common
+intel-oneapi/intel_oneapi_tbb_common_202151 2021.5.1-r738: Intel® oneAPI Threading Building Blocks common
+intel-oneapi/intel_oneapi_tbb_common_202160 2021.6.0-r835: Intel® oneAPI Threading Building Blocks common
+intel-oneapi/intel_oneapi_tbb_common_202170 2021.7.0-r8712: Intel® oneAPI Threading Building Blocks common
+intel-oneapi/intel_oneapi_tbb_common_202171 2021.7.1-r15005: Intel® oneAPI Threading Building Blocks common
+intel-oneapi/intel_oneapi_tbb_common_202180 2021.8.0-r25334: Intel® oneAPI Threading Building Blocks common
+intel-oneapi/intel_oneapi_tbb_common_devel_202111 2021.1.1-r119: Intel® oneAPI Threading Building Blocks common
+intel-oneapi/intel_oneapi_tbb_common_devel_202120 2021.2.0-r357: Intel® oneAPI Threading Building Blocks common
+intel-oneapi/intel_oneapi_tbb_common_devel_202130 2021.3.0-r511: Intel® oneAPI Threading Building Blocks common
+intel-oneapi/intel_oneapi_tbb_common_devel_202140 2021.4.0-r643: Intel® oneAPI Threading Building Blocks common
+intel-oneapi/intel_oneapi_tbb_common_devel_202150 2021.5.0-r707: Intel® oneAPI Threading Building Blocks common
+intel-oneapi/intel_oneapi_tbb_common_devel_202151 2021.5.1-r738: Intel® oneAPI Threading Building Blocks common
+intel-oneapi/intel_oneapi_tbb_common_devel_202160 2021.6.0-r835: Intel® oneAPI Threading Building Blocks common
+intel-oneapi/intel_oneapi_tbb_common_devel_202170 2021.7.0-r8712: Intel® oneAPI Threading Building Blocks common
+intel-oneapi/intel_oneapi_tbb_common_devel_202171 2021.7.1-r15005: Intel® oneAPI Threading Building Blocks common
+intel-oneapi/intel_oneapi_tbb_common_devel_202180 2021.8.0-r25334: Intel® oneAPI Threading Building Blocks common
+intel-oneapi/intel_oneapi_tbb_devel 2021.1.1-r119 2021.2.0-r357 2021.3.0-r511 2021.4.0-r643 2021.5.0-r707 2021.5.1-r738 2021.6.0-r835 2021.7.0-r8712 2021.7.1-r15005 2021.8.0-r25334: Intel® oneAPI Threading Building Blocks Development Package
+intel-oneapi/intel_oneapi_tbb_devel_202111 2021.1.1-r119: Intel® oneAPI Threading Building Blocks Development Package
+intel-oneapi/intel_oneapi_tbb_devel_202120 2021.2.0-r357: Intel® oneAPI Threading Building Blocks Development Package
+intel-oneapi/intel_oneapi_tbb_devel_202130 2021.3.0-r511: Intel® oneAPI Threading Building Blocks Development Package
+intel-oneapi/intel_oneapi_tbb_devel_202140 2021.4.0-r643: Intel® oneAPI Threading Building Blocks Development Package
+intel-oneapi/intel_oneapi_tbb_devel_202150 2021.5.0-r707: Intel® oneAPI Threading Building Blocks Development Package
+intel-oneapi/intel_oneapi_tbb_devel_202151 2021.5.1-r738: Intel® oneAPI Threading Building Blocks Development Package
+intel-oneapi/intel_oneapi_tbb_devel_202160 2021.6.0-r835: Intel® oneAPI Threading Building Blocks Development Package
+intel-oneapi/intel_oneapi_tbb_devel_202170 2021.7.0-r8712: Intel® oneAPI Threading Building Blocks Development Package
+intel-oneapi/intel_oneapi_tbb_devel_202171 2021.7.1-r15005: Intel® oneAPI Threading Building Blocks Development Package
+intel-oneapi/intel_oneapi_tbb_devel_202180 2021.8.0-r25334: Intel® oneAPI Threading Building Blocks Development Package
+intel-oneapi/intel_oneapi_tbb_devel_32bit 2021.1.1-r119 2021.2.0-r357 2021.3.0-r511 2021.4.0-r643 2021.5.0-r707 2021.5.1-r738 2021.6.0-r835 2021.7.0-r8712 2021.7.1-r15005 2021.8.0-r25334: Intel® oneAPI Threading Building Blocks Development Package for IA-32
+intel-oneapi/intel_oneapi_tbb_devel_32bit_202111 2021.1.1-r119: Intel® oneAPI Threading Building Blocks Development Package for IA-32
+intel-oneapi/intel_oneapi_tbb_devel_32bit_202120 2021.2.0-r357: Intel® oneAPI Threading Building Blocks Development Package for IA-32
+intel-oneapi/intel_oneapi_tbb_devel_32bit_202130 2021.3.0-r511: Intel® oneAPI Threading Building Blocks Development Package for IA-32
+intel-oneapi/intel_oneapi_tbb_devel_32bit_202140 2021.4.0-r643: Intel® oneAPI Threading Building Blocks Development Package for IA-32
+intel-oneapi/intel_oneapi_tbb_devel_32bit_202150 2021.5.0-r707: Intel® oneAPI Threading Building Blocks Development Package for IA-32
+intel-oneapi/intel_oneapi_tbb_devel_32bit_202151 2021.5.1-r738: Intel® oneAPI Threading Building Blocks Development Package for IA-32
+intel-oneapi/intel_oneapi_tbb_devel_32bit_202160 2021.6.0-r835: Intel® oneAPI Threading Building Blocks Development Package for IA-32
+intel-oneapi/intel_oneapi_tbb_devel_32bit_202170 2021.7.0-r8712: Intel® oneAPI Threading Building Blocks Development Package for IA-32
+intel-oneapi/intel_oneapi_tbb_devel_32bit_202171 2021.7.1-r15005: Intel® oneAPI Threading Building Blocks Development Package for IA-32
+intel-oneapi/intel_oneapi_tbb_devel_32bit_202180 2021.8.0-r25334: Intel® oneAPI Threading Building Blocks Development Package for IA-32
+intel-oneapi/intel_oneapi_tensorflow 2.2.0-r219 2.3.0-r365 2.5.0-r563 2.5.0-r736 2.6.0-r101 2.6.0-r128 2.8.0-r243 2.9.1.0-r8766 2.9.1.0-r20877 2.9.1.1-r25852 2.10.0.0-r31758: Intel® Optimization for TensorFlow*
+intel-oneapi/intel_oneapi_vtune 2021.1.1-r61 2021.1.2-r150 2021.2.0-r263 2021.3.0-r323 2021.4.0-r364 2021.5.0-r381 2021.6.0-r411 2021.7.0-r479 2021.7.1-r492 2021.8.0-r533 2021.9.0-r545 2022.0.0-r94 2022.1.0-r98 2022.2.0-r172 2022.3.0-r195 2022.4.0-r8705 2022.4.1-r16919 2023.0.0-r25339: Intel® VTune(TM) Profiler
+intel-oneapi/intel_oneapi_vtune_eclipse_plugin_vtune 2022.0.0-r94 2022.1.0-r98 2022.2.0-r172 2022.3.0-r195 2022.4.0-r8705 2022.4.1-r16919 2023.0.0-r25339: Intel® VTune(TM) Profiler
+intel-oneapi/intel_renderkit 2021.1.0-r627 2021.2.0-r739 2021.3.0-r807 2021.4.0-r845 2022.1.0-r74 2022.2.0-r151 2022.3.0-r8742 2022.3.1-r21169 2023.0.0-r25403: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_202110 2021.1.0-r627: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_202120 2021.2.0-r739: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_202130 2021.3.0-r807: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_202140 2021.4.0-r845: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_202210 2022.1.0-r74: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_202220 2022.2.0-r151: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_202230 2022.3.0-r8742: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_202231 2022.3.1-r21169: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_202300 2023.0.0-r25403: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_32bit 2021.1.0-r627 2021.2.0-r739 2021.3.0-r807 2021.4.0-r845 2022.1.0-r74 2022.2.0-r151 2022.3.0-r8742 2022.3.1-r21169 2023.0.0-r25403: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_32bit_202110 2021.1.0-r627: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_32bit_202120 2021.2.0-r739: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_32bit_202130 2021.3.0-r807: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_32bit_202140 2021.4.0-r845: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_32bit_202210 2022.1.0-r74: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_32bit_202220 2022.2.0-r151: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_32bit_202230 2022.3.0-r8742: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_32bit_202231 2022.3.1-r21169: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_32bit_202300 2023.0.0-r25403: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_getting_started 2021.1.0-r627 2021.2.0-r739 2021.3.0-r807 2021.4.0-r845 2022.1.0-r74 2022.2.0-r151 2022.3.0-r8742 2022.3.1-r21169 2023.0.0-r25403: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_runtime 2021.1.0-r627 2021.2.0-r739 2021.3.0-r807 2021.4.0-r845 2022.1.0-r74 2022.2.0-r151 2022.3.0-r8742 2022.3.1-r21169 2023.0.0-r25403: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_runtime_202110 2021.1.0-r627: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_runtime_202120 2021.2.0-r739: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_runtime_202130 2021.3.0-r807: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_runtime_202140 2021.4.0-r845: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_runtime_202210 2022.1.0-r74: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_runtime_202220 2022.2.0-r151: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_runtime_202230 2022.3.0-r8742: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_runtime_202231 2022.3.1-r21169: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_runtime_202300 2023.0.0-r25403: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_runtime_32bit 2021.1.0-r627 2021.2.0-r739 2021.3.0-r807 2021.4.0-r845 2022.1.0-r74 2022.2.0-r151 2022.3.0-r8742 2022.3.1-r21169 2023.0.0-r25403: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_runtime_32bit_202110 2021.1.0-r627: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_runtime_32bit_202120 2021.2.0-r739: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_runtime_32bit_202130 2021.3.0-r807: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_runtime_32bit_202140 2021.4.0-r845: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_runtime_32bit_202210 2022.1.0-r74: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_runtime_32bit_202220 2022.2.0-r151: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_runtime_32bit_202230 2022.3.0-r8742: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_runtime_32bit_202231 2022.3.1-r21169: Intel® oneAPI Rendering Toolkit
+intel-oneapi/intel_renderkit_runtime_32bit_202300 2023.0.0-r25403: Intel® oneAPI Rendering Toolkit
+intel-oneapi/opaepac_sign 1.0.3-r1 1.0.4-r3: opae.pac_sign provides Python classes for interfacing withOPAE PACSign tool
 sci-libs/comedi_calibrate 5.1: COMEDI calibration utility
 sci-libs/comedilib 0.12.0: The Linux Control and Measurement Device Interface Library
 sci-libs/uldaq 1.2.1: MCC Universal Library for Linux

@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=Intel® oneAPI DPC++/C++ Compiler & Intel® C++ Compiler Classic 2021.3.0 for Linux* runtime package for IA-32
+EAPI=8
+HOMEPAGE=https://yum.repos.intel.com/oneapi/
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-arch/rpm intel-oneapi/intel_oneapi_common_licensing_202130 >=intel-oneapi/intel_oneapi_common_vars-2021.3.0-r261 intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_classic_fortran_shared_runtime_32bit_202130 intel-oneapi/intel_oneapi_compiler_shared_runtime_32bit_202130 intel-oneapi/intel_oneapi_tbb_32bit_202130 app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://yum.repos.intel.com/oneapi/intel-oneapi-compiler-dpcpp-cpp-and-cpp-classic-runtime-32bit-2021.3.0-2021.3.0-3350.i686.rpm
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
+_md5_=383668ed10dde75e95e974d025cd3857

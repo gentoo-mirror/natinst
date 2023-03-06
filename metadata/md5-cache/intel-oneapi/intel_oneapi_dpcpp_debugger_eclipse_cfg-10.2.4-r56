@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=Intel® Distribution for GDB* 10.2.4 for Linux* eclipse integration configuration file
+EAPI=8
+HOMEPAGE=https://yum.repos.intel.com/oneapi/
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-arch/rpm intel-oneapi/intel_oneapi_common_licensing_202140 >=intel-oneapi/intel_oneapi_common_vars-2021.4.0-r327 app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://yum.repos.intel.com/oneapi/intel-oneapi-dpcpp-debugger-eclipse-cfg-10.2.4-56.noarch.rpm
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
+_md5_=5c145d4ce5585f4370020d77d1951980

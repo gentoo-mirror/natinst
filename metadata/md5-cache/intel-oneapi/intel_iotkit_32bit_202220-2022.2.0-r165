@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=Intel® oneAPI IoT Toolkit
+EAPI=8
+HOMEPAGE=https://yum.repos.intel.com/oneapi/
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-arch/rpm intel-oneapi/intel_basekit_32bit_202220 >=intel-oneapi/intel_iotkit_getting_started-2022.2.0-r165 intel-oneapi/intel_oneapi_common_licensing_202210 >=intel-oneapi/intel_oneapi_common_vars-2022.1.0-r161 intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic_32bit_202210 intel-oneapi/intel_oneapi_dev_utilities_202160 >=intel-oneapi/intel_oneapi_inspector-2022.1.0-r123 app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://yum.repos.intel.com/oneapi/intel-iotkit-32bit-2022.2.0-2022.2.0-165.i686.rpm
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
+_md5_=2660e007c32a2152d201451900c10df1

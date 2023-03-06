@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=Intel® oneAPI HPC Toolkit
+EAPI=8
+HOMEPAGE=https://yum.repos.intel.com/oneapi/
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-alternatives/sh app-arch/rpm >=intel-oneapi/intel_basekit-2021.3.0-r2885 >=intel-oneapi/intel_hpckit_getting_started-2021.3.0-r3230 >=intel-oneapi/intel_oneapi_clck-2021.3.0-r406 >=intel-oneapi/intel_oneapi_common_licensing-2021.3.0-r261 >=intel-oneapi/intel_oneapi_common_vars-2021.3.0-r261 >=intel-oneapi/intel_oneapi_compiler_dpcpp_cpp_and_cpp_classic-2021.3.0-r3350 >=intel-oneapi/intel_oneapi_compiler_fortran-2021.3.0-r3350 >=intel-oneapi/intel_oneapi_dev_utilities-2021.3.0-r691 >=intel-oneapi/intel_oneapi_inspector-2021.3.0-r217 >=intel-oneapi/intel_oneapi_itac-2021.3.0-r223 >=intel-oneapi/intel_oneapi_mpi_devel-2021.3.0-r294 app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://yum.repos.intel.com/oneapi/intel-hpckit-2021.3.0-3230.x86_64.rpm
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	8a729cc93b58a5c5d4f29cbef90e7d9b
+_md5_=a7e851cca9a045e574b8a121d7f7e96d
