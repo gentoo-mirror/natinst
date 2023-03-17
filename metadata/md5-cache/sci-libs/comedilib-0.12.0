@@ -7,5 +7,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=LGPL-2.1
 SLOT=0
 SRC_URI=https://comedi.org/download/comedilib-0.12.0.tar.gz
-_eclasses_=toolchain-funcs	6001248ef162a5fa2a21ce132a212f6b	multilib	5ca4e49abed8e3a2f7b56920eadee157	linux-info	4b552625ebd741dfd2ac08637fd2436e
+_eclasses_=toolchain-funcs	6001248ef162a5fa2a21ce132a212f6b	multilib	5ca4e49abed8e3a2f7b56920eadee157	linux-info	ecb03306c95c6ccc55852c98abcfcc64
 _md5_=25886727c6f640d7d03bff5728dbb0f7
