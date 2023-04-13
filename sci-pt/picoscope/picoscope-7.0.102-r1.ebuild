@@ -9,7 +9,7 @@ inherit rpm-extended
 
 DESCRIPTION="PicoScope GTK"
 HOMEPAGE="https://www.picotech.com"
-SRC_URI="https://labs.picotech.com/rpm/noarch/picoscope-6.14.23-4r580.noarch.rpm"
+SRC_URI="https://labs.picotech.com/picoscope7/rpm/x86_64/picoscope-7.0.102-1r11642.x86_64.rpm"
 
 LICENSE="all-rights-reserved"
 KEYWORDS="~amd64"
@@ -20,20 +20,25 @@ RESTRICT="bindist mirror"
 RDEPEND="
 app-alternatives/sh
 app-arch/rpm
->=sci-pt/libpicoipp-1.1.1-r1
-=sci-pt/libpicoipp-1.3.0-r4
-=sci-pt/libpl1000-2.0.40-r1
-=sci-pt/libps2000-3.0.40-r3
-=sci-pt/libps2000a-2.1.40-r5
-=sci-pt/libps3000-4.0.40-r3
-=sci-pt/libps3000a-2.1.40-r6
-=sci-pt/libps4000-2.1.40-r2
-=sci-pt/libps4000a-2.1.40-r2
-=sci-pt/libps5000-2.1.40-r3
-=sci-pt/libps5000a-2.1.40-r5
-=sci-pt/libps6000-2.1.40-r6
-~sci-pt/libps6000a-1.0.40
-=sci-pt/libusbdrdaq-2.0.40-r1
+app-shells/bash
+>=gnome-base/gnome-keyring-3.34.0
+media-fonts/roboto
+>=sci-pt/libpicocv-1.0.0
+=sci-pt/libpicocv-1.1.33-r0
+>=sci-pt/libpicoipp-1.1.2
+=sci-pt/libpicoipp-1.4.0-r4
+=sci-pt/libps2000-3.0.91-r3
+=sci-pt/libps2000a-2.1.91-r5
+=sci-pt/libps3000-4.0.91-r3
+=sci-pt/libps3000a-2.1.91-r6
+=sci-pt/libps4000-2.1.91-r2
+=sci-pt/libps4000a-2.1.91-r2
+=sci-pt/libps5000-2.1.91-r3
+=sci-pt/libps5000a-2.1.91-r5
+=sci-pt/libps6000-2.1.91-r6
+~sci-pt/libps6000a-1.0.91
+~sci-pt/libseafire-1.0.81
+>=x11-misc/wmctrl-1.07
 >=sci-pt/picomono-4.6.2.16-r1
 "
 
