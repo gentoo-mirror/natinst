@@ -6,9 +6,9 @@ HOMEPAGE=https://www.ni.com/r/ni-linux-device-drivers
 INHERIT=rpm-extended
 KEYWORDS=~amd64
 LICENSE=all-rights-reserved
-RDEPEND=app-alternatives/sh app-arch/rpm app-emulation/wine-staging dev-haskell/zlib media-libs/fontconfig media-libs/freetype media-libs/libpulse net-libs/libpcap >=sci-ni/ni_euladepot-22.8.0 sys-devel/gcc sys-libs/glibc sys-libs/ncurses x11-libs/libX11 x11-libs/libXext app-arch/rpm
+RDEPEND=app-alternatives/sh app-arch/rpm virtual/wine dev-haskell/zlib media-libs/fontconfig media-libs/freetype media-libs/libpulse net-libs/libpcap >=sci-ni/ni_euladepot-22.8.0 sys-devel/gcc sys-libs/glibc sys-libs/ncurses x11-libs/libX11 x11-libs/libXext app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q1/rpm/ni/el9/ni-wine-22.8.0.49218-0+f66.el.x86_64.rpm
 _eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
-_md5_=55df5cb8df63fe500954eb7e0291ebef
+_md5_=f8dd33a9f3fb33cd2f65c8510690d9ca

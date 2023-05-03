@@ -9,6 +9,6 @@ LICENSE=all-rights-reserved
 RDEPEND=app-alternatives/sh app-arch/rpm >=sci-ni/ni_euladepot-23.0.0 >=sci-ni/ni_syscfg_runtime-23.0.0 >=sci-ni/ni_wine-22.8.0 >=sci-ni/ni_wine_dotnet_runtime_60-22.8.0 >=sci-ni/ni_wine_platform_support-22.8.0 app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
-SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q1/rpm/ni/el9/ni-ceip-23.0.0.49207-0+f55.x86_64.rpm
+SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q2/rpm/ni/el9/ni-ceip-23.0.0.49207-0+f55.x86_64.rpm
 _eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
-_md5_=3e902048e366ab32a2a98a6d6c0cf28a
+_md5_=70415cd90294b0453ff20d4a62df0a8f

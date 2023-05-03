@@ -9,6 +9,6 @@ LICENSE=all-rights-reserved
 RDEPEND=app-alternatives/sh app-arch/rpm >=sci-ni/nicurli-21.3.0 >=sci-ni/ni_python_interface-21.1.0 >=sci-ni/nitdmsi-21.1.0 app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
-SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q1/rpm/ni/el9/labview-2021-rte-21.1.2.49154-0+f2.x86_64.rpm
+SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q2/rpm/ni/el9/labview-2021-rte-21.1.2.49154-0+f2.x86_64.rpm
 _eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
-_md5_=4323db97eb2f4064b58d9b92f7519125
+_md5_=98f7519ed383d3dfd74666c788315219

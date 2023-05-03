@@ -9,6 +9,6 @@ LICENSE=all-rights-reserved
 RDEPEND=app-alternatives/sh app-arch/rpm >=sci-ni/libnidiagcs-22.8.0 >=sci-ni/ni_adcs_docs-22.8.0 >=sci-ni/ni_adcs_example_databases-22.8.0 >=sci-ni/ni_adcs_notices-22.8.0 app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
-SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q1/rpm/ni/el9/libnidiagcs-devel-22.8.0.49295-0+f143.x86_64.rpm
+SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q2/rpm/ni/el9/libnidiagcs-devel-22.8.0.49295-0+f143.x86_64.rpm
 _eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
-_md5_=97b4bb2c0b97c303398cfebfc5d91647
+_md5_=42d207a684fa868d089d04e23804157d

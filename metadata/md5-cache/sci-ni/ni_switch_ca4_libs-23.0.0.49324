@@ -9,6 +9,6 @@ LICENSE=all-rights-reserved
 RDEPEND=app-alternatives/sh app-arch/rpm >=sci-ni/ni_icp_libs-22.5.0 >=sci-ni/ni_switch_ca4_dkms-23.0.0 >=sci-ni/ni_switch_libs-23.0.0 sci-ni/ni_sysapi >=sci-ni/ni_syscfg_runtime-23.0.0 sys-devel/gcc sys-libs/glibc app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
-SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q1/rpm/ni/el9/ni-switch-ca4-libs-23.0.0.49324-0+f172.x86_64.rpm
+SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q2/rpm/ni/el9/ni-switch-ca4-libs-23.0.0.49324-0+f172.x86_64.rpm
 _eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
-_md5_=dfcfc0ec6cf6fa898d5b3b6b73e0ef53
+_md5_=5f756e9955864e07805f7e91c788d569

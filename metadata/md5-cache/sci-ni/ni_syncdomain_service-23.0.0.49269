@@ -9,6 +9,6 @@ LICENSE=all-rights-reserved
 RDEPEND=app-alternatives/sh app-arch/rpm >=sci-ni/ni_apal_errors-23.0.0 >=sci-ni/nicurli-21.3.0 >=sci-ni/ni_euladepot-23.0.0 sys-devel/gcc sys-libs/glibc app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
-SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q1/rpm/ni/el9/ni-syncdomain-service-23.0.0.49269-0+f117.el9.x86_64.rpm
+SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q2/rpm/ni/el9/ni-syncdomain-service-23.0.0.49269-0+f117.el9.x86_64.rpm
 _eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
-_md5_=1c87c1baeb1f7d94b651ee607dac672f
+_md5_=1985c0b56eaf1907f157486da9ea19ef

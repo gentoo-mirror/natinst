@@ -9,6 +9,6 @@ LICENSE=all-rights-reserved
 RDEPEND=app-arch/rpm >=sci-ni/libniemcc-22.8.0 >=sci-ni/ni_ecumc_a2l_examples-22.8.0 >=sci-ni/ni_ecumc_docs-22.8.0 >=sci-ni/ni_ecumc_notices-22.8.0 app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
-SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q1/rpm/ni/el9/libniemcc-devel-22.8.0.49295-0+f143.x86_64.rpm
+SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q2/rpm/ni/el9/libniemcc-devel-22.8.0.49295-0+f143.x86_64.rpm
 _eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
-_md5_=a8d8ebd6014f696f2cd2ac37c9b2717a
+_md5_=48c6593b7eebf37d1e66ac252a7ed6c1

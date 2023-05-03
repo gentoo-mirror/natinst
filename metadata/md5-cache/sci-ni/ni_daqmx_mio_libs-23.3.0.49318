@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=NI-DAQmx Multifunction DAQ driver stack libraries
+EAPI=8
+HOMEPAGE=https://www.ni.com/r/ni-linux-device-drivers
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-alternatives/sh app-arch/rpm sci-ni/labview_2021_rte sci-ni/labview_2022_rte sci-ni/labview_2023_rte sci-ni/libnidimu1 >=sci-ni/libnidrumc1-23.3.0 sci-ni/libnimru2u2 >=sci-ni/libnipxiepmu15-23.3.0 >=sci-ni/ni_apal_errors-23.3.0 >=sci-ni/nicurli-21.3.0 >=sci-ni/ni_daqmx_fsl_libs-23.3.0 >=sci-ni/ni_daqmx_libs-23.3.0 >=sci-ni/ni_daqmx_nicartenum_dkms-23.3.0 >=sci-ni/ni_daqmx_nicdcc_dkms-23.3.0 >=sci-ni/ni_daqmx_nicdr_dkms-23.3.0 >=sci-ni/ni_daqmx_nichenum_dkms-23.3.0 >=sci-ni/ni_daqmx_nicmr_dkms-23.3.0 >=sci-ni/ni_daqmx_nicondr_dkms-23.3.0 >=sci-ni/ni_daqmx_nicsr_dkms-23.3.0 >=sci-ni/ni_daqmx_niesr_dkms-23.3.0 >=sci-ni/ni_daqmx_nifdr_dkms-23.3.0 >=sci-ni/ni_daqmx_nifresnelmbdc_dkms-23.3.0 >=sci-ni/ni_daqmx_nifsl_dkms-23.3.0 >=sci-ni/ni_daqmx_nihorbr_dkms-23.3.0 >=sci-ni/ni_daqmx_niraptr_dkms-23.3.0 >=sci-ni/ni_daqmx_nisdig_dkms-23.3.0 >=sci-ni/ni_daqmx_nissr_dkms-23.3.0 >=sci-ni/ni_daqmx_nistc2_dkms-23.3.0 >=sci-ni/ni_daqmx_nistc3r_dkms-23.3.0 >=sci-ni/ni_daqmx_nistcr_dkms-23.3.0 >=sci-ni/ni_daqmx_nitior_dkms-23.3.0 >=sci-ni/ni_daqmx_niwfr_dkms-23.3.0 >=sci-ni/ni_daqmx_nixsr_dkms-23.3.0 >=sci-ni/ni_daqmx_notices-23.3.0 >=sci-ni/ni_dim-23.3.0 sci-ni/ni_labview_2022_core sci-ni/ni_mdbg >=sci-ni/ni_mdbg-23.3.0 >=sci-ni/ni_mru-23.3.0 sci-ni/ni_mxdf >=sci-ni/ni_mxdf-23.3.0 sci-ni/ni_orb >=sci-ni/ni_orb-23.3.0 sci-ni/ni_pal >=sci-ni/ni_pal-23.3.0 >=sci-ni/ni_syncdomain_service-23.0.0 sci-ni/ni_sysapi >=sci-ni/nixercesdelayloadi-2.7.10 sys-devel/gcc sys-libs/glibc app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q2/rpm/ni/el9/ni-daqmx-mio-libs-23.3.0.49318-0+f166.x86_64.rpm
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
+_md5_=8067ee7152243b5f7aa89225b70b80fc
