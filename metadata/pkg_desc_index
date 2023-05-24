@@ -1,7 +1,7 @@
 dev-perl/Lab-VISA 3.20: Perl interface to National Instrument's VISA library
-dev-python/PyVISA 1.11.3 1.12.0 1.13.0: Python VISA bindings for GPIB, RS232, and USB instruments
-dev-python/PyVISA-py 0.5.2 0.5.3 0.6.2: Python VISA bindings for GPIB, RS232, and USB instruments
-dev-python/PyVISA-sim 0.4.0 0.5.1: Simulated backend for PyVISA implementing TCPIP, GPIB, RS232, and USB resources
+dev-python/PyVISA 1.13.0: Python VISA bindings for GPIB, RS232, and USB instruments
+dev-python/PyVISA-py 0.6.2: Python VISA bindings for GPIB, RS232, and USB instruments
+dev-python/PyVISA-sim 0.5.1: Simulated backend for PyVISA implementing TCPIP, GPIB, RS232, and USB resources
 dev-python/gpib-ctypes 0.3.0: Cross-platform Python bindings for the NI GPIB and linux-gpib C interfaces
 dev-python/hightime 0.2.1: Yoctosecond precision replacements for the datetime datetime and timedelta types
 dev-python/nidaqmx 0.6.1 0.6.3 0.6.5: NI-DAQmx Python API
@@ -1247,6 +1247,7 @@ sci-ni/labview_2022_profull_exe 22.3.1.49152-r0: LabVIEW Pro/Full Executable
 sci-ni/labview_2022_rte 22.3.0.49363-r0 22.3.1.49152-r0: LabVIEW Run-Time Engine
 sci-ni/labview_2023_community_exe 23.1.0.49229-r0: LabVIEW Community Edition Executable
 sci-ni/labview_2023_exe_libs 23.1.0.49229-r0: LabVIEW Executables - Libraries
+sci-ni/labview_2023_profull_exe 23.1.0.49229-r0: LabVIEW Pro/Full Executable
 sci-ni/labview_2023_rte 23.1.0.49227-r0: LabVIEW Run-Time Engine
 sci-ni/libiotracelog 18.1.0.49153-r0 19.0.0.49152-r0 20.0.0.49152-r0 21.0.0.49736-r0 21.5.0.49393-r0 22.5.0.49215-r0 23.0.0.49283-r0: NI I/O Trace Support Library
 sci-ni/libivivisa0 7.0.0-r1: VISA API library with support for multiple vendor implementations
@@ -1576,7 +1577,9 @@ sci-ni/ni_labview_2023_desktop 23.1.0.49227-r0: LabVIEW KDE and GNOME desktop su
 sci-ni/ni_labview_2023_example_finder 23.1.0.49227-r0: NI Example Finder core files
 sci-ni/ni_labview_2023_example_finder_lib 23.1.0.49227-r0: NI Example Finder lib files
 sci-ni/ni_labview_2023_examples 23.1.0.49227-r0: LabVIEW VI Examples
+sci-ni/ni_labview_2023_full 23.1.0.49229-r0: LabVIEW Full Development System
 sci-ni/ni_labview_2023_help 23.1.0.49227-r0: LabVIEW On-line Reference Manual
+sci-ni/ni_labview_2023_pro 23.1.0.49229-r0: LabVIEW Professional Developers Tools
 sci-ni/ni_labview_2023_ref 23.1.0.49227-r0: LabVIEW Manuals in Adobe Acrobat (.pdf) format
 sci-ni/ni_labview_command_line_interface 4.0.0.49152-r0 22.3.0.49247-r0 23.1.0.49258-r0: NI Command Line Interface Libraries for LabVIEW
 sci-ni/ni_labview_fpga_module_host_comm 23.1.0.49241-r0: host_comm_lvfpga_addoni_linux
