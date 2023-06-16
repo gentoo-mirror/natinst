@@ -10,5 +10,5 @@ RDEPEND=app-arch/rpm app-shells/bash >=sci-ni/ni_euladepot-21.8.0 >=sci-ni/ni_px
 RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://download.ni.com/ni-linux-desktop/2022/Q2/rpm/ni/el8/ni-pxiplatformhwsupport-data-21.8.0.49255-0+f103.noarch.rpm
-_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
 _md5_=b912f486533d7d3ac7ddb87d13b2868e

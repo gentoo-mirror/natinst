@@ -10,5 +10,5 @@ RDEPEND=app-arch/rpm >=sci-ni/labview_2021_rte-21.1.0 >=sci-ni/libnixnet_labview
 RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://download.ni.com/ni-linux-desktop/2022/Q1/rpm/ni/el8/ni-xnet-busmonitor-21.5.0.49340-0+f188.x86_64.rpm
-_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
 _md5_=ab0f83e267710d53c26013fa0f8ef0cf

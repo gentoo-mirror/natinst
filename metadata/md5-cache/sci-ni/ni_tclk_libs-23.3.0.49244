@@ -10,5 +10,5 @@ RDEPEND=app-alternatives/sh app-arch/rpm >=sci-ni/ni_tclk_notices-23.3.0 >=sci-n
 RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q2/rpm/ni/el9/ni-tclk-libs-23.3.0.49244-0+f92.x86_64.rpm
-_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	f73e907469f65e52192f110dec72dce0	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
 _md5_=747c2bef0ca5d1e02b7f0bcf2ce10f46
