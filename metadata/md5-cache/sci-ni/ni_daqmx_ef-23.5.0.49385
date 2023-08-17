@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=NI-DAQmx Expert Framework
+EAPI=8
+HOMEPAGE=https://www.ni.com/r/ni-linux-device-drivers
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-alternatives/sh app-arch/rpm net-dns/avahi sci-mathematics/mathematica >=sci-ni/libniqpxi1-23.5.0 sci-ni/ni_avahi_client >=sci-ni/ni_avahi_client-23.5.0 >=sci-ni/ni_daqmx_errors-23.5.0 >=sci-ni/ni_daqmx_libs-23.5.0 >=sci-ni/ni_daqmx_notices-23.5.0 >=sci-ni/ni_dim-23.5.0 sci-ni/ni_mdbg >=sci-ni/ni_mru-23.5.0 sci-ni/ni_mxdf >=sci-ni/ni_mxdf-23.5.0 >=sci-ni/ni_mxs-23.5.0 sci-ni/ni_orb sci-ni/ni_pal >=sci-ni/ni_rtsi_libs-23.5.0 >=sci-ni/ni_rtsi_pal_libs-23.5.0 sci-ni/ni_sysapi >=sci-ni/ni_xlator-23.5.0 sys-devel/gcc sys-libs/glibc app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q3/rpm/ni/el9/ni-daqmx-ef-23.5.0.49385-0+f233.el9.x86_64.rpm
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	745ef34afb8c31915d9d42a6aca23a35	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
+_md5_=66e52f6c269e04a385fb6f10843d7e41

@@ -9,6 +9,6 @@ LICENSE=all-rights-reserved
 RDEPEND=app-arch/rpm >=sci-ni/libnixnet-23.3.0 >=sci-ni/ni_syscfg_devel-23.3.0 app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
-SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q2/rpm/ni/el9/libnixnet-devel-23.3.0.49242-0+f90.x86_64.rpm
+SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q3/rpm/ni/el9/libnixnet-devel-23.3.0.49242-0+f90.x86_64.rpm
 _eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	745ef34afb8c31915d9d42a6aca23a35	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
-_md5_=74cd76fcafce21a97de40239fe528ed4
+_md5_=76a2ed15a42761b743c3543846da8212

@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=NI Peer-to-Peer(P2P) Streaming (metapackage)
+EAPI=8
+HOMEPAGE=https://www.ni.com/r/ni-linux-device-drivers
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-arch/rpm >=sci-ni/libnip2p1-23.5.0 >=sci-ni/ni_kal-23.5.0 >=sci-ni/ni_p2p_dkms-23.5.0 >=sci-ni/ni_p2p_errors-23.5.0 app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q3/rpm/ni/el9/ni-p2p-23.5.0.49311-0+f159.noarch.rpm
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	745ef34afb8c31915d9d42a6aca23a35	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
+_md5_=4bfb5bc28ccda9af3cca46f0effe03a1

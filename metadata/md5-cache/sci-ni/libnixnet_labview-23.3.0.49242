@@ -6,9 +6,9 @@ HOMEPAGE=https://www.ni.com/r/ni-linux-device-drivers
 INHERIT=rpm-extended
 KEYWORDS=~amd64
 LICENSE=all-rights-reserved
-RDEPEND=app-alternatives/sh app-arch/rpm >=sci-ni/libnixnet-23.3.0 sys-devel/gcc sys-libs/glibc app-arch/rpm
+RDEPEND=app-alternatives/sh app-arch/rpm sci-mathematics/mathematica >=sci-ni/libnixnet-23.3.0 sys-devel/gcc sys-libs/glibc app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
-SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q2/rpm/ni/el9/libnixnet-labview-23.3.0.49242-0+f90.x86_64.rpm
+SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q3/rpm/ni/el9/libnixnet-labview-23.3.0.49242-0+f90.x86_64.rpm
 _eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	745ef34afb8c31915d9d42a6aca23a35	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
-_md5_=f4bc0873bce7783039501ced16c46300
+_md5_=1eaf33599b797405a78ca0c51ff6d769

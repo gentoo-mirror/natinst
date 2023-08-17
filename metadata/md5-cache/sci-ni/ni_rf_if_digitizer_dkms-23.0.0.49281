@@ -9,6 +9,6 @@ LICENSE=all-rights-reserved
 RDEPEND=app-alternatives/sh app-arch/rpm >=sci-ni/ni_bds_dkms-23.0.0 >=sci-ni/ni_kal-23.0.0 sys-kernel/dkms app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
-SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q2/rpm/ni/el9/ni-rf-if-digitizer-dkms-23.0.0.49281-0+f129.x86_64.rpm
+SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q3/rpm/ni/el9/ni-rf-if-digitizer-dkms-23.0.0.49281-0+f129.x86_64.rpm
 _eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	745ef34afb8c31915d9d42a6aca23a35	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
-_md5_=a9e2b2f9d9aefd6e3541585a1f1fec32
+_md5_=5284123324b58ff98a007f1c1c572764

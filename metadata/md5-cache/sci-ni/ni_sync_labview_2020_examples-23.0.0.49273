@@ -9,6 +9,6 @@ LICENSE=all-rights-reserved
 RDEPEND=app-arch/rpm >=sci-ni/ni_sync_labview_2020_api-23.0.0 app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
-SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q2/rpm/ni/el9/ni-sync-labview-2020-examples-23.0.0.49273-0+f121.x86_64.rpm
+SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q3/rpm/ni/el9/ni-sync-labview-2020-examples-23.0.0.49273-0+f121.x86_64.rpm
 _eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	745ef34afb8c31915d9d42a6aca23a35	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
-_md5_=c9cca7b79497463c8af798e79f000e25
+_md5_=190cb8be7f48212e7baea0972edbcac0
