@@ -2023,4 +2023,3 @@ sci-pt/libusbpt104 2.0.17-r1: Pico Technology USB TC-08 Linux driver
 sci-pt/libusbtc08 2.0.17-r1: Pico Technology USB TC-08 Linux driver
 sci-pt/picomono 4.6.2.16-r1: Runtime and libraries limited to those required to run PicoScope 6 on Linux
 sci-pt/picoscope 6.13.7-r4 6.14.17-r4 6.14.23-r4 6.14.36-r4 6.14.44-r4 6.14.47-r4 6.14.54-r4 6.14.61-r4 6.14.62-r4 7.0.102-r1 7.0.116-r1 7.1.2-r1: PicoScope GTK
-sys-kernel/dkms 3.0.10 3.0.11: Dynamic Kernel Module Support
