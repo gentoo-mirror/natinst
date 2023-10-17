@@ -9,6 +9,6 @@ LICENSE=all-rights-reserved
 RDEPEND=app-arch/rpm >=sci-ni/labview_2021_rte-21.1.1 >=sci-ni/ni_adcs_errors-22.8.0 >=sci-ni/ni_adcs_libs-22.8.0 >=sci-ni/ni_adcs_notices-22.8.0 >=sci-ni/ni_apal_errors-22.8.0 >=sci-ni/ni_bci_libs-22.8.0 sys-devel/gcc sys-libs/glibc app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
-SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q3/rpm/ni/el9/ni-adcs-demo-ecu-can-ethernet-22.8.0.49295-0+f143.x86_64.rpm
+SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q4/rpm/ni/el9/ni-adcs-demo-ecu-can-ethernet-22.8.0.49295-0+f143.x86_64.rpm
 _eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	745ef34afb8c31915d9d42a6aca23a35	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
-_md5_=ac08861293e76acfcf9385fdd345660b
+_md5_=71fb647e1ec0ad519627d235ac32f9a4
