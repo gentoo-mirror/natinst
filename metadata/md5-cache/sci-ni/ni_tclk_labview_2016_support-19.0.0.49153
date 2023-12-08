@@ -10,5 +10,5 @@ RDEPEND=app-arch/rpm >=sci-ni/ni_tclk_libs-19.0.0-r0
 RESTRICT=bindist mirror
 SLOT=0
 SRC_URI=https://download.ni.com/ni-linux-desktop/2019.07/rpm/ni/el8/ni-tclk-labview-2016-support-19.0.0.49153-0+f1.x86_64.rpm
-_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	745ef34afb8c31915d9d42a6aca23a35	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	528663355249513309c74d7775936940	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
 _md5_=2c93c27628ef6f0bbdbd999ede65725d

@@ -10,5 +10,5 @@ RDEPEND=app-arch/rpm app-shells/bash >=sci-ni/ni_apal_errors-19.0.0-r0 >=sci-ni/
 RESTRICT=bindist mirror
 SLOT=0
 SRC_URI=https://download.ni.com/ni-linux-desktop/beta/2019.09/rpm/ni-xnet-19.5.0/el7/libnicntdrv1-19.5.0.32782-0+b14.x86_64.rpm
-_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	745ef34afb8c31915d9d42a6aca23a35	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	528663355249513309c74d7775936940	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
 _md5_=25cf7b7fc4dc6186a244416bd5fde9ca

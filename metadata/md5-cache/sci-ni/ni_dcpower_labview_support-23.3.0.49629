@@ -10,5 +10,5 @@ RDEPEND=app-arch/rpm >=sci-ni/ni_dcpower_libs-23.3.0 >=sci-ni/ni_modinst_labview
 RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q2/rpm/ni/el9/ni-dcpower-labview-support-23.3.0.49629-0+f477.x86_64.rpm
-_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	745ef34afb8c31915d9d42a6aca23a35	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	528663355249513309c74d7775936940	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
 _md5_=69638f38eff118aed21921e247a71bee

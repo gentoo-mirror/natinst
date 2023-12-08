@@ -10,5 +10,5 @@ RDEPEND=app-arch/rpm sci-ni/libnipxiepmu15 sci-ni/libnipxisvc2 >=sci-ni/ni_pxipf
 RESTRICT=bindist mirror fetch
 SLOT=0
 SRC_URI=nipxipfi-17.0.0.49155-0+f3.noarch.rpm
-_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	745ef34afb8c31915d9d42a6aca23a35	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	528663355249513309c74d7775936940	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
 _md5_=4a89cb650f48ec9e9b9ff5c75b1b6f1f
