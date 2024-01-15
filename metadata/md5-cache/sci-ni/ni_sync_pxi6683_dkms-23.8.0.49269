@@ -6,9 +6,9 @@ HOMEPAGE=https://www.ni.com/r/ni-linux-device-drivers
 INHERIT=rpm-extended
 KEYWORDS=~amd64
 LICENSE=all-rights-reserved
-RDEPEND=app-alternatives/sh app-arch/rpm >=app-shells/bash-4.1.0 sys-apps/grep >=sys-devel/binutils-2.24.0 >=sys-devel/gcc-4.7.0 >=sys-devel/make-4.0.0 sys-kernel/dkms virtual/linux-sources app-arch/rpm
+RDEPEND=app-alternatives/sh app-arch/rpm >=app-shells/bash-4.1.0 sys-apps/grep >=sys-devel/binutils-2.24.0 >=sys-devel/gcc-4.7.0 >=dev-build/make-4.0.0 sys-kernel/dkms virtual/linux-sources app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q4/rpm/ni/el9/ni-sync-pxi6683-dkms-23.8.0.49269-0+f117.x86_64.rpm
 _eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	528663355249513309c74d7775936940	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
-_md5_=bfff02f46d9860e88bf8dc18af9f249f
+_md5_=105d3582bd80f9dc729e9de2fc654f6f
