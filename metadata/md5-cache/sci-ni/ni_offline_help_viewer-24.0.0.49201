@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install nofetch postinst postrm preinst prerm unpack
+DESCRIPTION=Application to view offline help for NI software
+EAPI=8
+HOMEPAGE=https://www.ni.com/r/ni-linux-device-drivers
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-accessibility/at-spi2-core app-alternatives/sh app-arch/rpm dev-perl/Gtk3 >=sci-ni/ni_euladepot-24.0.0 x11-libs/libXScrnSaver app-arch/rpm
+RESTRICT=bindist mirror fetch bindist
+SLOT=0
+SRC_URI=ni-offline-help-viewer-24.0.0.49201-0+f49.x86_64.rpm
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	528663355249513309c74d7775936940	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
+_md5_=21669cde51562825cfb5caecfc19c2a7

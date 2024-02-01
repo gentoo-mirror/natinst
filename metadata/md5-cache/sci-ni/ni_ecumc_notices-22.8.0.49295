@@ -9,6 +9,6 @@ LICENSE=all-rights-reserved
 RDEPEND=app-arch/rpm >=sci-ni/ni_euladepot-22.8.0 app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
-SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q4/rpm/ni/el9/ni-ecumc-notices-22.8.0.49295-0+f143.noarch.rpm
+SRC_URI=https://download.ni.com/ni-linux-desktop/2024/Q1/rpm/ni/el9/ni-ecumc-notices-22.8.0.49295-0+f143.noarch.rpm
 _eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	528663355249513309c74d7775936940	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
-_md5_=4cd2d35ba7b2ed3e5bcfc298b840ff8c
+_md5_=4ae6faec7ade62a1374e2a83ae0eca29

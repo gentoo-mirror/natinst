@@ -9,6 +9,6 @@ LICENSE=all-rights-reserved
 RDEPEND=app-arch/rpm >=sci-ni/libni4882-23.5.0 >=sci-ni/ni_4882_config-23.5.0 >=sci-ni/ni_4882_dkms-23.5.0 >=sci-ni/ni_4882_errors-23.5.0 >=sci-ni/ni_4882_gpibenumsvc-23.5.0 >=sci-ni/ni_4882_sysapi_support-23.5.0 app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
-SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q4/rpm/ni/el9/ni-488.2-runtime-23.5.0.49254-0+f102.noarch.rpm
+SRC_URI=https://download.ni.com/ni-linux-desktop/2024/Q1/rpm/ni/el9/ni-488.2-runtime-23.5.0.49254-0+f102.noarch.rpm
 _eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	528663355249513309c74d7775936940	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
-_md5_=bb667b939bd48ed1ce9c72779aec0417
+_md5_=8eb623f31f928aee24964d62506055d1

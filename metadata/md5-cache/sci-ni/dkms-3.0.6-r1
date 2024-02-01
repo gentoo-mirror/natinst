@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=Dynamic Kernel Module Support Framework
+EAPI=8
+HOMEPAGE=https://linux.dell.com/dkms
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-alternatives/cpio app-alternatives/gzip app-alternatives/sh app-alternatives/tar app-arch/rpm dev-build/make dev-ml/systemd =sci-ni/config-3.0.6-r1 sci-ni/elfutils_libelf_devel sys-apps/coreutils sys-apps/file sys-apps/findutils sys-apps/gawk sys-apps/grep sys-apps/kmod sys-apps/sed sys-apps/which sys-devel/gcc virtual/linux-sources app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://download.ni.com/ni-linux-desktop/2024/Q1/rpm/ni/el9/dkms-3.0.6-1.el9.noarch.rpm
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	528663355249513309c74d7775936940	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
+_md5_=2a9b3b54636bccbe21dd4a1da689b969

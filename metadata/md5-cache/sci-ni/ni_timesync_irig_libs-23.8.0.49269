@@ -9,6 +9,6 @@ LICENSE=all-rights-reserved
 RDEPEND=app-alternatives/sh app-arch/rpm >=sci-ni/ni_euladepot-23.8.0 >=sci-ni/ni_roco-23.8.0 >=sci-ni/ni_timesync_manager-23.8.0 sys-devel/gcc sys-libs/glibc app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
-SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q4/rpm/ni/el9/ni-timesync-irig-libs-23.8.0.49269-0+f117.x86_64.rpm
+SRC_URI=https://download.ni.com/ni-linux-desktop/2024/Q1/rpm/ni/el9/ni-timesync-irig-libs-23.8.0.49269-0+f117.x86_64.rpm
 _eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	528663355249513309c74d7775936940	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
-_md5_=531e66b454f021b9d23d9b74a04c7815
+_md5_=02154e93a3c506c24d1c76cf46c38df8
