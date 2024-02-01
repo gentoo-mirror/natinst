@@ -1192,7 +1192,6 @@ intel-oneapi/opaepac_sign 1.0.3-r1 1.0.4-r3: opae.pac_sign provides Python class
 sci-libs/comedi_calibrate 5.1: COMEDI calibration utility
 sci-libs/comedilib 0.12.0: The Linux Control and Measurement Device Interface Library
 sci-libs/uldaq 1.2.1: MCC Universal Library for Linux
-sci-ni/dkms 3.0.6-r1: Dynamic Kernel Module Support Framework
 sci-ni/labview_2014_rte 14.0.1-r2 14.0.1-r4: LabVIEW Run-Time Engine
 sci-ni/labview_2015_rte 15.0.1-r8: LabVIEW Run-Time Engine
 sci-ni/labview_2017_rte 17.0.1-r4: LabVIEW Run-Time Engine
@@ -1760,7 +1759,7 @@ sci-ni/ni_rio_fpga_ids 18.1.0.49152-r0 19.0.0.49152-r0 20.0.1.49152-r0 21.3.0.49
 sci-ni/ni_rio_labview_2022_support 22.8.0.49318-r0 23.0.0.49383-r0 23.3.0.49352-r0 23.5.0.49302-r0 23.8.0.49303-r0 24.0.0.49291-r0: NI-RIO LabVIEW Support 2022
 sci-ni/ni_rio_labview_support 23.0.0.49383-r0 23.3.0.49352-r0 23.5.0.49304-r0 23.8.0.49303-r0 24.0.0.49291-r0: NI-RIO LabVIEW Development Support
 sci-ni/ni_rio_mxie 20.5.0.49152-r0 22.5.0.49205-r0 22.8.0.49307-r0 23.0.0.49341-r0 23.3.0.49253-r0 23.5.0.49231-r0 23.8.0.49229-r0 24.0.0.49252-r0: NI CompactRIO MXIe Support (metapackage)
-sci-ni/ni_rio_niriochinch_dkms 18.1.0.49152-r0 18.1.1.49153-r0 19.1.0.49152-r0 20.1.0.49152-r0 21.3.0.49284-r0 21.5.0.49250-r0 22.8.0.49301-r0 23.0.0.49286-r0 23.3.0.49256-r0 23.5.0.49271-r0 23.8.0.49243-r0: NI-RIO niriochinch kernel module
+sci-ni/ni_rio_niriochinch_dkms 18.1.0.49152-r0 18.1.1.49153-r0 19.1.0.49152-r0 20.1.0.49152-r0 21.3.0.49284-r0 21.5.0.49250-r0 22.8.0.49301-r0 23.0.0.49286-r0 23.3.0.49256-r0 23.5.0.49271-r0 23.8.0.49243-r0 24.0.0.49234-r0: NI-RIO niriochinch kernel module
 sci-ni/ni_rio_niriomt_dkms 18.1.0.49152-r0 18.1.1.49153-r0 19.1.0.49152-r0 20.5.0.49152-r0 22.5.0.49217-r0 22.8.0.49317-r0 23.0.0.49377-r0 23.3.0.49350-r0 23.5.0.49299-r0 23.8.0.49302-r0 24.0.0.49290-r0: NI-RIO niriomt kernel module
 sci-ni/ni_rio_server 18.1.0.49152-r0 18.1.1.49152-r0 19.0.0.49152-r0 20.0.1.49152-r0 21.3.0.49281-r0 21.5.0.49261-r0 21.8.0.49282-r0 22.5.0.49217-r0 22.8.0.49317-r0 23.0.0.49383-r0 23.3.0.49352-r0 23.5.0.49304-r0 23.8.0.49303-r0 24.0.0.49291-r0: Provides NI-RIO Server
 sci-ni/ni_rio_sysapi 18.1.0.49152-r0 19.0.0.49152-r0 20.0.1.49152-r0 21.3.0.49281-r0 21.5.0.49261-r0 21.8.0.49282-r0 22.5.0.49217-r0 22.8.0.49317-r0 23.0.0.49377-r0 23.3.0.49350-r0 23.5.0.49299-r0 23.8.0.49302-r0 24.0.0.49290-r0: NI-RIO System API Expert
@@ -2025,24 +2024,24 @@ sci-ni/nixercesdelayloadi_32bit 2.7.10.49152-r0: NI Xerces XML parsing library
 sci-ni/system_report 1.0.0-r3: System Diagnostic Reporting Tool
 sci-ni/visa_shared 7.0.0-r1: VISA Shared Components on Linux (metapackage)
 sci-pt/libpicocv 1.1.33-r0 1.1.34-r0: OpenCV exports and symbols for Pico Technology Products.
-sci-pt/libpicohrdl 2.0.17-r1 2.0.120-r1: Pico Technology High Resolution Data Logger
+sci-pt/libpicohrdl 2.0.17-r1 2.0.120-r1 2.0.122-r1 2.0.123-r1 2.0.124-r1 2.0.125-r1 2.0.127-r1 2.0.128-r1 2.0.129-r1 2.0.130-r1: Pico Technology High Resolution Data Logger
 sci-pt/libpicoipp 1.3.0-r4 1.4.0-r4: Intel Integrated Performance Primitives exports for Pico Technology Products.
-sci-pt/libpl1000 2.0.0-r1 2.0.34-r1 2.0.40-r1 2.0.54-r1 2.0.61-r1 2.0.66-r1 2.0.75-r1 2.0.82-r1 2.0.83-r1 2.0.120-r1: PicoScope PicoLog PL1000 Linux driver
-sci-pt/libplcm3 2.0.17-r1 2.0.120-r1: Pico Technology PicoLog CM3 Current Data Logger driver
-sci-pt/libps2000 3.0.0-r3 3.0.34-r3 3.0.40-r3 3.0.54-r3 3.0.63-r3 3.0.66-r3 3.0.75-r3 3.0.82-r3 3.0.83-r3 3.0.91-r3 3.0.105-r3 3.0.113-r3 3.0.120-r3: PicoScope 2000 Linux driver
-sci-pt/libps2000a 2.1.0-r5 2.1.34-r5 2.1.40-r5 2.1.54-r5 2.1.61-r5 2.1.66-r5 2.1.75-r5 2.1.82-r5 2.1.83-r5 2.1.91-r5 2.1.105-r5 2.1.113-r5 2.1.120-r5: PicoScope 2000A Linux driver
-sci-pt/libps3000 4.0.0-r3 4.0.34-r3 4.0.40-r3 4.0.54-r3 4.0.63-r3 4.0.66-r3 4.0.75-r3 4.0.82-r3 4.0.83-r3 4.0.91-r3 4.0.105-r3 4.0.113-r3 4.0.120-r3: PicoScope 3000 Linux driver
-sci-pt/libps3000a 2.1.0-r6 2.1.34-r6 2.1.40-r6 2.1.54-r6 2.1.61-r6 2.1.66-r6 2.1.75-r6 2.1.82-r6 2.1.83-r6 2.1.91-r6 2.1.105-r6 2.1.113-r6 2.1.120-r6: PicoScope 3000A Linux driver
-sci-pt/libps4000 2.1.0-r2 2.1.34-r2 2.1.40-r2 2.1.54-r2 2.1.61-r2 2.1.66-r2 2.1.75-r2 2.1.82-r2 2.1.83-r2 2.1.91-r2 2.1.105-r2 2.1.113-r2 2.1.120-r2: PicoScope 4000 Linux driver
-sci-pt/libps4000a 2.1.0-r2 2.1.34-r2 2.1.40-r2 2.1.54-r2 2.1.61-r2 2.1.66-r2 2.1.75-r2 2.1.82-r2 2.1.83-r2 2.1.91-r2 2.1.105-r2 2.1.113-r2 2.1.120-r2: PicoScope 4000a Linux driver
-sci-pt/libps5000 2.1.0-r3 2.1.34-r3 2.1.40-r3 2.1.54-r3 2.1.61-r3 2.1.66-r3 2.1.75-r3 2.1.82-r3 2.1.83-r3 2.1.91-r3 2.1.105-r3 2.1.113-r3 2.1.120-r3: PicoScope 5000 Linux driver
-sci-pt/libps5000a 2.1.0-r5 2.1.34-r5 2.1.40-r5 2.1.54-r5 2.1.61-r5 2.1.66-r5 2.1.75-r5 2.1.82-r5 2.1.83-r5 2.1.91-r5 2.1.105-r5 2.1.113-r5 2.1.120-r5: PicoScope 5000A Linux driver
-sci-pt/libps6000 2.1.0-r6 2.1.34-r6 2.1.40-r6 2.1.54-r6 2.1.61-r6 2.1.66-r6 2.1.75-r6 2.1.82-r6 2.1.83-r6 2.1.91-r6 2.1.105-r6 2.1.113-r6 2.1.120-r6: PicoScope 6000 series Linux driver
-sci-pt/libps6000a 1.0.34-r0 1.0.40-r0 1.0.54-r0 1.0.61-r0 1.0.66-r0 1.0.75-r0 1.0.82-r0 1.0.83-r0 1.0.91-r0 1.0.105-r0 1.0.113-r0 1.0.120-r0: PicoScope 6000 Series (A API) driver
+sci-pt/libpl1000 2.0.0-r1 2.0.34-r1 2.0.40-r1 2.0.54-r1 2.0.61-r1 2.0.66-r1 2.0.75-r1 2.0.82-r1 2.0.83-r1 2.0.120-r1 2.0.122-r1 2.0.123-r1 2.0.124-r1 2.0.125-r1 2.0.127-r1 2.0.128-r1 2.0.129-r1 2.0.130-r1: PicoScope PicoLog PL1000 Linux driver
+sci-pt/libplcm3 2.0.17-r1 2.0.120-r1 2.0.122-r1 2.0.123-r1 2.0.124-r1 2.0.125-r1 2.0.127-r1 2.0.128-r1 2.0.129-r1 2.0.130-r1: Pico Technology PicoLog CM3 Current Data Logger driver
+sci-pt/libps2000 3.0.0-r3 3.0.34-r3 3.0.40-r3 3.0.54-r3 3.0.63-r3 3.0.66-r3 3.0.75-r3 3.0.82-r3 3.0.83-r3 3.0.91-r3 3.0.105-r3 3.0.113-r3 3.0.120-r3 3.0.122-r3 3.0.123-r3 3.0.124-r3 3.0.125-r3 3.0.127-r3 3.0.128-r3 3.0.129-r3 3.0.130-r3: PicoScope 2000 Linux driver
+sci-pt/libps2000a 2.1.0-r5 2.1.34-r5 2.1.40-r5 2.1.54-r5 2.1.61-r5 2.1.66-r5 2.1.75-r5 2.1.82-r5 2.1.83-r5 2.1.91-r5 2.1.105-r5 2.1.113-r5 2.1.120-r5 2.1.122-r5 2.1.123-r5 2.1.124-r5 2.1.125-r5 2.1.127-r5 2.1.128-r5 2.1.129-r5 2.1.130-r5: PicoScope 2000A Linux driver
+sci-pt/libps3000 4.0.0-r3 4.0.34-r3 4.0.40-r3 4.0.54-r3 4.0.63-r3 4.0.66-r3 4.0.75-r3 4.0.82-r3 4.0.83-r3 4.0.91-r3 4.0.105-r3 4.0.113-r3 4.0.120-r3 4.0.122-r3 4.0.123-r3 4.0.124-r3 4.0.125-r3 4.0.127-r3 4.0.128-r3 4.0.129-r3 4.0.130-r3: PicoScope 3000 Linux driver
+sci-pt/libps3000a 2.1.0-r6 2.1.34-r6 2.1.40-r6 2.1.54-r6 2.1.61-r6 2.1.66-r6 2.1.75-r6 2.1.82-r6 2.1.83-r6 2.1.91-r6 2.1.105-r6 2.1.113-r6 2.1.120-r6 2.1.122-r6 2.1.123-r6 2.1.124-r6 2.1.125-r6 2.1.127-r6 2.1.128-r6 2.1.129-r6 2.1.130-r6: PicoScope 3000A Linux driver
+sci-pt/libps4000 2.1.0-r2 2.1.34-r2 2.1.40-r2 2.1.54-r2 2.1.61-r2 2.1.66-r2 2.1.75-r2 2.1.82-r2 2.1.83-r2 2.1.91-r2 2.1.105-r2 2.1.113-r2 2.1.120-r2 2.1.122-r2 2.1.123-r2 2.1.124-r2 2.1.125-r2 2.1.127-r2 2.1.128-r2 2.1.129-r2 2.1.130-r2: PicoScope 4000 Linux driver
+sci-pt/libps4000a 2.1.0-r2 2.1.34-r2 2.1.40-r2 2.1.54-r2 2.1.61-r2 2.1.66-r2 2.1.75-r2 2.1.82-r2 2.1.83-r2 2.1.91-r2 2.1.105-r2 2.1.113-r2 2.1.120-r2 2.1.122-r2 2.1.123-r2 2.1.124-r2 2.1.125-r2 2.1.127-r2 2.1.128-r2 2.1.129-r2 2.1.130-r2: PicoScope 4000a Linux driver
+sci-pt/libps5000 2.1.0-r3 2.1.34-r3 2.1.40-r3 2.1.54-r3 2.1.61-r3 2.1.66-r3 2.1.75-r3 2.1.82-r3 2.1.83-r3 2.1.91-r3 2.1.105-r3 2.1.113-r3 2.1.120-r3 2.1.122-r3 2.1.123-r3 2.1.124-r3 2.1.125-r3 2.1.127-r3 2.1.128-r3 2.1.129-r3 2.1.130-r3: PicoScope 5000 Linux driver
+sci-pt/libps5000a 2.1.0-r5 2.1.34-r5 2.1.40-r5 2.1.54-r5 2.1.61-r5 2.1.66-r5 2.1.75-r5 2.1.82-r5 2.1.83-r5 2.1.91-r5 2.1.105-r5 2.1.113-r5 2.1.120-r5 2.1.122-r5 2.1.123-r5 2.1.124-r5 2.1.125-r5 2.1.127-r5 2.1.128-r5 2.1.129-r5 2.1.130-r5: PicoScope 5000A Linux driver
+sci-pt/libps6000 2.1.0-r6 2.1.34-r6 2.1.40-r6 2.1.54-r6 2.1.61-r6 2.1.66-r6 2.1.75-r6 2.1.82-r6 2.1.83-r6 2.1.91-r6 2.1.105-r6 2.1.113-r6 2.1.120-r6 2.1.122-r6 2.1.123-r6 2.1.124-r6 2.1.125-r6 2.1.127-r6 2.1.128-r6 2.1.129-r6 2.1.130-r6: PicoScope 6000 series Linux driver
+sci-pt/libps6000a 1.0.34-r0 1.0.40-r0 1.0.54-r0 1.0.61-r0 1.0.66-r0 1.0.75-r0 1.0.82-r0 1.0.83-r0 1.0.91-r0 1.0.105-r0 1.0.113-r0 1.0.120-r0 1.0.122-r0 1.0.123-r0 1.0.124-r0 1.0.125-r0 1.0.127-r0 1.0.128-r0 1.0.129-r0 1.0.130-r0: PicoScope 6000 Series (A API) driver
 sci-pt/libpswrappers 1.0.0-r1: PicoScope driver wrappers
 sci-pt/libseafire 1.0.81-r0: PicoScope driver
-sci-pt/libusbdrdaq 2.0.0-r1 2.0.34-r1 2.0.40-r1 2.0.54-r1 2.0.61-r1 2.0.66-r1 2.0.75-r1 2.0.82-r1 2.0.83-r1 2.0.120-r1: PicoScope USBDrDAQ Linux driver
-sci-pt/libusbpt104 2.0.17-r1 2.0.120-r1: Pico Technology USB PT-104 Linux driver
-sci-pt/libusbtc08 2.0.17-r1 2.0.120-r1: Pico Technology USB TC-08 Linux driver
+sci-pt/libusbdrdaq 2.0.0-r1 2.0.34-r1 2.0.40-r1 2.0.54-r1 2.0.61-r1 2.0.66-r1 2.0.75-r1 2.0.82-r1 2.0.83-r1 2.0.120-r1 2.0.122-r1 2.0.123-r1 2.0.124-r1 2.0.125-r1 2.0.127-r1 2.0.128-r1 2.0.129-r1 2.0.130-r1: PicoScope USBDrDAQ Linux driver
+sci-pt/libusbpt104 2.0.17-r1 2.0.120-r1 2.0.122-r1 2.0.123-r1 2.0.124-r1 2.0.125-r1 2.0.127-r1 2.0.128-r1 2.0.129-r1 2.0.130-r1: Pico Technology USB PT-104 Linux driver
+sci-pt/libusbtc08 2.0.17-r1 2.0.120-r1 2.0.122-r1 2.0.123-r1 2.0.124-r1 2.0.125-r1 2.0.127-r1 2.0.128-r1 2.0.129-r1 2.0.130-r1: Pico Technology USB TC-08 Linux driver
 sci-pt/picomono 4.6.2.16-r1: Runtime and libraries limited to those required to run PicoScope 6 on Linux
-sci-pt/picoscope 6.13.7-r4 6.14.17-r4 6.14.23-r4 6.14.36-r4 6.14.44-r4 6.14.47-r4 6.14.54-r4 6.14.61-r4 6.14.62-r4 7.0.102-r1 7.0.116-r1 7.1.2-r1 7.1.9-r1: PicoScope GTK
+sci-pt/picoscope 6.13.7-r4 6.14.17-r4 6.14.23-r4 6.14.36-r4 6.14.44-r4 6.14.47-r4 6.14.54-r4 6.14.61-r4 6.14.62-r4 7.0.102-r1 7.0.116-r1 7.1.2-r1 7.1.9-r1 7.1.11-r1 7.1.12-r1 7.1.13-r1 7.1.15-r1 7.1.16-r1 7.1.17-r1 7.1.18-r1 7.1.19-r1 7.1.20-r1: PicoScope GTK

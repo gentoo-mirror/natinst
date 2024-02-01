@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=Pico Technology PicoLog CM3 Current Data Logger driver
+EAPI=8
+HOMEPAGE=https://www.picotech.com
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-alternatives/sh app-arch/rpm app-shells/bash dev-libs/libusb sys-devel/gcc sys-libs/glibc app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://labs.picotech.com/rc/picoscope7/rpm/x86_64/libplcm3-2.0.122-1r5287.x86_64.rpm
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	528663355249513309c74d7775936940	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
+_md5_=e98c42a4dae34ddc2c6d41bac1395c44
