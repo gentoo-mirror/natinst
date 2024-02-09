@@ -1,7 +1,7 @@
 dev-perl/Lab-VISA 3.20: Perl interface to National Instrument's VISA library
-dev-python/PyVISA 1.13.0: Python VISA bindings for GPIB, RS232, and USB instruments
-dev-python/PyVISA-py 0.6.2: Python VISA bindings for GPIB, RS232, and USB instruments
-dev-python/PyVISA-sim 0.5.1: Simulated backend for PyVISA implementing TCPIP, GPIB, RS232, and USB resources
+dev-python/PyVISA 1.13.0 1.14.1: Python VISA bindings for GPIB, RS232, and USB instruments
+dev-python/PyVISA-py 0.6.2 0.7.1: Python VISA bindings for GPIB, RS232, and USB instruments
+dev-python/PyVISA-sim 0.5.1 0.6.0: Simulated backend for PyVISA implementing TCPIP, GPIB, RS232, and USB resources
 dev-python/gpib-ctypes 0.3.0: Cross-platform Python bindings for the NI GPIB and linux-gpib C interfaces
 dev-python/hightime 0.2.1: Yoctosecond precision replacements for the datetime datetime and timedelta types
 dev-python/nidaqmx 0.6.1 0.6.3 0.6.5: NI-DAQmx Python API
@@ -24,7 +24,7 @@ dev-python/nitsm 0.2.0: TestStand Semiconductor Module Python API
 dev-python/niveristand 2.0.1 2.0.2: NI VeriStand Python API
 dev-python/nixnet 0.3.2: NI-XNET Python API
 dev-python/npTDMS 1.4.0 1.6.0 1.6.1: Python module for reading TDMS files produced by LabView
-dev-python/stringparser 0.5 0.6: Easy to use pattern matching and information extraction
+dev-python/stringparser 0.5 0.6 0.7: Easy to use pattern matching and information extraction
 dev-python/thermocouples_reference 0.20: Thermocouple emf reference functions
 intel-oneapi/intel_aikit 2021.1.0-r935 2021.2.0-r1101 2021.3.0-r1370 2021.4.0-r1460 2022.1.1-r106 2022.1.2-r135 2022.2.0-r231 2022.3.0-r8775 2022.3.1-r20890 2023.0.0-r26100 2023.1.0-r31760: Intel® oneAPI AI Analytics Toolkit
 intel-oneapi/intel_aikit_202110 2021.1.0-r935: Intel® AI Analytics Toolkit
