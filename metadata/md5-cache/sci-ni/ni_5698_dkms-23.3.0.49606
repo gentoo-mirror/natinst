@@ -10,5 +10,5 @@ RDEPEND=app-alternatives/sh app-arch/rpm >=sci-ni/ni_daqmx_nidmxf_dkms-23.3.0 >=
 RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q2/rpm/ni/el9/ni-5698-dkms-23.3.0.49606-0+f454.x86_64.rpm
-_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	528663355249513309c74d7775936940	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
 _md5_=6b6f31de44705cc4b08b7146d6f2fa3c

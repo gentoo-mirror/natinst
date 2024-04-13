@@ -10,5 +10,5 @@ RDEPEND=app-arch/rpm >=sci-ni/ni_pal_nikalmod-17.0.0.0-r0
 RESTRICT=bindist mirror fetch
 SLOT=0
 SRC_URI=nipalki-17.0.0.49152-0+f0.noarch.rpm
-_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	528663355249513309c74d7775936940	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
 _md5_=c8c281f212b4b8786a3248be28766458

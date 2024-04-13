@@ -10,5 +10,5 @@ RDEPEND=app-alternatives/sh app-arch/rpm >=sci-ni/ni_bds-23.5.0 >=sci-ni/ni_daqm
 RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://download.ni.com/ni-linux-desktop/2023/Q3/rpm/ni/el9/ni-daqmx-nicartenum-dkms-23.5.0.49387-0+f235.x86_64.rpm
-_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	528663355249513309c74d7775936940	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
 _md5_=afd54822ef8f3062318f37781a33d1dd

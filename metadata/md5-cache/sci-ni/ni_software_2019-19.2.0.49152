@@ -10,5 +10,5 @@ RDEPEND=app-arch/rpm
 RESTRICT=bindist mirror
 SLOT=0
 SRC_URI=https://download.ni.com/ni-linux-desktop/2019.07/rpm/ni/el8/ni-software-2019-19.2.0.49152-0+f0.el8.noarch.rpm
-_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	528663355249513309c74d7775936940	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
 _md5_=6ee7bdd932005179fc4c1c472af2b749
