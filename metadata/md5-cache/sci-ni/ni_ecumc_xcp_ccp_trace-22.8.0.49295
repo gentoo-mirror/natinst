@@ -9,6 +9,6 @@ LICENSE=all-rights-reserved
 RDEPEND=app-alternatives/sh app-arch/rpm app-shells/bash >=sci-ni/labview_2021_rte-21.1.1 >=sci-ni/libniemcc_labview-22.8.0 >=sci-ni/ni_ecumc_notices-22.8.0 >=sci-ni/ni_wine-22.8.0 sys-devel/gcc sys-libs/glibc app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
-SRC_URI=https://download.ni.com/ni-linux-desktop/2024/Q1/rpm/ni/el9/ni-ecumc-xcp-ccp-trace-22.8.0.49295-0+f143.x86_64.rpm
+SRC_URI=https://download.ni.com/ni-linux-desktop/2024/Q2/rpm/ni/el9/ni-ecumc-xcp-ccp-trace-22.8.0.49295-0+f143.x86_64.rpm
 _eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
-_md5_=5033a79251f0454565ce3c2468e7c729
+_md5_=971e2935fb0b2f05c374801d503ba720

@@ -9,6 +9,6 @@ LICENSE=all-rights-reserved
 RDEPEND=app-arch/rpm >=sci-ni/ni_modinst_labview_2021_support-23.8.0 >=sci-ni/ni_p2p_labview_2021_support-23.8.0 >=sci-ni/ni_scope_libs-23.8.0 >=sci-ni/ni_tclk_labview_2021_support-23.8.0 app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
-SRC_URI=https://download.ni.com/ni-linux-desktop/2024/Q1/rpm/ni/el9/ni-scope-labview-2021-support-23.8.0.49302-0+f150.x86_64.rpm
+SRC_URI=https://download.ni.com/ni-linux-desktop/2024/Q2/rpm/ni/el9/ni-scope-labview-2021-support-23.8.0.49302-0+f150.x86_64.rpm
 _eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
-_md5_=192a701f5315da0c2f19973a01f4bf2a
+_md5_=f147c740809e5249c7a86220af6623d5

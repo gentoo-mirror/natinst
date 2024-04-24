@@ -9,6 +9,6 @@ LICENSE=all-rights-reserved
 RDEPEND=app-arch/rpm >=sci-ni/labview_2021_core-21.0.0 >=sci-ni/ni_fpga_errors-21.0.0 app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
-SRC_URI=https://download.ni.com/ni-linux-desktop/2024/Q1/rpm/ni/el9/ni-labview-2021-fpga-module-eio-21.0.0.49479-0+f327.x86_64.rpm
+SRC_URI=https://download.ni.com/ni-linux-desktop/2024/Q2/rpm/ni/el9/ni-labview-2021-fpga-module-eio-21.0.0.49479-0+f327.x86_64.rpm
 _eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
-_md5_=5f3a4cde52376b182ab83b8cb61d8d35
+_md5_=16ef827488bac2626201f3b0f6594b18

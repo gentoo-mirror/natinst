@@ -9,6 +9,6 @@ LICENSE=all-rights-reserved
 RDEPEND=app-alternatives/sh app-arch/rpm >=sci-ni/ni_euladepot-24.0.0 >=sci-ni/ni_kal-24.0.0 >=sci-ni/ni_pal_dkms-24.0.0 sys-kernel/dkms app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
-SRC_URI=https://download.ni.com/ni-linux-desktop/2024/Q1/rpm/ni/el9/ni-visa-passport-pxi-dkms-24.0.0.49403-0+f251.x86_64.rpm
+SRC_URI=https://download.ni.com/ni-linux-desktop/2024/Q2/rpm/ni/el9/ni-visa-passport-pxi-dkms-24.0.0.49403-0+f251.x86_64.rpm
 _eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
-_md5_=3c07461dd870494688ab7ad58b8f10ab
+_md5_=8f20957b86387894bdbf56bb0d28474b
