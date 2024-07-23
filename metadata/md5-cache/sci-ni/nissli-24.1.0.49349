@@ -9,6 +9,6 @@ LICENSE=all-rights-reserved
 RDEPEND=app-arch/rpm >=sci-ni/ni_ssl_bin-24.1.0 app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
-SRC_URI=https://download.ni.com/ni-linux-desktop/2024/Q2/rpm/ni/el9/nissli-24.1.0.49349-0+f197.noarch.rpm
+SRC_URI=https://download.ni.com/ni-linux-desktop/2024/Q3/rpm/ni/el9/nissli-24.1.0.49349-0+f197.noarch.rpm
 _eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
-_md5_=3e699820bc003b54f9706432e07e34e6
+_md5_=fe0dc9235aad5307b5ab4e883c01f7ef

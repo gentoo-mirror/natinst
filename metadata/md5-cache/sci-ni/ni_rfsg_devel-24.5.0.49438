@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=NI-RFSG C Development Support
+EAPI=8
+HOMEPAGE=https://www.ni.com/r/ni-linux-device-drivers
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-arch/rpm >=sci-ni/ni_icp_devel-24.0.0 >=sci-ni/ni_rfsg_libs-24.5.0 >=sci-ni/ni_tclk_devel-24.5.0 >=sci-ni/ni_visa_headers-24.5.0 app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://download.ni.com/ni-linux-desktop/2024/Q3/rpm/ni/el9/ni-rfsg-devel-24.5.0.49438-0+f286.noarch.rpm
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
+_md5_=454af80da16e8ac0d1b1d9d6bd229529
