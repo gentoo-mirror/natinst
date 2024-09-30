@@ -6,9 +6,9 @@ HOMEPAGE=https://yum.repos.intel.com/oneapi/
 INHERIT=rpm-extended
 KEYWORDS=~amd64
 LICENSE=all-rights-reserved
-RDEPEND=app-alternatives/sh app-arch/rpm intel-oneapi/intel_oneapi_common_licensing_202220 >=intel-oneapi/intel_oneapi_common_vars-2022.2.0-r8694 >=intel-oneapi/intel_oneapi_condaindex-2022.2.0-r8695 >=intel-oneapi/intel_oneapi_python-2022.2.0-r8762 app-arch/rpm
+RDEPEND=>=intel-oneapi/intel_oneapi_common_vars-2022.2.0-r8694 >=intel-oneapi/intel_oneapi_condaindex-2022.2.0-r8695 >=intel-oneapi/intel_oneapi_python-2022.2.0-r8762 app-alternatives/sh app-arch/rpm intel-oneapi/intel_oneapi_common_licensing_202220 app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://yum.repos.intel.com/oneapi/intel-oneapi-neural-compressor-1.13.0-8764.x86_64.rpm
 _eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
-_md5_=6f8a5e9bb1a6905e38b1d108fdf6df84
+_md5_=f702a8c80d8850ef17484265518f87cb

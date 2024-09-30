@@ -6,9 +6,9 @@ HOMEPAGE=https://yum.repos.intel.com/oneapi/
 INHERIT=rpm-extended
 KEYWORDS=~amd64
 LICENSE=all-rights-reserved
-RDEPEND=app-arch/rpm >=intel-oneapi/intel_basekit_getting_started-2022.3.1-r17310 >=intel-oneapi/intel_oneapi_advisor-2022.3.1-r15323 intel-oneapi/intel_oneapi_common_licensing_202221 >=intel-oneapi/intel_oneapi_common_vars-2022.2.1-r14969 intel-oneapi/intel_oneapi_dev_utilities_202171 intel-oneapi/intel_oneapi_dpcpp_ct_202221 intel-oneapi/intel_oneapi_dpcpp_debugger_202171 intel-oneapi/intel_oneapi_ippcp_devel_32bit_202162 intel-oneapi/intel_oneapi_ipp_devel_32bit_202162 intel-oneapi/intel_oneapi_mkl_devel_32bit_202221 intel-oneapi/intel_oneapi_tbb_devel_32bit_202171 >=intel-oneapi/intel_oneapi_vtune-2022.4.1-r16919 app-arch/rpm
+RDEPEND=>=intel-oneapi/intel_basekit_getting_started-2022.3.1-r17310 >=intel-oneapi/intel_oneapi_advisor-2022.3.1-r15323 >=intel-oneapi/intel_oneapi_common_vars-2022.2.1-r14969 >=intel-oneapi/intel_oneapi_vtune-2022.4.1-r16919 app-arch/rpm intel-oneapi/intel_oneapi_common_licensing_202221 intel-oneapi/intel_oneapi_dev_utilities_202171 intel-oneapi/intel_oneapi_dpcpp_ct_202221 intel-oneapi/intel_oneapi_dpcpp_debugger_202171 intel-oneapi/intel_oneapi_ipp_devel_32bit_202162 intel-oneapi/intel_oneapi_ippcp_devel_32bit_202162 intel-oneapi/intel_oneapi_mkl_devel_32bit_202221 intel-oneapi/intel_oneapi_tbb_devel_32bit_202171 app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://yum.repos.intel.com/oneapi/intel-basekit-32bit-2022.3.1-2022.3.1-17310.i686.rpm
 _eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
-_md5_=37c920897598c150800c28617c329733
+_md5_=dd1ab40ab31758d1b41c7615a821af59

@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=Intel® oneAPI Rendering Toolkit
+EAPI=8
+HOMEPAGE=https://yum.repos.intel.com/oneapi/
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=>=intel-oneapi/intel_renderkit_env_20240-2024.0.0-r49598 >=intel-oneapi/intel_renderkit_getting_started_20240-2024.0.0-r49598 app-arch/rpm intel-oneapi/intel_oneapi_embree_43 intel-oneapi/intel_oneapi_ispc_121 intel-oneapi/intel_oneapi_oidn_21 intel-oneapi/intel_oneapi_openpgl_05 intel-oneapi/intel_oneapi_openvkl_20 intel-oneapi/intel_oneapi_ospray_30 intel-oneapi/intel_oneapi_ospray_studio_013 intel-oneapi/intel_oneapi_rkutil_19 intel-oneapi/intel_oneapi_tlt_20240 app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://yum.repos.intel.com/oneapi/intel-renderkit-runtime-2024.0-2024.0.0-49598.x86_64.rpm
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
+_md5_=1c2402a15e151cdbae4eb53afbf20cdb

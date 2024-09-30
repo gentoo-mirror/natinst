@@ -6,9 +6,9 @@ HOMEPAGE=https://yum.repos.intel.com/oneapi/
 INHERIT=rpm-extended
 KEYWORDS=~amd64
 LICENSE=all-rights-reserved
-RDEPEND=app-alternatives/sh app-arch/rpm intel-oneapi/intel_oneapi_common_licensing_202300 >=intel-oneapi/intel_oneapi_common_vars-2023.0.0-r25325 >=intel-oneapi/intel_oneapi_condaindex-2023.0.0-r25326 intel-oneapi/intel_oneapi_ipp_32bit_202170 intel-oneapi/intel_oneapi_ipp_common_devel_202170 app-arch/rpm
+RDEPEND=>=intel-oneapi/intel_oneapi_common_vars-2023.0.0-r25325 >=intel-oneapi/intel_oneapi_condaindex-2023.0.0-r25326 app-alternatives/sh app-arch/rpm intel-oneapi/intel_oneapi_common_licensing_202300 intel-oneapi/intel_oneapi_ipp_32bit_202170 intel-oneapi/intel_oneapi_ipp_common_devel_202170 app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://yum.repos.intel.com/oneapi/intel-oneapi-ipp-devel-32bit-2021.7.0-2021.7.0-25396.x86_64.rpm
 _eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
-_md5_=a5706a8c767c1df000a772153237281d
+_md5_=4ab6a3d7564c0be3300956582150f250

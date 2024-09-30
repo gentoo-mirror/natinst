@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=Intel® Distribution for Python*
+EAPI=8
+HOMEPAGE=https://yum.repos.intel.com/oneapi/
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=>=intel-oneapi/intel_oneapi_common_vars-2023.2.0 >=intel-oneapi/intel_oneapi_condaindex-2023.2.0 app-alternatives/sh app-arch/rpm intel-oneapi/intel_oneapi_common_licensing_202320 intel-oneapi/intel_oneapi_dal_202320 intel-oneapi/intel_oneapi_dal_daal4py_202320 intel-oneapi/intel_oneapi_dal_scikit_learn_intelex_202320 intel-oneapi/intel_oneapi_ipp_202190 intel-oneapi/intel_oneapi_mkl_202320 intel-oneapi/intel_oneapi_mpi_2021100 intel-oneapi/intel_oneapi_openmp_202320 intel-oneapi/intel_oneapi_tbb_2021100 app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://yum.repos.intel.com/oneapi/intel-oneapi-python-2023.2.0-49420.x86_64.rpm
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
+_md5_=6238a97b97941495a8096e897e45d14d

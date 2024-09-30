@@ -6,9 +6,9 @@ HOMEPAGE=https://yum.repos.intel.com/oneapi/
 INHERIT=rpm-extended
 KEYWORDS=~amd64
 LICENSE=all-rights-reserved
-RDEPEND=app-alternatives/sh app-arch/rpm >=intel-oneapi/intel_aikit_getting_started-2021.1.0-r935 intel-oneapi/intel_oneapi_common_licensing_202111 >=intel-oneapi/intel_oneapi_common_vars-2021.1.1-r60 intel-oneapi/intel_oneapi_dev_utilities_202111 >=intel-oneapi/intel_oneapi_ilit-1.0.0-r204 >=intel-oneapi/intel_oneapi_model_zoo-1.8.0-r204 >=intel-oneapi/intel_oneapi_python-2021.1.1-r44 >=intel-oneapi/intel_oneapi_pytorch-1.5.0-r726 >=intel-oneapi/intel_oneapi_tensorflow-2.2.0-r219 app-arch/rpm
+RDEPEND=>=intel-oneapi/intel_aikit_getting_started-2021.1.0-r935 >=intel-oneapi/intel_oneapi_common_vars-2021.1.1-r60 >=intel-oneapi/intel_oneapi_ilit-1.0.0-r204 >=intel-oneapi/intel_oneapi_model_zoo-1.8.0-r204 >=intel-oneapi/intel_oneapi_python-2021.1.1-r44 >=intel-oneapi/intel_oneapi_pytorch-1.5.0-r726 >=intel-oneapi/intel_oneapi_tensorflow-2.2.0-r219 app-alternatives/sh app-arch/rpm intel-oneapi/intel_oneapi_common_licensing_202111 intel-oneapi/intel_oneapi_dev_utilities_202111 app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://yum.repos.intel.com/oneapi/intel-aikit-2021.1.0-2021.1.0-935.x86_64.rpm
 _eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
-_md5_=bf1da223775373636cbc404cb2fd5691
+_md5_=6389af8dd2168a7aa7b183d2f4a69ede

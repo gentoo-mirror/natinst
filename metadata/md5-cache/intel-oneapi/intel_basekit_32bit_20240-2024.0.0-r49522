@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=Intel® oneAPI Base Toolkit
+EAPI=8
+HOMEPAGE=https://yum.repos.intel.com/oneapi/
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=>=intel-oneapi/intel_basekit_env_20240-2024.0.0-r49522 >=intel-oneapi/intel_basekit_getting_started_20240-2024.0.0-r49522 >=intel-oneapi/intel_oneapi_advisor-2024.0.0 >=intel-oneapi/intel_oneapi_common_vars-2024.0.0 >=intel-oneapi/intel_oneapi_vtune-2024.0.0 app-arch/rpm intel-oneapi/intel_oneapi_common_licensing_20240 intel-oneapi/intel_oneapi_common_oneapi_vars_20240 intel-oneapi/intel_oneapi_dev_utilities_20240 intel-oneapi/intel_oneapi_dpcpp_ct_20240 intel-oneapi/intel_oneapi_dpcpp_debugger_20240 intel-oneapi/intel_oneapi_ipp_devel_32bit_202110 intel-oneapi/intel_oneapi_ippcp_devel_32bit_20219 intel-oneapi/intel_oneapi_mkl_devel_32bit_20240 intel-oneapi/intel_oneapi_tbb_devel_32bit_202111 intel-oneapi/intel_oneapi_tlt_20240 app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://yum.repos.intel.com/oneapi/intel-basekit-32bit-2024.0-2024.0.0-49522.i686.rpm
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
+_md5_=dbaff324ad11bccd2e13d1f7791e9d4c

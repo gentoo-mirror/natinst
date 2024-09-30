@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=Intel® Fortran Compiler & Intel® Fortran Compiler Classic 2024.2.0 for Linux* for Intel(R) 64
+EAPI=8
+HOMEPAGE=https://yum.repos.intel.com/oneapi/
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=>=intel-oneapi/intel_oneapi_common_vars-2024.2.0 >=intel-oneapi/intel_oneapi_compiler_fortran_common_20242-2024.2.0-r981 >=intel-oneapi/intel_oneapi_compiler_fortran_runtime_20242-2024.2.0-r981 >=intel-oneapi/intel_oneapi_compiler_shared_20242-2024.2.0-r981 app-alternatives/sh app-arch/rpm intel-oneapi/intel_oneapi_common_licensing_20242 intel-oneapi/intel_oneapi_common_oneapi_vars_20242 app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://yum.repos.intel.com/oneapi/intel-oneapi-compiler-fortran-2024.2-2024.2.0-981.x86_64.rpm
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
+_md5_=cb663d623fc76886be183717eefea384
