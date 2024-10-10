@@ -9,6 +9,6 @@ LICENSE=all-rights-reserved
 RDEPEND=app-arch/rpm >=sci-ni/ni_bci_xnet_libs-22.8.0 >=sci-ni/ni_ecumc_notices-22.8.0 app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
-SRC_URI=https://download.ni.com/ni-linux-desktop/2024/Q3/rpm/ni/el9/ni-ecumc-xnet-support-22.8.0.49295-0+f143.noarch.rpm
+SRC_URI=https://download.ni.com/ni-linux-desktop/2024/Q4/rpm/ni/el9/ni-ecumc-xnet-support-22.8.0.49295-0+f143.noarch.rpm
 _eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
-_md5_=77612257d86dbffc25df1a4da998b2f4
+_md5_=9f49929b6d5b75f64c8a002f91880025

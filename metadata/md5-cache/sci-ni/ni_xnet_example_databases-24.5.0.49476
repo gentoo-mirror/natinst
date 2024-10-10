@@ -9,6 +9,6 @@ LICENSE=all-rights-reserved
 RDEPEND=app-alternatives/sh app-arch/rpm >=sci-ni/libnixnet-24.5.0 sys-devel/gcc sys-libs/glibc app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
-SRC_URI=https://download.ni.com/ni-linux-desktop/2024/Q3/rpm/ni/el9/ni-xnet-example-databases-24.5.0.49476-0+f324.noarch.rpm
+SRC_URI=https://download.ni.com/ni-linux-desktop/2024/Q4/rpm/ni/el9/ni-xnet-example-databases-24.5.0.49476-0+f324.noarch.rpm
 _eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
-_md5_=bb6620f42641b44d0a152d5d6758b0f6
+_md5_=f6d51ef31ef409822483e21a70a03370

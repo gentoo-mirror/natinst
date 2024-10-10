@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=Hardware Configuration Utility
+EAPI=8
+HOMEPAGE=https://www.ni.com/r/ni-linux-device-drivers
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-alternatives/sh app-arch/rpm dev-util/desktop-file-utils >=sci-ni/ni_ceip-24.8.0 >=sci-ni/ni_euladepot-24.8.0 >=sci-ni/ni_hwcu_hwsupport-24.8.0 >=sci-ni/ni_hwcu_libs-24.8.0 >=sci-ni/ni_resetniconfig-24.3.0 >=sci-ni/ni_syscfg_runtime-24.8.0 >=sci-ni/ni_wine-24.8.0 >=sci-ni/ni_wine_dotnet_runtime_80-24.8.0 >=sci-ni/ni_wine_platform_support-24.8.0 x11-misc/shared-mime-info x11-misc/xdg-utils app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://download.ni.com/ni-linux-desktop/2024/Q4/rpm/ni/el9/ni-hwcfg-utility-24.8.0.49495-0+f343.x86_64.rpm
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
+_md5_=668cc71c8a133f247c82df7d893fbfcd

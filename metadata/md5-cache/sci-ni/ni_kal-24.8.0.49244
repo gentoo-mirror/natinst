@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=NI kernel abstraction layer
+EAPI=8
+HOMEPAGE=https://www.ni.com/r/ni-linux-device-drivers
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-alternatives/sh app-arch/rpm app-shells/bash >=app-shells/bash-4.1 dev-build/make >=sci-ni/ni_iommu_notice-24.8 sys-devel/binutils sys-devel/gcc sys-kernel/dkms virtual/linux-sources app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://download.ni.com/ni-linux-desktop/2024/Q4/rpm/ni/el9/ni-kal-24.8.0.49244-0+f92.noarch.rpm
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
+_md5_=ce422cd5b878a5b964a4c5c90e682a16
