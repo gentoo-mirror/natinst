@@ -10,5 +10,5 @@ RDEPEND=>=intel-oneapi/intel_iotkit_getting_started-2023.2.0-r49271 >=intel-onea
 RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://yum.repos.intel.com/oneapi/intel-iotkit-runtime-2023.2.0-2023.2.0-49271.x86_64.rpm
-_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	2dad9c45eff5517f32cf1415c9e33400
 _md5_=83f2aa9bde9081071d0e93592b8e5f60

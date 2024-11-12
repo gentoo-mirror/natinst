@@ -10,5 +10,5 @@ RDEPEND=app-arch/rpm app-shells/bash dev-cpp/tbb >=sci-ni/labview_2021_rte-21.1.
 RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://download.ni.com/ni-linux-desktop/2022/Q2/rpm/ni/el8/ni-rfsa-daqmx-libs-21.8.0.49514-0+f362.x86_64.rpm
-_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	2dad9c45eff5517f32cf1415c9e33400
 _md5_=0ec567d33204e4bc73fdd632d3cdec6d

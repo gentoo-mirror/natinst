@@ -10,5 +10,5 @@ RDEPEND=app-alternatives/sh app-arch/rpm app-shells/bash dev-libs/libusb sys-dev
 RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://labs.picotech.com/rc/picoscope7/rpm/x86_64/libpicohrdl-2.0.125-1r5401.x86_64.rpm
-_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	2dad9c45eff5517f32cf1415c9e33400
 _md5_=7bba2ffd64c6c1f98684d7450189d19e

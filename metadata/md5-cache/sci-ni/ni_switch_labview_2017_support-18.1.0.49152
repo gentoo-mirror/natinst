@@ -10,5 +10,5 @@ RDEPEND=app-arch/rpm >=sci-ni/ni_switch_libs-18.1.0-r0
 RESTRICT=bindist mirror
 SLOT=0
 SRC_URI=https://download.ni.com/ni-linux-desktop/2018.07/rpm/ni/el7/ni-switch-labview-2017-support-18.1.0.49152-0+f0.x86_64.rpm
-_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	2dad9c45eff5517f32cf1415c9e33400
 _md5_=0f8490c8c9046f4d742759f390e779bc

@@ -10,5 +10,5 @@ RDEPEND=>=intel-oneapi/intel_oneapi_common_vars-2022.0.0-r59 >=intel-oneapi/inte
 RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://yum.repos.intel.com/oneapi/intel-oneapi-ippcp-devel-32bit-2021.5.1-2021.5.1-462.x86_64.rpm
-_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	bbed2e87e2f48773a571b92f90a9f943
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	2dad9c45eff5517f32cf1415c9e33400
 _md5_=c1d2daf3049f94ea52439b481f412ea5
