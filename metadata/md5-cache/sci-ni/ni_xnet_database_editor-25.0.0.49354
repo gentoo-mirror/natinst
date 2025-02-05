@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=NI-XNET Database Editor
+EAPI=8
+HOMEPAGE=https://www.ni.com/r/ni-linux-device-drivers
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-accessibility/at-spi2-core app-arch/rpm app-text/zotero-bin dev-libs/expat dev-libs/glib dev-libs/nspr dev-libs/nss media-libs/alsa-lib media-libs/mesa media-video/popcorntime-bin net-im/discord net-im/signal-desktop-bin net-im/teams-for-linux net-im/whatsapp-desktop-bin net-im/zoom net-print/cups sci-misc/jupyterlab-desktop-bin sys-apps/dbus sys-apps/systemd sys-devel/gcc sys-libs/glibc x11-libs/cairo x11-libs/gdk-pixbuf x11-libs/gtk+ x11-libs/libdrm x11-libs/libX11 x11-libs/libxcb x11-libs/libXcomposite x11-libs/libXdamage x11-libs/libXext x11-libs/libXfixes x11-libs/libxkbcommon x11-libs/libXrandr x11-libs/pango app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://download.ni.com/ni-linux-desktop/2025/Q1/rpm/ni/el9/ni-xnet-database-editor-25.0.0.49354-0+f202.x86_64.rpm
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	2dad9c45eff5517f32cf1415c9e33400
+_md5_=4a808cd2fe0da383fb56abf1b8b3ea83

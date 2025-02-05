@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install nofetch postinst postrm preinst prerm unpack
+DESCRIPTION=LabVIEW Application and VI Library
+EAPI=8
+HOMEPAGE=https://www.ni.com/r/ni-linux-device-drivers
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-alternatives/sh app-arch/rpm app-shells/bash media-libs/glu media-libs/libglvnd sci-ni/labview_2025_rte >=sci-ni/labview_2025_exe_libs-25.1.0 >=sci-ni/labview_2025_rte-25.1.0 >=sci-ni/ni_ceip-25.0.0 >=sci-ni/ni_help_launcher-25.0.0 sci-ni/ni_openssl3_libs >=sci-ni/ni_service_locator-25.1.0 sys-devel/gcc sys-libs/glibc app-arch/rpm
+RESTRICT=bindist mirror fetch bindist
+SLOT=0
+SRC_URI=ni-labview-2025-core-25.1.0.49404-0+f252.x86_64.rpm
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	2dad9c45eff5517f32cf1415c9e33400
+_md5_=184171613875233fccc14bc442224f9b

@@ -9,6 +9,6 @@ LICENSE=all-rights-reserved
 RDEPEND=app-arch/rpm >=sci-ni/ni_usrp_rio_dkms-24.8.0 >=sci-ni/ni_usrp_rio_libs-24.8.0 app-arch/rpm
 RESTRICT=bindist mirror bindist
 SLOT=0
-SRC_URI=https://download.ni.com/ni-linux-desktop/2024/Q4/rpm/ni/el9/ni-usrp-rio-24.8.0.49267-0+f115.noarch.rpm
+SRC_URI=https://download.ni.com/ni-linux-desktop/2025/Q1/rpm/ni/el9/ni-usrp-rio-24.8.0.49267-0+f115.noarch.rpm
 _eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	2dad9c45eff5517f32cf1415c9e33400
-_md5_=2802cd94762432bb7bc501e19d4cb597
+_md5_=3fbb36da87ae34282857b1c7402fee0a

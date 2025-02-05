@@ -1,0 +1,14 @@
+BDEPEND=app-arch/rpm2targz app-arch/rpm
+DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+DESCRIPTION=NI 583x library package
+EAPI=8
+HOMEPAGE=https://www.ni.com/r/ni-linux-device-drivers
+INHERIT=rpm-extended
+KEYWORDS=~amd64
+LICENSE=all-rights-reserved
+RDEPEND=app-alternatives/sh app-arch/rpm >=sci-ni/labview_2024_rte-24.3.2 >=sci-ni/libniapxipm215-25.0.0 sci-ni/libvisa >=sci-ni/ni_fpga_errors-25.1.0 >=sci-ni/ni_fpga_interface-25.0.0 >=sci-ni/ni_fpga_interface_labview_libs-25.0.0 >=sci-ni/ni_pxiplatformservices-25.0.0 >=sci-ni/ni_rf_vst_583x_cal-25.0.0 >=sci-ni/ni_rf_vst_583x_dkms-25.0.0 >=sci-ni/ni_rf_vst_sysapi_583x-25.0.0 >=sci-ni/ni_rio_sysapi-25.0.0 >=sci-ni/ni_syscfg_runtime-25.0.0 >=sci-ni/ni_tclk_libs-25.0.0 sys-devel/gcc sys-libs/glibc app-arch/rpm
+RESTRICT=bindist mirror bindist
+SLOT=0
+SRC_URI=https://download.ni.com/ni-linux-desktop/2025/Q1/rpm/ni/el9/ni-rf-vst-583x-libs-25.0.0.49468-0+f316.x86_64.rpm
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	2dad9c45eff5517f32cf1415c9e33400
+_md5_=4c124b3f141a35be3e03182a6fd356a8
