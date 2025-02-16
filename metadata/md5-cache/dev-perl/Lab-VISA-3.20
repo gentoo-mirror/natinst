@@ -12,5 +12,5 @@ RDEPEND=dev-lang/perl sci-ni/ni_visa sci-ni/ni_visa_devel sci-ni/ni_visa_headers
 RESTRICT=test
 SLOT=0
 SRC_URI=https://github.com/lab-measurement/Lab-VISA/archive/lab-visa-3.20.tar.gz
-_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	perl-functions	1863acf0982afafc67797e3ce7275b4c	toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	perl-module	25ca2ff8e7971cb7f817f0bda4be696d
+_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	perl-functions	1863acf0982afafc67797e3ce7275b4c	toolchain-funcs	6afdb6107430c1832ca7e16aacbf8fa1	multilib	b2a329026f2e404e9e371097dda47f96	perl-module	25ca2ff8e7971cb7f817f0bda4be696d
 _md5_=f503d170d321d90227f777f7a4d81425
