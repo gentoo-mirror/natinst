@@ -1,7 +1,7 @@
 dev-perl/Lab-VISA 3.20: Perl interface to National Instrument's VISA library
-dev-python/PyVISA 1.13.0 1.14.1: Python VISA bindings for GPIB, RS232, and USB instruments
-dev-python/PyVISA-py 0.6.2 0.7.1: Python VISA bindings for GPIB, RS232, and USB instruments
-dev-python/PyVISA-sim 0.5.1 0.6.0: Simulated backend for PyVISA implementing TCPIP, GPIB, RS232, and USB resources
+dev-python/PyVISA 1.14.1: Python VISA bindings for GPIB, RS232, and USB instruments
+dev-python/PyVISA-py 0.7.1: Python VISA bindings for GPIB, RS232, and USB instruments
+dev-python/PyVISA-sim 0.6.0: Simulated backend for PyVISA implementing TCPIP, GPIB, RS232, and USB resources
 dev-python/gpib-ctypes 0.3.0: Cross-platform Python bindings for the NI GPIB and linux-gpib C interfaces
 dev-python/hightime 0.2.1: Yoctosecond precision replacements for the datetime datetime and timedelta types
 dev-python/nidaqmx 0.6.1 0.6.3 0.6.5: NI-DAQmx Python API
