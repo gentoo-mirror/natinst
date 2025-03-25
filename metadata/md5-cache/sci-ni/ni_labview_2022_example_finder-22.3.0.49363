@@ -1,14 +1,17 @@
-BDEPEND=app-arch/rpm2targz app-arch/rpm
-DEFINED_PHASES=compile install nofetch postinst postrm preinst prerm unpack
+BDEPEND=app-arch/rpm2targz dev-util/pahole sys-apps/kmod[tools] modules-sign? ( dev-libs/openssl virtual/pkgconfig ) virtual/pkgconfig
+DEFINED_PHASES=compile config install nofetch postinst postrm preinst prerm setup unpack
+DEPEND=virtual/linux-sources
 DESCRIPTION=NI Example Finder core files
 EAPI=8
 HOMEPAGE=https://www.ni.com/r/ni-linux-device-drivers
+IDEPEND=sys-apps/kmod[tools] dkms? ( sys-kernel/dkms ) app-arch/rpm
 INHERIT=rpm-extended
+IUSE=dist-kernel modules-compress modules-sign +strip dkms +dkms
 KEYWORDS=~amd64
 LICENSE=all-rights-reserved
-RDEPEND=app-arch/rpm >=sci-ni/ni_example_finder_base-22.3.0 >=sci-ni/ni_labview_2022_example_finder_lib-22.3.0 app-arch/rpm
+RDEPEND=app-arch/rpm >=sci-ni/ni_example_finder_base-22.3.0 >=sci-ni/ni_labview_2022_example_finder_lib-22.3.0 sys-apps/kmod[tools] dist-kernel? ( virtual/dist-kernel:= ) dkms? ( sys-kernel/dkms )
 RESTRICT=bindist mirror fetch bindist
 SLOT=0
 SRC_URI=ni-labview-2022-example-finder-22.3.0.49363-0+f211.noarch.rpm
-_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	2dad9c45eff5517f32cf1415c9e33400
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	mount-boot-utils	2551bac1a772f4b6beacb494a750ae92	toolchain-funcs	6afdb6107430c1832ca7e16aacbf8fa1	multilib	b2a329026f2e404e9e371097dda47f96	dist-kernel-utils	8fd483ccdf8e7fc0919507c0c7c273e4	edo	367e103a74bf77e6a8da7894d999fa3c	linux-info	ea4122ba1d8791a12b78e53f9510a2e3	multiprocessing	1e32df7deee68372153dca65f4a7c21f	linux-mod-r1	84b53048ef3f4ee4f1b3dce65d43580e	dkms	45e54f3e32951e9d7226424fe4c2e37c	udev	f3d9a4376ebd22131726a68e1a0a058f	rpm-extended	968af4e992b0bcefe9825e89ad7200fd
 _md5_=7c86bc18a5fec0d76a7e011a1b906a9e

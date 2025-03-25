@@ -1,14 +1,17 @@
-BDEPEND=app-arch/rpm2targz
-DEFINED_PHASES=compile install postinst postrm preinst prerm unpack
+BDEPEND=app-arch/rpm2targz dev-util/pahole sys-apps/kmod[tools] modules-sign? ( dev-libs/openssl virtual/pkgconfig ) virtual/pkgconfig
+DEFINED_PHASES=compile config install postinst postrm preinst prerm setup unpack
+DEPEND=virtual/linux-sources
 DESCRIPTION=NI timing and synchronization shared library
-EAPI=7
+EAPI=8
 HOMEPAGE=https://www.ni.com/linux/
+IDEPEND=sys-apps/kmod[tools] dkms? ( sys-kernel/dkms ) app-arch/rpm
 INHERIT=rpm-extended
+IUSE=dist-kernel modules-compress modules-sign +strip dkms +dkms
 KEYWORDS=~amd64
 LICENSE=all-rights-reserved
-RDEPEND=app-arch/rpm app-shells/bash sci-ni/nicurli >=sci-ni/ni_euladepot-20.1.0-r0 >=sci-ni/ni_pxiplatformservices-20.0-r0 >=sci-ni/ni_roco-20.2-r0 >=sci-ni/ni_sysapi-20.0-r0 >=sci-ni/ni_syscfg_runtime-20.0-r0
-RESTRICT=bindist mirror
+RDEPEND=app-arch/rpm app-shells/bash sci-ni/nicurli >=sci-ni/ni_euladepot-20.1.0-r0 >=sci-ni/ni_pxiplatformservices-20.0-r0 >=sci-ni/ni_roco-20.2-r0 >=sci-ni/ni_sysapi-20.0-r0 >=sci-ni/ni_syscfg_runtime-20.0-r0 sys-apps/kmod[tools] dist-kernel? ( virtual/dist-kernel:= ) dkms? ( sys-kernel/dkms )
+RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://download.ni.com/ni-linux-desktop/2020.07/rpm/ni/el8/libnisync1-20.1.0.49152-0+f0.x86_64.rpm
-_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	rpm-extended	2dad9c45eff5517f32cf1415c9e33400
-_md5_=e7b0639f219d618c40b1d3384ebfedf6
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	mount-boot-utils	2551bac1a772f4b6beacb494a750ae92	toolchain-funcs	6afdb6107430c1832ca7e16aacbf8fa1	multilib	b2a329026f2e404e9e371097dda47f96	dist-kernel-utils	8fd483ccdf8e7fc0919507c0c7c273e4	edo	367e103a74bf77e6a8da7894d999fa3c	linux-info	ea4122ba1d8791a12b78e53f9510a2e3	multiprocessing	1e32df7deee68372153dca65f4a7c21f	linux-mod-r1	84b53048ef3f4ee4f1b3dce65d43580e	dkms	45e54f3e32951e9d7226424fe4c2e37c	udev	f3d9a4376ebd22131726a68e1a0a058f	rpm-extended	968af4e992b0bcefe9825e89ad7200fd
+_md5_=2c8937284d74cb6cf78ce9fb453902c1
