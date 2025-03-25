@@ -2,3 +2,48 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+app-emulation/virtualbox:dtrace - Install dtrace Extension Pack.
+app-emulation/virtualbox:headless - Build without any graphic frontend.
+app-emulation/virtualbox:lvm - Build VBoxVolInfo that needs devicemapper from sys-fs/lvm2.
+app-emulation/virtualbox:pax-kernel - Apply patch needed for pax enabled kernels.
+app-emulation/virtualbox:sdk - Enable building of SDK.
+app-emulation/virtualbox:udev - Controls installation of special USB udev rules.
+app-emulation/virtualbox:vboxwebsrv - Build and install the VirtualBox webservice.
+app-emulation/virtualbox:vde - Support for VDE networking via net-misc/vde.
+app-emulation/virtualbox:vmmraw - Enable 32-bit support on a 64-bit kernel.
+app-laptop/tp_smapi:hdaps - Install a compatible HDAPS module
+media-video/droidcam:gtk - Build the dev-cpp/gtkmm:3.0 client.
+net-firewall/ipt_netflow:natevents - Netflow NAT translation events (NEL) support
+net-misc/r8125:multi-tx-q - Enable Multiple Tx Queue ("RSS" for sending)
+net-misc/r8125:ptp - Enable Precision Time Protocol support
+net-misc/r8125:rss - Enable Receive Side Scaling (RSS)
+net-misc/r8125:use-firmware - Support automatic firmware loading
+net-misc/r8152:center-tap-short - Enable support for center tap short
+net-misc/r8168:down-speed-100 - Reduce speed to 100 Mbps in WOL-only modes
+net-misc/r8168:eee - Enable Energy-Efficient Ethernet by default
+net-misc/r8168:giga-lite - Enable support of 'Giga Lite' (500 Mbps over just two CAT5 pairs) by default
+net-misc/r8168:hw-acceleration - Enable use of hardware acceleration by default. HW acceleration may cause problems on Realtek NICs!
+net-misc/r8168:multi-tx-q - Enable Multiple Tx Queue ('RSS' for sending)
+net-misc/r8168:rss - Enable Receive Side Scaling (RSS)
+net-misc/r8168:s5-keep-mac - Keep set MAC address in S5 (switched off) by default
+net-misc/r8168:use-firmware - Enable support for automatic firmware loading
+net-misc/r8168:wol - Enable Wake-On-LAN by default
+net-misc/r8168:wol-s5 - Enable start from S5 (switched off) by Wake-On-LAN by default
+net-vpn/ovpn-dco:debug - Enable debug output in dmesg
+net-vpn/wireguard-modules:debug - Enable verbose debug reporting in dmesg of various WireGuard peer and device information.
+net-vpn/wireguard-modules:module - Compile the actual WireGuard kernel module. Most certainly you want this enabled, unless you're doing something strange.
+net-vpn/wireguard-modules:module-src - Install the module source code to /usr/src, in case you like building kernel modules yourself.
+net-wireless/aic8800:firmware - Install device firmware
+sys-apps/openrazer:client - Build the OpenRazer daemon client
+sys-apps/openrazer:daemon - Build the OpenRazer daemon service
+sys-apps/smc-sum:module - Install Supermicro's kernel module.
+sys-fs/loop-aes:extra-ciphers - Enable extra ciphers
+sys-fs/loop-aes:keyscrub - Protects the encryption key in memory but takes more cpu resources
+sys-fs/zfs-kmod:dist-kernel-cap - Prevents upgrading to an unsupported kernel version when combined with USE=dist-kernel
+sys-fs/zfs-kmod:rootfs - Pull dependencies and check kernel options required for root-on-zfs
+sys-process/atop:modules - Build netatop kernel module and install netatopd daemon.
+x11-drivers/nvidia-drivers:kernel-open - Use the open source variant of the drivers (Turing/Ampere+ GPUs only, aka GTX 1650+ -- recommended with >=560.xx drivers if usable and it may be required for 50xx Blackwell+ GPUs)
+x11-drivers/nvidia-drivers:persistenced - Install the persistence daemon for keeping devices state when unused (e.g. for headless)
+x11-drivers/nvidia-drivers:powerd - Install the NVIDIA dynamic boost support daemon (only useful with specific laptops, ignore if unsure)
+x11-drivers/nvidia-drivers:static-libs - Install the XNVCtrl static library for accessing sensors and other features
+x11-drivers/nvidia-drivers:tools - Install additional tools such as nvidia-settings

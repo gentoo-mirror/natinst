@@ -1,3 +1,13 @@
+app-admin/ryzen_smu 0.1.5: Kernel driver for AMD Ryzen's System Management Unit
+app-antivirus/lkrg 0.9.9 9999: Linux Kernel Runtime Guard
+app-emulation/vendor-reset 0.1.1_pre20221205-r2 9999: Linux kernel vendor specific hardware reset module
+app-emulation/virtualbox 9999: Family of powerful x86 virtualization products for enterprise and home use
+app-emulation/virtualbox-guest-additions 7.1.6-r1: VirtualBox kernel modules and user-space tools for Gentoo guests
+app-emulation/virtualbox-modules 7.1.6: Kernel Modules for Virtualbox
+app-laptop/framework-laptop-kmod 0_pre20240506: Kernel module to expose more Framework Laptop stuff
+app-laptop/tp_smapi 0.44: IBM ThinkPad SMAPI BIOS driver
+app-laptop/tuxedo-drivers 4.11.4-r1: Kernel modules for TUXEDO laptops
+dev-debug/scap-driver 0.19.0: Kernel module for dev-debug/sysdig
 dev-perl/Lab-VISA 3.20: Perl interface to National Instrument's VISA library
 dev-python/PyVISA 1.14.1: Python VISA bindings for GPIB, RS232, and USB instruments
 dev-python/PyVISA-py 0.7.1: Python VISA bindings for GPIB, RS232, and USB instruments
@@ -26,6 +36,7 @@ dev-python/nixnet 0.3.2: NI-XNET Python API
 dev-python/npTDMS 1.4.0 1.6.0 1.6.1: Python module for reading TDMS files produced by LabView
 dev-python/stringparser 0.7: Easy to use pattern matching and information extraction
 dev-python/thermocouples_reference 0.20: Thermocouple emf reference functions
+games-util/xpadneo 0.9.7 9999: Advanced Linux Driver for Xbox One Wireless Controller
 intel-oneapi/intel_aikit 2021.1.0-r935 2021.2.0-r1101 2021.3.0-r1370 2021.4.0-r1460 2022.1.1-r106 2022.1.2-r135 2022.2.0-r231 2022.3.0-r8775 2022.3.1-r20890 2023.0.0-r26100 2023.1.0-r31760 2023.1.1-r48862 2023.2.0-r48995: Intel® AI Analytics Toolkit
 intel-oneapi/intel_aikit_202110 2021.1.0-r935: Intel® AI Analytics Toolkit
 intel-oneapi/intel_aikit_202120 2021.2.0-r1101: Intel® oneAPI AI Analytics Toolkit
@@ -1767,8 +1778,21 @@ intel-oneapi/intel_renderkit_runtime_32bit_202320 2023.2.0-r49365: Intel® oneAP
 intel-oneapi/intel_renderkit_runtime_32bit_20240 2024.0.0-r49598: Intel® oneAPI Rendering Toolkit
 intel-oneapi/intel_renderkit_runtime_32bit_20241 2024.1.0-r738: Intel® oneAPI Rendering Toolkit
 intel-oneapi/opaepac_sign 1.0.3-r1 1.0.4-r3: opae.pac_sign provides Python classes for interfacing withOPAE PACSign tool
+media-video/droidcam 2.1.3: Use your phone or tablet as webcam with a v4l device driver and app
+media-video/v4l2loopback 0.13.1 9999: v4l2 loopback device whose output is its own input
+net-firewall/ipset 7.23: IPset tool for iptables, successor to ippool
+net-firewall/ipt_netflow 2.6-r1 9999: Netflow iptables module
+net-firewall/rtsp-conntrack 5.3-r2: RTSP conntrack module for Netfilter
+net-misc/r8125 9.014.01: r8125 vendor driver for Realtek RTL8125 PCI-E NICs
+net-misc/r8152 2.19.2: r8152 driver for Realtek USB FE / GBE / 2.5G Gaming Ethernet Family Controller
+net-misc/r8168 8.055.00: r8168 driver for Realtek 8111/8168 PCI-E NICs
+net-vpn/ovpn-dco 0.2.20241216 9999: OpenVPN Data Channel Offload in the linux kernel
+net-vpn/wireguard-modules 1.0.20220627-r2: Simple yet fast and modern VPN that utilizes state-of-the-art cryptography
+net-wireless/aic8800 1.0.5: aic8800 driver for AICSemi AIC8800/8801/8800DC/8800DW/8800FC Wifi/Bluetooth
+net-wireless/broadcom-sta 6.30.223.271-r8: Broadcom's IEEE 802.11a/b/g/n hybrid Linux device driver
 sci-libs/comedi_calibrate 5.1: COMEDI calibration utility
 sci-libs/comedilib 0.12.0: The Linux Control and Measurement Device Interface Library
+sci-libs/linux-gpib-modules 4.3.6 9999: Kernel modules for GPIB (IEEE 488.2) hardware
 sci-libs/uldaq 1.2.1: MCC Universal Library for Linux
 sci-ni/labview_2014_rte 14.0.1-r2 14.0.1-r4: LabVIEW Run-Time Engine
 sci-ni/labview_2015_rte 15.0.1-r8: LabVIEW Run-Time Engine
@@ -2667,3 +2691,15 @@ sci-pt/libusbpt104 2.0.17-r1 2.0.120-r1 2.0.122-r1 2.0.123-r1 2.0.124-r1 2.0.125
 sci-pt/libusbtc08 2.0.17-r1 2.0.120-r1 2.0.122-r1 2.0.123-r1 2.0.124-r1 2.0.125-r1 2.0.127-r1 2.0.128-r1 2.0.129-r1 2.0.130-r1 2.0.139-r1: Pico Technology USB TC-08 Linux driver
 sci-pt/picomono 4.6.2.16-r1: Runtime and libraries limited to those required to run PicoScope 6 on Linux
 sci-pt/picoscope 6.13.7-r4 6.14.17-r4 6.14.23-r4 6.14.36-r4 6.14.44-r4 6.14.47-r4 6.14.54-r4 6.14.61-r4 6.14.62-r4 7.0.102-r1 7.0.116-r1 7.1.2-r1 7.1.9-r1 7.1.11-r1 7.1.12-r1 7.1.13-r1 7.1.15-r1 7.1.16-r1 7.1.17-r1 7.1.18-r1 7.1.19-r1 7.1.20-r1 7.1.21-r1 7.1.29-r1: PicoScope GTK
+sys-apps/openrazer 3.10.1: Drivers and user-space daemon to control Razer devices on GNU/Linux
+sys-apps/smc-sum 2.14.0.20240215: Updates the BIOS and IPMI firmware and system settings on Supermicro mainboards
+sys-cluster/knem 1.1.4_p20250126 9999: High-Performance Intra-Node MPI Communication
+sys-fs/linux-apfs-rw 0.3.10: APFS module for linux, with experimental write support
+sys-fs/loop-aes 3.8e: Linux kernel module to encrypt disk partitions with AES cipher
+sys-fs/vhba 20240917: Virtual (SCSI) Host Bus Adapter kernel module for the CDEmu suite
+sys-fs/zfs-kmod 2.3.1 9999: Linux ZFS kernel module for sys-fs/zfs
+sys-kernel/cryptodev 1.13-r1 9999: device that allows access to Linux kernel cryptographic drivers
+sys-power/acpi_call 1.2.2-r1 9999: A linux kernel module that enables calls to ACPI
+sys-power/bbswitch 0.8_p20211129-r1: Toggle discrete NVIDIA Optimus graphics card
+sys-process/atop 2.11.0-r1: Resource-specific view of processes
+x11-drivers/nvidia-drivers 570.133.07: NVIDIA Accelerated Graphics Driver
