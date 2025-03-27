@@ -10,7 +10,7 @@ app-laptop/tuxedo-drivers 4.11.4-r1: Kernel modules for TUXEDO laptops
 dev-debug/scap-driver 0.19.0: Kernel module for dev-debug/sysdig
 dev-perl/Lab-VISA 3.20: Perl interface to National Instrument's VISA library
 dev-python/PyVISA 1.14.1: Python VISA bindings for GPIB, RS232, and USB instruments
-dev-python/PyVISA-py 0.7.1: Python VISA bindings for GPIB, RS232, and USB instruments
+dev-python/PyVISA-py 0.7.1 0.7.2: Python VISA bindings for GPIB, RS232, and USB instruments
 dev-python/PyVISA-sim 0.6.0: Simulated backend for PyVISA implementing TCPIP, GPIB, RS232, and USB resources
 dev-python/gpib-ctypes 0.3.0: Cross-platform Python bindings for the NI GPIB and linux-gpib C interfaces
 dev-python/hightime 0.2.1: Yoctosecond precision replacements for the datetime datetime and timedelta types
