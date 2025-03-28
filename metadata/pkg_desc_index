@@ -3,7 +3,7 @@ app-antivirus/lkrg 0.9.9 9999: Linux Kernel Runtime Guard
 app-emulation/vendor-reset 0.1.1_pre20221205-r2 9999: Linux kernel vendor specific hardware reset module
 app-emulation/virtualbox 9999: Family of powerful x86 virtualization products for enterprise and home use
 app-emulation/virtualbox-guest-additions 7.1.6-r1: VirtualBox kernel modules and user-space tools for Gentoo guests
-app-emulation/virtualbox-modules 7.1.6: Kernel Modules for Virtualbox
+app-emulation/virtualbox-modules 7.1.4-r1 7.1.6: Kernel Modules for Virtualbox
 app-laptop/framework-laptop-kmod 0_pre20240506: Kernel module to expose more Framework Laptop stuff
 app-laptop/tp_smapi 0.44: IBM ThinkPad SMAPI BIOS driver
 app-laptop/tuxedo-drivers 4.11.4-r1: Kernel modules for TUXEDO laptops
