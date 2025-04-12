@@ -1792,7 +1792,7 @@ net-wireless/aic8800 1.0.5: aic8800 driver for AICSemi AIC8800/8801/8800DC/8800D
 net-wireless/broadcom-sta 6.30.223.271-r8: Broadcom's IEEE 802.11a/b/g/n hybrid Linux device driver
 sci-libs/comedi_calibrate 5.1: COMEDI calibration utility
 sci-libs/comedilib 0.12.0: The Linux Control and Measurement Device Interface Library
-sci-libs/linux-gpib-modules 4.3.6 9999: Kernel modules for GPIB (IEEE 488.2) hardware
+sci-libs/linux-gpib 4.3.6-r200 9999: Driver library for GPIB (IEEE 488.2) hardware
 sci-libs/uldaq 1.2.1: MCC Universal Library for Linux
 sci-ni/labview_2014_rte 14.0.1-r2 14.0.1-r4: LabVIEW Run-Time Engine
 sci-ni/labview_2015_rte 15.0.1-r8: LabVIEW Run-Time Engine
