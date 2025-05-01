@@ -13,26 +13,13 @@ dev-python/PyVISA 1.14.1: Python VISA bindings for GPIB, RS232, and USB instrume
 dev-python/PyVISA-py 0.7.1 0.7.2: Python VISA bindings for GPIB, RS232, and USB instruments
 dev-python/PyVISA-sim 0.6.0: Simulated backend for PyVISA implementing TCPIP, GPIB, RS232, and USB resources
 dev-python/gpib-ctypes 0.3.0: Cross-platform Python bindings for the NI GPIB and linux-gpib C interfaces
-dev-python/hightime 0.2.1: Yoctosecond precision replacements for the datetime datetime and timedelta types
 dev-python/nidaqmx 0.6.1 0.6.3 0.6.5: NI-DAQmx Python API
-dev-python/nidcpower 1.4.3: NI-DCPower Python API
-dev-python/nidigital 1.4.3: NI-Digital Pattern Driver Python API
-dev-python/nidmm 1.4.3: NI-DMM Python API
-dev-python/nifake 1.4.3: NI fake Python API
-dev-python/nifgen 1.4.3: NI-FGEN Python API
 dev-python/niflexlogger-automation 0.1.1 0.1.3 0.1.4: Modify, configure and control NI FlexLogger
 dev-python/nifpga 20.0.0 22.0.0: API for interacting with NI's LabVIEW FPGA Devices
-dev-python/nimodinst 1.4.3: NI-ModInst Python API
-dev-python/niscope 1.4.3: NI-SCOPE Python API
-dev-python/nise 1.4.3: NI Switch Executive Python API
 dev-python/nisemi 1.0.0: NI's Semiconductor Device Control Add-On Python API
-dev-python/niswitch 1.4.3: NI-SWITCH Python API
 dev-python/nisystemlink-clients 0.1.3 1.0.1: Python API for interacting with a SystemLink Server
 dev-python/nisystemlink-configuration 0.1.0: Command-line utility for managing SystemLink Server configurations
-dev-python/nitclk 1.4.3: NI-TClk Python API
-dev-python/nitsm 0.2.0: TestStand Semiconductor Module Python API
 dev-python/niveristand 2.0.1 2.0.2: NI VeriStand Python API
-dev-python/nixnet 0.3.2: NI-XNET Python API
 dev-python/npTDMS 1.4.0 1.6.0 1.6.1: Python module for reading TDMS files produced by LabView
 dev-python/stringparser 0.7: Easy to use pattern matching and information extraction
 dev-python/thermocouples_reference 0.20: Thermocouple emf reference functions
