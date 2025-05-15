@@ -2684,6 +2684,7 @@ sys-apps/smc-sum 2.14.0.20240215: Updates the BIOS and IPMI firmware and system 
 sys-cluster/knem 1.1.4_p20250126 9999: High-Performance Intra-Node MPI Communication
 sys-fs/linux-apfs-rw 0.3.10: APFS module for linux, with experimental write support
 sys-fs/loop-aes 3.8e: Linux kernel module to encrypt disk partitions with AES cipher
+sys-fs/scoutfs 1.24 9999: Utilties and kernel module for the ScoutFS File System
 sys-fs/vhba 20240917: Virtual (SCSI) Host Bus Adapter kernel module for the CDEmu suite
 sys-fs/zfs-kmod 2.3.1 9999: Linux ZFS kernel module for sys-fs/zfs
 sys-kernel/cryptodev 1.13-r1 9999: device that allows access to Linux kernel cryptographic drivers
