@@ -9,8 +9,9 @@ INHERIT=dkms systemd
 IUSE=dist-kernel modules-compress modules-sign +strip +modules +initramfs dkms
 KEYWORDS=~amd64
 LICENSE=GPL-2
-RDEPEND=modules? ( sys-apps/kmod[tools] dist-kernel? ( virtual/dist-kernel:= ) ) dkms? ( sys-kernel/dkms )
+RDEPEND=dev-libs/openssl:= sys-apps/util-linux modules? ( sys-apps/kmod[tools] dist-kernel? ( virtual/dist-kernel:= ) ) dkms? ( sys-kernel/dkms )
+RESTRICT=test
 SLOT=0
 SRC_URI=https://github.com/versity/scoutfs/archive/refs/tags/v1.24.tar.gz -> scoutfs-1.24.tar.gz
 _eclasses_=mount-boot-utils	2551bac1a772f4b6beacb494a750ae92	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	dist-kernel-utils	8fd483ccdf8e7fc0919507c0c7c273e4	edo	a5e294016aa84979fcb2459749eb80b2	linux-info	ea4122ba1d8791a12b78e53f9510a2e3	multiprocessing	1e32df7deee68372153dca65f4a7c21f	linux-mod-r1	84b53048ef3f4ee4f1b3dce65d43580e	dkms	b7045bfd900d2d4e0218b0c137d19631	systemd	a964c0cbe818b5729da1dbfcee5be861
-_md5_=dbeaadb9ff5275593f863f5fbeea9ce5
+_md5_=03b43fb5e94927f15291e88c3d9318bd
