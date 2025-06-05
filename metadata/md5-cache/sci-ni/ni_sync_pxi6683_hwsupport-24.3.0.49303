@@ -13,5 +13,5 @@ RDEPEND=app-alternatives/sh app-arch/rpm >=sci-ni/ni_euladepot-24.3.0 >=sci-ni/n
 RESTRICT=bindist mirror bindist
 SLOT=0
 SRC_URI=https://download.ni.com/ni-linux-desktop/2024/Q3/rpm/ni/el9/ni-sync-pxi6683-hwsupport-24.3.0.49303-0+f151.el9.x86_64.rpm
-_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	a07e59be6cf48ed85e624a41e8a7a832	mount-boot-utils	2551bac1a772f4b6beacb494a750ae92	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	dist-kernel-utils	8fd483ccdf8e7fc0919507c0c7c273e4	edo	a5e294016aa84979fcb2459749eb80b2	linux-info	ea4122ba1d8791a12b78e53f9510a2e3	multiprocessing	1e32df7deee68372153dca65f4a7c21f	linux-mod-r1	0672353d015c41183b44636fff47b806	dkms	b7045bfd900d2d4e0218b0c137d19631	udev	f3d9a4376ebd22131726a68e1a0a058f	rpm-extended	ab456410bb60abf7e5338af6a4bc68cb
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	a07e59be6cf48ed85e624a41e8a7a832	mount-boot-utils	2551bac1a772f4b6beacb494a750ae92	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	dist-kernel-utils	8fd483ccdf8e7fc0919507c0c7c273e4	edo	a5e294016aa84979fcb2459749eb80b2	linux-info	497f53bf03541c9ee8d103e895ba7b3d	multiprocessing	1e32df7deee68372153dca65f4a7c21f	linux-mod-r1	135d5ef515d24ca714c6737e6ffca84b	dkms	b7045bfd900d2d4e0218b0c137d19631	udev	f3d9a4376ebd22131726a68e1a0a058f	rpm-extended	ab456410bb60abf7e5338af6a4bc68cb
 _md5_=d50e89233b2e7aa6525f06be618aba40
