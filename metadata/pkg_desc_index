@@ -11,19 +11,10 @@ app-laptop/tuxedo-drivers 4.11.4-r1: Kernel modules for TUXEDO laptops
 dev-debug/scap-driver 0.19.0: Kernel module for dev-debug/sysdig
 dev-perl/Lab-VISA 3.20: Perl interface to National Instrument's VISA library
 dev-python/PyVISA 1.14.1: Python VISA bindings for GPIB, RS232, and USB instruments
-dev-python/PyVISA-py 0.7.1 0.7.2: Python VISA bindings for GPIB, RS232, and USB instruments
+dev-python/PyVISA-py 0.7.2: Python VISA bindings for GPIB, RS232, and USB instruments
 dev-python/PyVISA-sim 0.6.0: Simulated backend for PyVISA implementing TCPIP, GPIB, RS232, and USB resources
 dev-python/gpib-ctypes 0.3.0: Cross-platform Python bindings for the NI GPIB and linux-gpib C interfaces
-dev-python/nidaqmx 0.6.1 0.6.3 0.6.5: NI-DAQmx Python API
-dev-python/niflexlogger-automation 0.1.1 0.1.3 0.1.4: Modify, configure and control NI FlexLogger
-dev-python/nifpga 20.0.0 22.0.0: API for interacting with NI's LabVIEW FPGA Devices
-dev-python/nisemi 1.0.0: NI's Semiconductor Device Control Add-On Python API
-dev-python/nisystemlink-clients 0.1.3 1.0.1: Python API for interacting with a SystemLink Server
-dev-python/nisystemlink-configuration 0.1.0: Command-line utility for managing SystemLink Server configurations
-dev-python/niveristand 2.0.1 2.0.2: NI VeriStand Python API
-dev-python/npTDMS 1.4.0 1.6.0 1.6.1: Python module for reading TDMS files produced by LabView
 dev-python/stringparser 0.7: Easy to use pattern matching and information extraction
-dev-python/thermocouples_reference 0.20: Thermocouple emf reference functions
 games-util/xpadneo 0.9.7 9999: Advanced Linux Driver for Xbox One Wireless Controller
 intel-oneapi/intel_aikit 2021.1.0-r935 2021.2.0-r1101 2021.3.0-r1370 2021.4.0-r1460 2022.1.1-r106 2022.1.2-r135 2022.2.0-r231 2022.3.0-r8775 2022.3.1-r20890 2023.0.0-r26100 2023.1.0-r31760 2023.1.1-r48862 2023.2.0-r48995: Intel® AI Analytics Toolkit
 intel-oneapi/intel_aikit_202110 2021.1.0-r935: Intel® AI Analytics Toolkit
